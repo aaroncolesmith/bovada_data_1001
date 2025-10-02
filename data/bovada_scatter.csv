@@ -43,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 03:46:46.547504,La Liga - Spain La Liga 2025/26 - To Be Relegated,Valencia,0.04169999999999999,0.1667,0.125
 2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.04099999999999998,0.3077,0.2667
 2025-10-02 03:46:46.524712,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.04099999999999998,0.3077,0.2667
+2025-10-02 13:36:53.841222,American League - MLB 2025 American League - To Reach ALCS,SEA Mariners,0.03980000000000006,0.6552,0.6154
 2025-10-02 03:46:46.697495,League One - England League One 2025/26 - Top 6 Finish,Bradford City,0.0393,0.6226,0.5833
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Slavia Prague,0.03889999999999999,0.1818,0.1429
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Manchester City,0.03640000000000004,0.4,0.3636
@@ -54,10 +55,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 10:33:25.002913,National League - England National League 2025/26 - To Be Promoted,Carlisle United,0.0348,0.3333,0.2985
 2025-10-02 03:46:46.691279,League One - England League One 2025/26 - To Finish Bottom,Rotherham United,0.033300000000000024,0.2,0.1667
 2025-10-02 11:26:06.373326,Boxing Lines - Steve Collins Jr vs Javier Santana - To Win the Bout,Javier Santana,0.031799999999999995,0.4762,0.4444
+2025-10-02 13:36:53.841222,American League - MLB 2025 American League - To Reach ALCS,BOS Red Sox,0.031200000000000006,0.2353,0.2041
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Monaco,0.030299999999999994,0.6667,0.6364
 2025-10-02 08:37:41.103546,Cut Lines - Max Homa - Make Cut / Miss Cut - Max Homa,Miss,0.030299999999999994,0.3333,0.303
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Galatasaray,0.0294,0.0588,0.0294
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Patty Tavatanakit,0.029399999999999996,0.0435,0.0141
+2025-10-02 13:36:54.208968,Scores - 1st Round Score - Max Homa - 1st Round Score ,Under 69.5,0.028900000000000037,0.5744,0.5455
 2025-10-02 10:33:24.996269,National League - England National League 2025/26 - Winner,Carlisle United,0.028799999999999992,0.1538,0.125
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Erling Haaland (Man City),0.028799999999999992,0.1538,0.125
 2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Blackburn Rovers,0.028799999999999992,0.1538,0.125
@@ -73,7 +76,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 10:33:25.002913,National League - England National League 2025/26 - To Be Promoted,Scunthorpe United,0.025300000000000003,0.1429,0.1176
 2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,0.024999999999999994,0.125,0.1
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Swansea City,0.024999999999999994,0.125,0.1
+2025-10-02 13:36:54.120511,Sanderson Farms - 2/3 Balls - 1st Round 3 Balls - D. Walker / J. Dufner / R. Hisatsune - 1st Round 3 Balls,Ryo Hisatsune,0.024399999999999977,0.5122,0.4878
 2025-10-02 10:33:24.996269,National League - England National League 2025/26 - Winner,Scunthorpe United,0.024299999999999995,0.0769,0.0526
+2025-10-02 13:36:53.837631,American League - MLB 2025 American League - ALCS Exact Result,BOS Red Sox beat SEA Mariners,0.0242,0.0909,0.0667
 2025-10-02 03:46:46.547504,La Liga - Spain La Liga 2025/26 - To Be Relegated,Girona,0.023800000000000043,0.5238,0.5
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Southampton,0.023799999999999988,0.5,0.4762
 2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Sheffield United,0.02310000000000001,0.1,0.0769
@@ -91,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 12:56:24.951302,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Germany,0.02049999999999999,0.1538,0.1333
 2025-10-02 03:46:46.694380,League One - England League One 2025/26 - Top 2 Finish,Bradford City,0.020100000000000007,0.25,0.2299
 2025-10-02 03:46:46.685017,League One - England League One 2025/26 - To Be Promoted,Stevenage,0.020100000000000007,0.25,0.2299
-2025-10-02 03:46:47.843283,AFC North - AFC North 2025-26 - AFC North Winner,Cleveland Browns,0.019099999999999992,0.0667,0.0476
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Kairat Almaty,0.019099999999999992,0.0667,0.0476
+2025-10-02 03:46:47.843283,AFC North - AFC North 2025-26 - AFC North Winner,Cleveland Browns,0.019099999999999992,0.0667,0.0476
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Paris Saint-Germain,0.019000000000000017,0.2857,0.2667
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,FC Barcelona,0.019000000000000017,0.2857,0.2667
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Chelsea,0.018900000000000028,0.4444,0.4255
@@ -103,6 +108,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Arsenal,0.016699999999999993,0.2667,0.25
 2025-10-02 12:56:25.328615,Euro Cup - Euro Cup 2025/26 - Outright,Aris,0.016600000000000004,0.0833,0.0667
 2025-10-02 05:31:15.940519,Alfred Dunhill - 2/3 Balls - 1st Round 2 Balls - B. Koepka v M. Penge - 1st Round 2 Balls,Marco Penge,0.016100000000000003,0.6078,0.5917
+2025-10-02 13:36:53.837631,American League - MLB 2025 American League - ALCS Exact Result,BOS Red Sox beat DET Tigers,0.0157,0.0435,0.0278
+2025-10-02 13:36:53.837631,American League - MLB 2025 American League - ALCS Exact Result,BOS Red Sox beat CLE Guardians,0.0157,0.0435,0.0278
 2025-10-02 10:33:25.006064,National League - England National League 2025/26 - Top 3 Finish,Halifax Town,0.015300000000000001,0.0588,0.0435
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,PSV Eindhoven,0.015300000000000001,0.0476,0.0323
 2025-10-02 07:29:00.009609,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Blake Snell (LAD),0.015300000000000001,0.0476,0.0323
@@ -110,16 +117,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 03:46:46.517805,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,0.015100000000000002,0.1818,0.1667
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Bayern Munich,0.015100000000000002,0.1818,0.1667
 2025-10-02 03:46:46.688151,League One - England League One 2025/26 - To Be Relegated,Peterborough United,0.014800000000000035,0.6226,0.6078
+2025-10-02 13:36:53.837631,American League - MLB 2025 American League - ALCS Exact Result,SEA Mariners beat BOS Red Sox,0.01440000000000001,0.1053,0.0909
 2025-10-02 11:26:04.679871,Championship - England Championship 2025/26 - Top Goalscorer,Jack  Clarke,0.014100000000000001,0.0526,0.0385
-2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.014099999999999998,0.0385,0.0244
 2025-10-02 03:46:47.960015,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.014099999999999998,0.0385,0.0244
+2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.014099999999999998,0.0385,0.0244
 2025-10-02 12:56:25.328615,Euro Cup - Euro Cup 2025/26 - Outright,Ratiopharm Ulm,0.014099999999999994,0.0667,0.0526
 2025-10-02 03:46:46.550444,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Sociedad,0.013999999999999999,0.0909,0.0769
 2025-10-02 03:46:46.678497,League One - England League One 2025/26 - Winner,Stevenage,0.013999999999999999,0.0909,0.0769
-2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.013899999999999996,0.125,0.1111
 2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Hull City,0.013899999999999996,0.125,0.1111
 2025-10-02 07:29:00.009609,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.013899999999999996,0.125,0.1111
 2025-10-02 03:46:48.114528,American League - MLB 2025 American League - American League Winner,Boston Red Sox,0.013899999999999996,0.125,0.1111
+2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.013899999999999996,0.125,0.1111
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Leicester City,0.013800000000000034,0.3774,0.3636
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bayern Munich,0.013800000000000034,0.3774,0.3636
 2025-10-02 07:29:00.009609,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Teoscar Hernandez (LAD),0.0131,0.0476,0.0345
@@ -129,11 +137,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 10:33:25.006064,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,0.011199999999999995,0.0588,0.0476
 2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,0.011099999999999999,0.1111,0.1
 2025-10-02 03:46:46.691279,League One - England League One 2025/26 - To Finish Bottom,Exeter City,0.010899999999999993,0.1538,0.1429
-2025-10-02 03:46:46.618878,UEFA Champions League - UEFA Champions League 2025/26 - Winner,FC Barcelona,0.010899999999999993,0.1538,0.1429
 2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
+2025-10-02 03:46:46.618878,UEFA Champions League - UEFA Champions League 2025/26 - Winner,FC Barcelona,0.010899999999999993,0.1538,0.1429
 2025-10-02 03:46:46.618878,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Paris Saint-Germain,0.010899999999999993,0.1538,0.1429
-2025-10-02 07:29:00.009609,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Yoshinobu Yamamoto (LAD),0.010700000000000001,0.0385,0.0278
 2025-10-02 09:30:48.213164,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Zecheng Dou,0.010700000000000001,0.0385,0.0278
+2025-10-02 07:29:00.009609,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Yoshinobu Yamamoto (LAD),0.010700000000000001,0.0385,0.0278
+2025-10-02 13:36:53.855434,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),0.010600000000000002,0.0323,0.0217
 2025-10-02 03:46:48.843587,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 69.5,0.010599999999999998,0.4651,0.4545
 2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Portsmouth,0.010399999999999993,0.2326,0.2222
 2025-10-02 03:46:48.114528,American League - MLB 2025 American League - American League Winner,Toronto Blue Jays,0.010299999999999976,0.2667,0.2564
@@ -141,39 +150,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,0.0102,0.0769,0.0667
 2025-10-02 03:46:46.550444,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.010099999999999998,0.5556,0.5455
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Joao Pedro (Chelsea),-0.010100000000000001,0.0244,0.0345
-2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Monaco,-0.0102,0.0667,0.0769
 2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Bristol City,-0.0102,0.0667,0.0769
-2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Millwall,-0.0102,0.0667,0.0769
+2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Monaco,-0.0102,0.0667,0.0769
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Sheffield United,-0.0102,0.0667,0.0769
+2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Millwall,-0.0102,0.0667,0.0769
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Auston Kim,-0.0107,0.0025,0.0132
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Leona Maguire,-0.0108,0.0044,0.0152
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,-0.01100000000000001,0.5238,0.5348
-2025-10-02 03:46:47.814645,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Baltimore Ravens,-0.011099999999999999,0.1,0.1111
-2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Wrexham,-0.011099999999999999,0.1,0.1111
-2025-10-02 03:46:46.618878,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Real Madrid,-0.011099999999999999,0.1,0.1111
 2025-10-02 12:56:26.531503,Boxing Lines - Steve Collins Jr vs Javier Santana - To Win the Bout,Javier Santana,-0.011099999999999999,0.4651,0.4762
-2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Norwich City,-0.011199999999999995,0.0476,0.0588
-2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Bristol City,-0.011199999999999995,0.0476,0.0588
-2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Ousmane Dembele (PSG),-0.011199999999999995,0.0476,0.0588
+2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Wrexham,-0.011099999999999999,0.1,0.1111
+2025-10-02 03:46:47.814645,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Baltimore Ravens,-0.011099999999999999,0.1,0.1111
+2025-10-02 03:46:46.618878,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Real Madrid,-0.011099999999999999,0.1,0.1111
+2025-10-02 13:36:53.841222,American League - MLB 2025 American League - To Reach ALCS,DET Tigers,-0.011099999999999999,0.2299,0.241
 2025-10-02 03:46:46.685017,League One - England League One 2025/26 - To Be Promoted,Plymouth Argyle,-0.011199999999999995,0.0476,0.0588
+2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Ousmane Dembele (PSG),-0.011199999999999995,0.0476,0.0588
+2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Bristol City,-0.011199999999999995,0.0476,0.0588
+2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Norwich City,-0.011199999999999995,0.0476,0.0588
+2025-10-02 13:36:53.841222,American League - MLB 2025 American League - To Reach ALCS,TOR Blue Jays,-0.011600000000000055,0.5122,0.5238
 2025-10-02 07:29:00.004015,World Series MVP - World Series MVP 2025 - World Series MVP,Eugenio Suarez (SEA),-0.012100000000000001,0.0123,0.0244
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Jenny Bae,-0.012199999999999999,0.001,0.0132
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Ina Yoon,-0.012400000000000001,0.004,0.0164
 2025-10-02 03:46:46.694380,League One - England League One 2025/26 - Top 2 Finish,Luton Town,-0.012699999999999989,0.3509,0.3636
-2025-10-02 03:46:46.694380,League One - England League One 2025/26 - Top 2 Finish,Stockport County,-0.012899999999999995,0.1538,0.1667
-2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,-0.012899999999999995,0.1538,0.1667
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Stoke City,-0.012899999999999995,0.1538,0.1667
+2025-10-02 03:46:46.521847,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,-0.012899999999999995,0.1538,0.1667
+2025-10-02 03:46:46.694380,League One - England League One 2025/26 - Top 2 Finish,Stockport County,-0.012899999999999995,0.1538,0.1667
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Monaco,-0.013,0.0066,0.0196
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Atalanta,-0.013,0.0066,0.0196
 2025-10-02 05:31:15.128576,World Series Winner - World Series 2025 - Winner - World Series Winner,Philadelphia Phillies,-0.013000000000000012,0.1739,0.1869
-2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Viktor Gyokeres (Arsenal),-0.0131,0.0345,0.0476
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Somi Lee,-0.0131,0.0345,0.0476
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Raphinha (FC Barcelona),-0.0131,0.0345,0.0476
+2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Viktor Gyokeres (Arsenal),-0.0131,0.0345,0.0476
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Marcus Rashford (FC Barcelona),-0.0131,0.0345,0.0476
+2025-10-02 13:36:54.120511,Sanderson Farms - 2/3 Balls - 1st Round 3 Balls - D. Walker / J. Dufner / R. Hisatsune - 1st Round 3 Balls,Jason Dufner,-0.01319999999999999,0.25,0.2632
 2025-10-02 12:56:24.951302,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Spain,-0.013600000000000001,0.2941,0.3077
-2025-10-02 03:46:46.530840,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.013899999999999996,0.1111,0.125
-2025-10-02 03:46:48.114528,American League - MLB 2025 American League - American League Winner,Detroit Tigers,-0.013899999999999996,0.1111,0.125
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Hull City,-0.013899999999999996,0.1111,0.125
+2025-10-02 03:46:48.114528,American League - MLB 2025 American League - American League Winner,Detroit Tigers,-0.013899999999999996,0.1111,0.125
+2025-10-02 03:46:46.530840,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.013899999999999996,0.1111,0.125
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Inter Milan,-0.013999999999999999,0.0769,0.0909
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Hyo Joo Kim,-0.014099999999999994,0.0526,0.0667
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Hugo Ekitike (Liverpool),-0.014099999999999998,0.0244,0.0385
@@ -181,39 +193,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 12:56:24.947810,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Tottenham Hotspur,-0.014199999999999999,0.0152,0.0294
 2025-10-02 05:31:15.128576,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,-0.015,0.1026,0.1176
 2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Birmingham City,-0.015100000000000002,0.1667,0.1818
-2025-10-02 11:26:04.679871,Championship - England Championship 2025/26 - Top Goalscorer,George Hirst,-0.015300000000000001,0.0435,0.0588
 2025-10-02 03:46:46.517805,Championship - England Championship 2025/26 - Winner 2025/26,Leicester City,-0.015300000000000001,0.0435,0.0588
+2025-10-02 11:26:04.679871,Championship - England Championship 2025/26 - Top Goalscorer,George Hirst,-0.015300000000000001,0.0435,0.0588
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,-0.016,0.0057,0.0217
 2025-10-02 12:56:25.328615,Euro Cup - Euro Cup 2025/26 - Outright,Türk Telekom,-0.016600000000000004,0.0667,0.0833
 2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,Boreham Wood,-0.016699999999999937,0.5833,0.6
-2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Liverpool,-0.016699999999999993,0.25,0.2667
 2025-10-02 03:46:46.528087,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,-0.016699999999999993,0.25,0.2667
+2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Liverpool,-0.016699999999999993,0.25,0.2667
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Millwall,-0.016699999999999993,0.25,0.2667
 2025-10-02 03:46:46.697495,League One - England League One 2025/26 - Top 6 Finish,Luton Town,-0.016700000000000048,0.7333,0.75
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Stoke City,-0.017600000000000005,0.3333,0.3509
+2025-10-02 13:36:54.120511,Sanderson Farms - 2/3 Balls - 1st Round 3 Balls - D. Walker / J. Dufner / R. Hisatsune - 1st Round 3 Balls,Danny Walker,-0.017600000000000005,0.3333,0.3509
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Marseille,-0.017800000000000003,0.0066,0.0244
-2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Blackburn Rovers,-0.0179,0.125,0.1429
 2025-10-02 12:56:25.328615,Euro Cup - Euro Cup 2025/26 - Outright,Manresa,-0.0179,0.125,0.1429
-2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
+2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Blackburn Rovers,-0.0179,0.125,0.1429
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Norwich City,-0.018099999999999998,0.0588,0.0769
+2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
 2025-10-02 12:56:24.822465,Championship - England Championship 2025/26 - Top 2 Finish,Sheffield United,-0.018099999999999998,0.0588,0.0769
-2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Benfica,-0.018200000000000004,0.0294,0.0476
-2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.018200000000000004,0.0294,0.0476
-2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Swansea City,-0.018200000000000004,0.0294,0.0476
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Cole Palmer (Chelsea),-0.018200000000000004,0.0294,0.0476
+2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Benfica,-0.018200000000000004,0.0294,0.0476
+2025-10-02 12:56:24.819519,Championship - England Championship 2025/26 - To Be Relegated,Swansea City,-0.018200000000000004,0.0294,0.0476
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.018200000000000004,0.0294,0.0476
+2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.018200000000000004,0.0294,0.0476
 2025-10-02 12:56:24.944571,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Real Madrid,-0.01820000000000002,0.1818,0.2
 2025-10-02 03:46:46.517805,Championship - England Championship 2025/26 - Winner 2025/26,Sheffield United,-0.0189,0.0196,0.0385
-2025-10-02 10:33:24.996269,National League - England National League 2025/26 - Winner,Rochdale,-0.019000000000000017,0.2667,0.2857
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Birmingham City,-0.019000000000000017,0.2667,0.2857
 2025-10-02 10:33:25.006064,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,-0.019000000000000017,0.2667,0.2857
+2025-10-02 10:33:24.996269,National League - England National League 2025/26 - Winner,Rochdale,-0.019000000000000017,0.2667,0.2857
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Jennifer Kupcho,-0.019899999999999998,0.0079,0.0278
 2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.02020000000000001,0.0909,0.1111
 2025-10-02 11:26:04.679871,Championship - England Championship 2025/26 - Top Goalscorer,Adam Armstrong,-0.0203,0.0385,0.0588
 2025-10-02 05:31:15.940519,Alfred Dunhill - 2/3 Balls - 1st Round 2 Balls - B. Koepka v M. Penge - 1st Round 2 Balls,Brooks Koepka,-0.021699999999999997,0.4545,0.4762
-2025-10-02 03:46:46.697495,League One - England League One 2025/26 - Top 6 Finish,Cardiff City,-0.022199999999999998,0.7778,0.8
-2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Ipswich Town,-0.022199999999999998,0.7778,0.8
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Norwich City,-0.022199999999999998,0.2,0.2222
+2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Ipswich Town,-0.022199999999999998,0.7778,0.8
+2025-10-02 03:46:46.697495,League One - England League One 2025/26 - Top 6 Finish,Cardiff City,-0.022199999999999998,0.7778,0.8
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Middlesbrough,-0.02260000000000001,0.3774,0.4
 2025-10-02 10:33:25.006064,National League - England National League 2025/26 - Top 3 Finish,Rochdale,-0.022600000000000064,0.6,0.6226
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Millwall,-0.02310000000000001,0.0769,0.1
@@ -240,15 +253,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Juventus,-0.027999999999999997,0.1538,0.1818
 2025-10-02 10:33:25.009188,National League - England National League 2025/26 - Top 7 Finish,York City,-0.028299999999999992,0.8948,0.9231
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.029299999999999993,0.0476,0.0769
-2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Sheffield United,-0.029899999999999982,0.2,0.2299
 2025-10-02 10:33:24.996269,National League - England National League 2025/26 - Winner,York City,-0.029899999999999982,0.2,0.2299
+2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Sheffield United,-0.029899999999999982,0.2,0.2299
 2025-10-02 03:46:48.847927,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 69.5,-0.030399999999999983,0.5348,0.5652
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Charley Hull,-0.030699999999999998,0.0526,0.0833
 2025-10-02 11:26:06.373326,Boxing Lines - Steve Collins Jr vs Javier Santana - To Win the Bout,Steve Collins Jr,-0.03090000000000004,0.5917,0.6226
 2025-10-02 08:37:41.103546,Cut Lines - Max Homa - Make Cut / Miss Cut - Max Homa,Make,-0.031400000000000095,0.7333,0.7647
 2025-10-02 03:46:46.685017,League One - England League One 2025/26 - To Be Promoted,Cardiff City,-0.03179999999999994,0.5238,0.5556
-2025-10-02 03:46:46.517805,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.0321,0.0588,0.0909
 2025-10-02 12:56:24.931470,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Mohamed Salah (Liverpool),-0.0321,0.0588,0.0909
+2025-10-02 03:46:46.517805,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.0321,0.0588,0.0909
 2025-10-02 10:33:26.349722,Boxing Lines - Steve Collins Jr vs Javier Santana - To Win the Bout,Steve Collins Jr,-0.03259999999999996,0.6226,0.6552
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Galatasaray,-0.03270000000000001,0.0149,0.0476
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,FC Barcelona,-0.033399999999999985,0.8333,0.8667
@@ -256,6 +269,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 12:56:24.934965,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Pafos FC,-0.034100000000000005,0.0909,0.125
 2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Club Brugge,-0.035699999999999996,0.0476,0.0833
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Jin Hee Im,-0.036,0.0025,0.0385
+2025-10-02 13:36:54.208968,Scores - 1st Round Score - Max Homa - 1st Round Score ,Over 69.5,-0.03600000000000003,0.4878,0.5238
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Chisato Iwai,-0.036199999999999996,0.0164,0.0526
 2025-10-02 11:26:04.683405,Championship - England Championship 2025/26 - To Be Promoted,Ipswich Town,-0.036900000000000044,0.5464,0.5833
 2025-10-02 09:30:48.206931,LOTTE Championship - LOTTE Championship - Winner,Brooke Henderson,-0.0392,0.0196,0.0588
@@ -289,8 +303,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 03:46:46.547504,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Oviedo,-0.07940000000000003,0.4444,0.5238
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Inter Milan,-0.08330000000000004,0.5,0.5833
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bodø/Glimt,-0.09029999999999999,0.2222,0.3125
-2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Tottenham Hotspur,-0.0922,0.3333,0.4255
 2025-10-02 12:56:24.938146,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Olympiakos,-0.0922,0.3333,0.4255
+2025-10-02 12:56:24.941361,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Tottenham Hotspur,-0.0922,0.3333,0.4255
 2025-10-02 11:26:04.679871,Championship - England Championship 2025/26 - Top Goalscorer,Josh Sargent,-0.09620000000000001,0.1538,0.25
 2025-10-02 03:46:48.055810,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.10109999999999997,0.4444,0.5455
 2025-10-02 12:56:24.825431,Championship - England Championship 2025/26 - Top 6 Finish,Birmingham City,-0.10710000000000003,0.4167,0.5238
