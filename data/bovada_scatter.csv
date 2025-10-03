@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Louis Oosthuizen,0.0456,0.0588,0.0132
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Manchester City,0.044399999999999995,0.4444,0.4
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,PSV Eindhoven,0.0353,0.2353,0.2
-2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Matthew Jordan,0.0336,0.0435,0.0099
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Grant Forrest,0.0336,0.0435,0.0099
+2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Matthew Jordan,0.0336,0.0435,0.0099
 2025-10-02 23:26:50.430980,UEFA Europa Conference League - UEFA Conference League 2025/26 - Winner,Fiorentina,0.033399999999999985,0.1667,0.1333
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Robert MacIntyre,0.03330000000000001,0.1,0.0667
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Jacob Skov Olesen,0.0306,0.0385,0.0079
@@ -28,15 +28,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 17:28:17.580552,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Inter Milan,0.029299999999999993,0.0769,0.0476
 2025-10-02 23:26:50.430980,UEFA Europa Conference League - UEFA Conference League 2025/26 - Winner,Mainz,0.027800000000000005,0.1111,0.0833
 2025-10-03 02:00:27.708854,To Make the Playoffs - To Make the Playoffs 2025-26 - Indiana Pacers - To Make the Playoffs,No,0.026499999999999968,0.5917,0.5652
-2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Tyrrell Hatton,0.024999999999999994,0.125,0.1
 2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Atalanta,0.024999999999999994,0.125,0.1
+2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Tyrrell Hatton,0.024999999999999994,0.125,0.1
 2025-10-02 17:28:17.567594,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Ajax,0.024299999999999995,0.0769,0.0526
 2025-10-02 17:28:17.567594,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Benfica,0.0233,0.0385,0.0152
 2025-10-03 02:00:27.552934,Detroit Pistons - Regular Season Wins 2025-26 - Detroit Pistons - Regular Season Wins,Over 46.5,0.022600000000000064,0.5348,0.5122
 2025-10-02 22:30:27.028777,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Panathinaikos,0.021999999999999964,0.3077,0.2857
-2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Chelsea,0.020699999999999996,0.4651,0.4444
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Liverpool,0.020699999999999996,0.4651,0.4444
-2025-10-02 15:31:32.039210,Boxing Lines - Aston Brown vs Paul Kean - To Win the Bout,Aston Brown,0.01849999999999996,0.9709,0.9524
+2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Chelsea,0.020699999999999996,0.4651,0.4444
 2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Galatasaray,0.018099999999999998,0.0769,0.0588
 2025-10-02 23:26:50.430980,UEFA Europa Conference League - UEFA Conference League 2025/26 - Winner,Strasbourg,0.0179,0.1429,0.125
 2025-10-02 23:26:50.450386,League One - England League One 2025/26 - Winner,Bolton Wanderers,0.0179,0.1429,0.125
@@ -79,14 +78,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 17:28:17.580552,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Real Madrid,-0.02049999999999999,0.1333,0.1538
 2025-10-03 02:00:27.552934,Detroit Pistons - Regular Season Wins 2025-26 - Detroit Pistons - Regular Season Wins,Under 46.5,-0.02079999999999993,0.5348,0.5556
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Chelsea,-0.021500000000000075,0.6154,0.6369
-2025-10-02 17:28:17.580552,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Arsenal,-0.021999999999999964,0.2857,0.3077
 2025-10-02 17:28:17.580552,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Paris Saint-Germain,-0.021999999999999964,0.2857,0.3077
-2025-10-02 15:31:32.039210,Boxing Lines - Aston Brown vs Paul Kean - To Win the Bout,Paul Kean,-0.02310000000000001,0.0769,0.1
+2025-10-02 17:28:17.580552,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Arsenal,-0.021999999999999964,0.2857,0.3077
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Kairat Almaty,-0.0232,0.0435,0.0667
 2025-10-03 02:00:27.708854,To Make the Playoffs - To Make the Playoffs 2025-26 - Indiana Pacers - To Make the Playoffs,Yes,-0.023799999999999988,0.4762,0.5
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Inter Milan,-0.023799999999999988,0.4762,0.5
-2025-10-02 22:30:27.032322,Euroleague - Euroleague 2025/26 - Regular Season MVP,Theo Maledon,-0.0242,0.0667,0.0909
 2025-10-02 23:26:50.430980,UEFA Europa Conference League - UEFA Conference League 2025/26 - Winner,AZ Alkmaar,-0.0242,0.0667,0.0909
+2025-10-02 22:30:27.032322,Euroleague - Euroleague 2025/26 - Regular Season MVP,Theo Maledon,-0.0242,0.0667,0.0909
 2025-10-02 22:30:27.028777,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Olympiacos,-0.025099999999999983,0.2381,0.2632
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Patrick Reed,-0.0262,0.0123,0.0385
 2025-10-02 22:30:27.032322,Euroleague - Euroleague 2025/26 - Regular Season MVP,Sasha  Vezenkov,-0.030299999999999994,0.3333,0.3636
@@ -94,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-02 23:26:50.430980,UEFA Europa Conference League - UEFA Conference League 2025/26 - Winner,Rayo Vallecano,-0.034100000000000005,0.0909,0.125
 2025-10-02 17:28:17.567594,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,PSV Eindhoven,-0.03420000000000001,0.0769,0.1111
 2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,PSV Eindhoven,-0.035300000000000005,0.0123,0.0476
-2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Arsenal,-0.03770000000000007,0.8571,0.8948
 2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Paris Saint-Germain,-0.03770000000000007,0.8571,0.8948
+2025-10-02 17:28:17.574132,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Arsenal,-0.03770000000000007,0.8571,0.8948
 2025-10-02 22:30:27.032322,Euroleague - Euroleague 2025/26 - Regular Season MVP,Evan Fournier,-0.038299999999999994,0.0526,0.0909
 2025-10-02 23:26:52.261277,Alfred Dunhill - Alfred Dunhill - Winner,Rasmus Neergaard-Petersen,-0.039099999999999996,0.0044,0.0435
 2025-10-02 17:28:17.570778,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Qarabag FK,-0.040899999999999936,0.5652,0.6061
