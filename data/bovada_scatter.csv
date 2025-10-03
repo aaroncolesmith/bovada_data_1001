@@ -1,49 +1,32 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Youmin Hwang,0.3644,0.3922,0.0278
-2025-10-03 07:28:45.398049,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,0.24910000000000004,0.5348,0.2857
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Midtjylland,0.1607,0.2857,0.125
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Aston Villa,0.1524,0.2857,0.1333
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Dinamo Zagreb,0.141,0.3077,0.1667
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,NY Yankees beat DET Tigers,0.11510000000000001,0.1739,0.0588
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Crystal Palace,0.11070000000000002,0.3774,0.2667
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Lyon,0.10270000000000001,0.6491,0.5464
-2025-10-03 07:28:45.660932,National League - MLB 2025 National League - National League Winner,Chicago Cubs,0.09980000000000001,0.2174,0.1176
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,SEA Mariners beat NY Yankees,0.09720000000000001,0.2222,0.125
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Lille,0.09350000000000003,0.4444,0.3509
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,DET Tigers beat NY Yankees,0.0898,0.1333,0.0435
+2025-10-03 20:32:01.454158,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Pat Carroll,0.08689999999999998,0.9,0.8131
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Stevenage,0.08330000000000004,0.5833,0.5
-2025-10-03 07:28:45.664318,National League - MLB 2025 National League - NLCS Exact Result,LA Dodgers beat CHI Cubs,0.08240000000000001,0.2,0.1176
 2025-10-03 12:56:05.531774,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,0.0817,0.8039,0.7222
-2025-10-03 07:28:45.548488,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,0.0797,0.3922,0.3125
-2025-10-03 07:28:45.579697,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,Yes,0.07879999999999998,0.8462,0.7674
-2025-10-03 07:28:45.664318,National League - MLB 2025 National League - NLCS Exact Result,CHI Cubs beat LA Dodgers,0.0762,0.1429,0.0667
-2025-10-03 07:28:45.664318,National League - MLB 2025 National League - NLCS Exact Result,PHI Phillies beat CHI Cubs,0.07579999999999999,0.1667,0.0909
-2025-10-03 07:28:45.680134,Winning State - World Series 2025 - Winning State - Winning State,New York (NY),0.07579999999999999,0.1667,0.0909
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Aaron Judge (NYY),0.07579999999999999,0.1667,0.0909
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Braga,0.06970000000000004,0.3774,0.3077
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,DET Tigers beat TOR Blue Jays,0.066,0.1429,0.0769
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,NY Yankees beat SEA Mariners,0.0655,0.1905,0.125
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Basel,0.0635,0.2857,0.2222
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Doncaster Rovers,0.0635,0.2857,0.2222
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Akie Iwai,0.0635,0.2857,0.2222
-2025-10-03 07:28:45.685358,Winning Division - World Series 2025 - Winning Division - Winning Division,NL Central,0.06129999999999999,0.25,0.1887
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Aston Villa,0.057699999999999974,0.3077,0.25
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.05679999999999999,0.1818,0.125
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. New York Yankees,0.056400000000000006,0.1333,0.0769
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,TOR Blue Jays beat DET Tigers,0.056400000000000006,0.1333,0.0769
 2025-10-03 09:29:56.576781,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Deportivo Riestra,0.05559999999999998,0.1667,0.1111
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. New York Yankees,0.05519999999999999,0.0909,0.0357
-2025-10-03 07:28:45.664318,National League - MLB 2025 National League - NLCS Exact Result,CHI Cubs beat PHI Phillies,0.053599999999999995,0.125,0.0714
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Lyon,0.052000000000000005,0.1429,0.0909
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Fenerbahce,0.04999999999999999,0.25,0.2
-2025-10-03 07:28:45.680134,Winning State - World Series 2025 - Winning State - Winning State,Illinois (IL),0.048600000000000004,0.1111,0.0625
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Schwarber (PHI),0.048600000000000004,0.1111,0.0625
-2025-10-03 12:56:05.709009,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Irakli Ghvinjilia,0.04760000000000009,0.7143,0.6667
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Aston Villa,0.04760000000000009,0.7143,0.6667
+2025-10-03 12:56:05.709009,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Irakli Ghvinjilia,0.04760000000000009,0.7143,0.6667
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Sturm Graz,0.0475,0.0769,0.0294
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Ferencvárosi TC,0.0474,0.0909,0.0435
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Lille,0.0474,0.0909,0.0435
-2025-10-03 07:28:45.583135,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,Yes,0.04620000000000002,0.5917,0.5455
 2025-10-03 14:32:14.820913,NBA Championship Winner - Championship 2025-26 - Champion,Oklahoma City Thunder,0.04349999999999998,0.3175,0.274
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Cal Raleigh (SEA),0.042899999999999994,0.1429,0.1
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Porto,0.04269999999999999,0.1538,0.1111
@@ -51,16 +34,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:56.573737,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Tigre,0.0384,0.0769,0.0385
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Vladimir Guerrero Jr. (TOR),0.038299999999999994,0.0909,0.0526
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Rotherham United,0.037800000000000056,0.5833,0.5455
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat New York Yankees,0.0374,0.0526,0.0152
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Luton Town,0.036800000000000055,0.7701,0.7333
-2025-10-03 07:28:45.674902,Winning League - World Series 2025 - Winning League - Winning League,American League,0.035999999999999976,0.5122,0.4762
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Stevenage,0.03570000000000001,0.2857,0.25
 2025-10-03 12:56:05.700401,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Brandon Bushaw,0.03479999999999994,0.6,0.5652
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),0.0347,0.0625,0.0278
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Philadelphia Phillies vs. New York Yankees,0.03420000000000001,0.1111,0.0769
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Stevenage,0.033300000000000024,0.2,0.1667
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,George Springer (TOR),0.03219999999999999,0.0667,0.0345
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,New York Yankees to beat Chicago Cubs,0.032100000000000004,0.05,0.0179
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Braga,0.0321,0.0909,0.0588
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. New York Yankees,0.0321,0.0909,0.0588
 2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Vélez Sarsfield,0.031799999999999995,0.1429,0.1111
@@ -69,49 +49,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Jessica Porvasnik,0.031000000000000003,0.0323,0.0013
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,FC Midtjylland,0.0294,0.0588,0.0294
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Seattle Mariners,0.029299999999999993,0.0769,0.0476
-2025-10-03 07:28:45.484444,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,No,0.02870000000000006,0.8113,0.7826
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Bryce Harper (PHI),0.0286,0.1,0.0714
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Tarik Skubal (DET),0.028000000000000004,0.0476,0.0196
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Mookie Betts (LAD),0.027999999999999997,0.0625,0.0345
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,New York Yankees to beat Los Angeles Dodgers,0.027900000000000008,0.0714,0.0435
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Doncaster Rovers,0.027800000000000005,0.1111,0.0833
-2025-10-03 07:28:45.456262,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.02779999999999999,0.25,0.2222
 2025-10-03 10:33:37.335234,Boxing Lines - Bradley Wilcox vs Jordan Mcnaughton - To Win the Bout,Bradley Wilcox,0.027700000000000058,0.8214,0.7937
 2025-10-03 15:30:47.548167,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs B. Hossler - 2nd Round Match-Ups,Beau Hossler,0.027700000000000058,0.5833,0.5556
-2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Nelly Korda,0.0267,0.1176,0.0909
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),0.0267,0.1176,0.0909
+2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Nelly Korda,0.0267,0.1176,0.0909
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Lincoln City,0.02560000000000001,0.3333,0.3077
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Detroit Tigers,0.025599999999999998,0.0435,0.0179
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Real Betis,0.025599999999999956,0.6,0.5744
-2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Young Boys,0.025300000000000003,0.1429,0.1176
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,SK Brann,0.025300000000000003,0.1429,0.1176
+2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Young Boys,0.025300000000000003,0.1429,0.1176
 2025-10-03 11:26:04.069523,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - T. Kanaya / A. Rozner / M. La Sasso - 2nd Round 3-Balls,Antoine Rozner,0.024599999999999955,0.3636,0.339
-2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.024,0.0625,0.0385
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Philadelphia Phillies to beat New York Yankees,0.024,0.0625,0.0385
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Tarik Skubal (DET),0.024,0.0625,0.0385
-2025-10-03 11:26:03.988359,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - B. Martin / A. Smalley / D. Redman - 2nd Round 3-Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
+2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.024,0.0625,0.0385
 2025-10-03 11:26:04.077943,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J. Paul / S. Fisk / B. Drewitt - 2nd Round 3-Balls,Steven Fisk,0.023799999999999988,0.5,0.4762
+2025-10-03 11:26:03.988359,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - B. Martin / A. Smalley / D. Redman - 2nd Round 3-Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Eugenio Suarez (SEA),0.023200000000000002,0.0476,0.0244
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Seattle Mariners,0.023200000000000002,0.0476,0.0244
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Genk,0.023200000000000002,0.0476,0.0244
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat New York Yankees,0.0232,0.0667,0.0435
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Detroit Tigers,0.023099999999999996,0.0588,0.0357
-2025-10-03 14:32:16.456032,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,0.022600000000000064,0.5348,0.5122
 2025-10-03 15:30:47.520445,Round Match-Ups - 2nd Round Match-Ups - P. Fishburn vs M. Meissner - 2nd Round Match-Ups,Patrick Fishburn,0.022600000000000064,0.5348,0.5122
+2025-10-03 14:32:16.456032,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,0.022600000000000064,0.5348,0.5122
+2025-10-03 20:32:01.458410,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Karl Roberson,0.022199999999999998,0.8,0.7778
 2025-10-03 09:29:58.195360,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.021700000000000053,0.7778,0.7561
 2025-10-03 11:26:04.034837,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J.T. Poston / N. Dunlap / A. Bhatia - 2nd Round 3-Balls,Akshay Bhatia,0.021699999999999997,0.4762,0.4545
 2025-10-03 08:36:43.923612,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs D. Thompson - 2nd Round Match-Ups,Akshay Bhatia,0.02169999999999994,0.5455,0.5238
-2025-10-03 09:29:58.479597,Round Match-Ups - 2nd Round Match-Ups - C. Champ vs J. Svensson - 2nd Round Match-Ups,Jesper Svensson,0.02169999999999994,0.5455,0.5238
-2025-10-03 09:29:58.475193,Round Match-Ups - 2nd Round Match-Ups - I. Salinda vs V. Perez - 2nd Round Match-Ups,Victor Perez,0.02169999999999994,0.5455,0.5238
 2025-10-03 14:32:16.595806,Round Match-Ups - 2nd Round Match-Ups - L. Clanton vs D. Ghim - 2nd Round Match-Ups,Doug Ghim,0.02169999999999994,0.5455,0.5238
 2025-10-03 15:30:47.533992,Round Match-Ups - 2nd Round Match-Ups - K. Mitchell vs M. Hughes - 2nd Round Match-Ups,Keith Mitchell,0.02169999999999994,0.5455,0.5238
+2025-10-03 09:29:58.475193,Round Match-Ups - 2nd Round Match-Ups - I. Salinda vs V. Perez - 2nd Round Match-Ups,Victor Perez,0.02169999999999994,0.5455,0.5238
+2025-10-03 09:29:58.479597,Round Match-Ups - 2nd Round Match-Ups - C. Champ vs J. Svensson - 2nd Round Match-Ups,Jesper Svensson,0.02169999999999994,0.5455,0.5238
 2025-10-03 12:56:05.827364,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Hughes / K. Mitchell / R. Hojgaard - 2nd Round 3-Balls,Keith Mitchell,0.020799999999999985,0.3333,0.3125
 2025-10-03 14:32:16.600318,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs B. Hossler - 2nd Round Match-Ups,Beau Hossler,0.02079999999999993,0.5556,0.5348
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Ina Yoon,0.0204,0.0244,0.004
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Dinamo Zagreb,0.0203,0.0588,0.0385
 2025-10-03 12:56:05.831595,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / J. Suber / R. Castillo - 2nd Round 3-Balls,Jackson Suber,0.020100000000000007,0.25,0.2299
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Philadelphia Phillies vs. Detroit Tigers,0.019899999999999994,0.0556,0.0357
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Chicago Cubs,0.019800000000000005,0.0476,0.0278
 2025-10-03 15:30:47.543253,Round Match-Ups - 2nd Round Match-Ups - L. Clanton vs D. Ghim - 2nd Round Match-Ups,Doug Ghim,0.01970000000000005,0.5652,0.5455
 2025-10-03 12:56:05.704751,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.01970000000000005,0.5652,0.5455
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Seattle Mariners,0.019699999999999995,0.125,0.1053
@@ -123,25 +97,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 18:39:41.216343,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Irakli Ghvinjilia,0.018999999999999906,0.7333,0.7143
 2025-10-03 12:56:05.691697,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Aleem Whitfield,0.01830000000000001,0.2564,0.2381
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Brooke Matthews,0.0182,0.0323,0.0141
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.0182,0.0323,0.0141
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Doncaster Rovers,0.018099999999999998,0.0769,0.0588
 2025-10-03 12:56:05.569106,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Daniel Barrera,0.017900000000000027,0.875,0.8571
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Detroit Tigers,0.0179,0.0278,0.0099
+2025-10-03 20:32:01.483974,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Mike Perry,0.017899999999999916,0.7826,0.7647
 2025-10-03 15:30:47.264917,Boxing Lines - Shokichi Iwata vs Edwin Cano Hernandez - To Win the Bout,Shokichi Iwata,0.01760000000000006,0.9,0.8824
 2025-10-03 16:36:20.683964,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,0.017299999999999982,0.303,0.2857
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.0168,0.0385,0.0217
+2025-10-03 20:32:01.479737,BKFC 82: Perry vs Stephens - Justin Clarke 1989 vs Ishiah Carson - To Win the Bout,Justin Clarke 1989,0.017100000000000004,0.8462,0.8291
 2025-10-03 10:33:37.339459,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Daniel Barrera,0.016799999999999926,0.8571,0.8403
 2025-10-03 12:56:05.870355,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - T. Rosenmueller / K. Onishi / K. Meeks - 2nd Round 3-Balls,Thomas Rosenmueller,0.016699999999999937,0.6,0.5833
-2025-10-03 07:28:45.680134,Winning State - World Series 2025 - Winning State - Winning State,Pennsylvania (PA),0.016600000000000004,0.1905,0.1739
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Chicago Cubs,0.0165,0.0244,0.0079
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Bo Bichette (TOR),0.0162,0.0294,0.0132
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.016100000000000003,0.0357,0.0196
 2025-10-03 15:30:47.246191,Boxing Lines - Bradley Wilcox vs Jordan Mcnaughton - To Win the Bout,Bradley Wilcox,0.015999999999999903,0.8291,0.8131
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,William Contreras (MIL),0.0159,0.0323,0.0164
-2025-10-03 09:29:58.334200,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M.W. Lee / S. Jaeger / M. Homa - 2nd Round 3-Balls,Max Homa,0.015400000000000025,0.4,0.3846
 2025-10-03 12:56:05.806374,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Kevin Roy,0.015400000000000025,0.4,0.3846
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,New York Yankees to beat Milwaukee Brewers,0.015300000000000001,0.0476,0.0323
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat New York Yankees,0.015300000000000001,0.0476,0.0323
+2025-10-03 09:29:58.334200,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M.W. Lee / S. Jaeger / M. Homa - 2nd Round 3-Balls,Max Homa,0.015400000000000025,0.4,0.3846
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Mainz,0.015100000000000002,0.1818,0.1667
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Leyton Orient,0.015100000000000002,0.1818,0.1667
 2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Giancarlo Stanton (NYY),0.014899999999999997,0.0625,0.0476
@@ -154,10 +122,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Lincoln City,0.013899999999999996,0.125,0.1111
 2025-10-03 08:36:43.990230,Scores - 2nd Round Scores - Max Homa - 2nd Round Scores,Under 70.5,0.013799999999999923,0.6364,0.6226
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Freddie Freeman (LAD),0.0131,0.0476,0.0345
-2025-10-03 16:36:20.263195,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.0131,0.0476,0.0345
+2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Lausanne-Sport,0.0131,0.0476,0.0345
 2025-10-03 18:39:41.203896,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Karl Roberson,0.0131,0.7778,0.7647
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,AEK Larnaca,0.0131,0.0476,0.0345
-2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Lausanne-Sport,0.0131,0.0476,0.0345
+2025-10-03 16:36:20.263195,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.0131,0.0476,0.0345
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Megan Khang,0.013,0.0196,0.0066
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,George Springer (TOR),0.012700000000000003,0.0323,0.0196
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Luton Town,0.012699999999999989,0.3636,0.3509
@@ -167,63 +135,64 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Kyle Schwarber (PHI),0.0121,0.0556,0.0435
 2025-10-03 14:32:16.378077,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.011699999999999933,0.7895,0.7778
 2025-10-03 08:36:43.647032,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.011600000000000055,0.5238,0.5122
-2025-10-03 14:32:16.237911,American League - MLB 2025 American League - American League Winner,New York Yankees,0.01150000000000001,0.3448,0.3333
 2025-10-03 11:26:04.086309,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - E. Cole / J. Bramlett / S. Valimaki - 2nd Round 3-Balls,Joseph Bramlett,0.01150000000000001,0.3448,0.3333
+2025-10-03 14:32:16.237911,American League - MLB 2025 American League - American League Winner,New York Yankees,0.01150000000000001,0.3448,0.3333
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Porto,0.011499999999999955,0.6667,0.6552
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Detroit Tigers,0.011399999999999997,0.0278,0.0164
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.011300000000000001,0.0357,0.0244
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Michael Busch (CHC),0.011200000000000002,0.0244,0.0132
-2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Randy Arozarena (SEA),0.011199999999999995,0.0435,0.0323
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Feyenoord,0.011199999999999995,0.0588,0.0476
+2025-10-03 09:29:58.113184,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Randy Arozarena (SEA),0.011199999999999995,0.0435,0.0323
+2025-10-03 20:32:01.497585,Bare Knuckle Fighting Championship - Jimmie Rivera vs Timmy Mason - To Win the Bout,Jimmie Rivera,0.011099999999999999,0.7937,0.7826
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Lille,0.011099999999999999,0.1111,0.1
+2025-10-03 20:32:01.475498,BKFC 82: Perry vs Stephens - Jeff Lentz vs Elijah Harris - To Win the Bout,Elijah Harris,0.011099999999999999,0.7937,0.7826
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,AFC Wimbledon,0.011099999999999999,0.1111,0.1
 2025-10-03 18:39:41.132550,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.011099999999999999,0.7937,0.7826
 2025-10-03 17:28:46.969004,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,0.01100000000000001,0.5348,0.5238
 2025-10-03 18:39:41.212222,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,0.01100000000000001,0.5348,0.5238
-2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero,0.010700000000000001,0.0385,0.0278
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Tucker (CHC),0.010700000000000001,0.0385,0.0278
-2025-10-03 15:30:47.398163,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.010699999999999932,0.5455,0.5348
+2025-10-03 10:33:37.314512,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero,0.010700000000000001,0.0385,0.0278
 2025-10-03 19:23:14.811339,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.010699999999999932,0.5455,0.5348
-2025-10-03 07:28:45.669706,Exact Result - World Series 2025 - Exact Result,Philadelphia Phillies to beat Detroit Tigers,0.010600000000000002,0.0323,0.0217
-2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Rosario Central,0.0102,0.0769,0.0667
+2025-10-03 15:30:47.398163,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.010699999999999932,0.5455,0.5348
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Lech Poznań,0.0102,0.0769,0.0667
+2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Rosario Central,0.0102,0.0769,0.0667
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Rakow Czestochowa,0.0102,0.0769,0.0667
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Philadelphia Phillies vs. Seattle Mariners,0.010099999999999998,0.1053,0.0952
+2025-10-03 09:29:56.576781,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,-0.010099999999999998,0.4444,0.4545
 2025-10-03 14:32:16.227545,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,-0.010099999999999998,0.1786,0.1887
 2025-10-03 08:36:43.647032,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.010099999999999998,0.5455,0.5556
-2025-10-03 09:29:56.576781,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,-0.010099999999999998,0.4444,0.4545
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Northampton Town,-0.0102,0.0667,0.0769
 2025-10-03 12:56:05.827364,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Hughes / K. Mitchell / R. Hojgaard - 2nd Round 3-Balls,Mackenzie Hughes,-0.01040000000000002,0.3175,0.3279
 2025-10-03 11:26:04.077943,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J. Paul / S. Fisk / B. Drewitt - 2nd Round 3-Balls,Jeremy Paul,-0.010599999999999998,0.4545,0.4651
+2025-10-03 20:32:01.462659,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,-0.010599999999999998,0.4545,0.4651
 2025-10-03 17:28:46.969004,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,-0.010699999999999932,0.5348,0.5455
 2025-10-03 18:39:41.212222,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,-0.010699999999999932,0.5348,0.5455
+2025-10-03 20:32:01.471239,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Jmani Oliver,-0.010699999999999987,0.3226,0.3333
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Rio Takeda,-0.0107,0.0025,0.0132
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Lyon,-0.010899999999999993,0.1429,0.1538
-2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Stockport County,-0.010899999999999993,0.1429,0.1538
 2025-10-03 08:36:41.930962,League One - England League One 2025/26 - To Finish Bottom,Exeter City,-0.010899999999999993,0.1429,0.1538
-2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Utrecht,-0.0109,0.004,0.0149
+2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Stockport County,-0.010899999999999993,0.1429,0.1538
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,PAOK Thessaloniki,-0.0109,0.004,0.0149
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Rangers,-0.0109,0.004,0.0149
+2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Utrecht,-0.0109,0.004,0.0149
 2025-10-03 19:23:14.811339,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.01100000000000001,0.5238,0.5348
 2025-10-03 15:30:47.398163,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.01100000000000001,0.5238,0.5348
 2025-10-03 11:26:03.988359,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - B. Martin / A. Smalley / D. Redman - 2nd Round 3-Balls,Doc Redman,-0.011099999999999999,0.2667,0.2778
 2025-10-03 12:56:05.713338,BKFC 82: Perry vs Stephens - Jeff Lentz vs Elijah Harris - To Win the Bout,Elijah Harris,-0.011099999999999999,0.7826,0.7937
-2025-10-03 12:56:05.806374,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Greyson Sigg,-0.01150000000000001,0.3333,0.3448
 2025-10-03 12:56:05.831595,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / J. Suber / R. Castillo - 2nd Round 3-Balls,Ricky Castillo,-0.01150000000000001,0.3333,0.3448
+2025-10-03 12:56:05.806374,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Greyson Sigg,-0.01150000000000001,0.3333,0.3448
 2025-10-03 12:56:05.721802,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Mike Perry,-0.011699999999999933,0.7778,0.7895
-2025-10-03 07:28:45.456262,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jonathan Taylor (IND),-0.011700000000000016,0.2105,0.2222
 2025-10-03 08:36:43.533487,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Toronto Blue Jays,-0.011900000000000008,0.0833,0.0952
 2025-10-03 14:32:16.237911,American League - MLB 2025 American League - American League Winner,Seattle Mariners,-0.012299999999999978,0.3448,0.3571
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Huddersfield Town,-0.012699999999999989,0.3509,0.3636
 2025-10-03 12:56:05.831595,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / J. Suber / R. Castillo - 2nd Round 3-Balls,Michael Thorbjornsen,-0.012800000000000034,0.5,0.5128
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Real Betis,-0.012899999999999995,0.1538,0.1667
+2025-10-03 20:32:01.343491,Boxing Lines - Shokichi Iwata vs Edwin Cano Hernandez - To Win the Bout,Edwin Cano Hernandez,-0.012899999999999995,0.1538,0.1667
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Panathinaikos,-0.013,0.0066,0.0196
 2025-10-03 16:36:20.683964,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Mike Perry,-0.0131,0.7647,0.7778
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Huddersfield Town,-0.013799999999999923,0.6226,0.6364
-2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Mansfield Town,-0.013899999999999996,0.1111,0.125
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Port Vale,-0.013899999999999996,0.1111,0.125
-2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Plymouth Argyle,-0.013899999999999996,0.1111,0.125
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Wycombe,-0.013899999999999996,0.1111,0.125
+2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Plymouth Argyle,-0.013899999999999996,0.1111,0.125
+2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Mansfield Town,-0.013899999999999996,0.1111,0.125
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Leyton Orient,-0.013899999999999996,0.1111,0.125
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Barnsley,-0.013999999999999999,0.0769,0.0909
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Lincoln City,-0.013999999999999999,0.0769,0.0909
@@ -233,13 +202,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 14:32:16.237911,American League - MLB 2025 American League - American League Winner,Detroit Tigers,-0.014399999999999996,0.1961,0.2105
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Nice,-0.0145,0.0099,0.0244
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Brooke Henderson,-0.014599999999999998,0.005,0.0196
-2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Shakhtar Donetsk,-0.015100000000000002,0.1667,0.1818
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Hye Jin Choi,-0.015100000000000002,0.0013,0.0164
-2025-10-03 15:30:47.264917,Boxing Lines - Shokichi Iwata vs Edwin Cano Hernandez - To Win the Bout,Edwin Cano Hernandez,-0.015100000000000002,0.1667,0.1818
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Rayo Vallecano,-0.015100000000000002,0.1667,0.1818
+2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Shakhtar Donetsk,-0.015100000000000002,0.1667,0.1818
+2025-10-03 15:30:47.264917,Boxing Lines - Shokichi Iwata vs Edwin Cano Hernandez - To Win the Bout,Edwin Cano Hernandez,-0.015100000000000002,0.1667,0.1818
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Teoscar Hernandez (LAD),-0.015300000000000001,0.0323,0.0476
 2025-10-03 09:29:56.573737,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Racing Club,-0.015300000000000001,0.0435,0.0588
 2025-10-03 08:36:43.554302,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Blake Snell (LAD),-0.015300000000000001,0.0323,0.0476
+2025-10-03 20:32:01.479737,BKFC 82: Perry vs Stephens - Justin Clarke 1989 vs Ishiah Carson - To Win the Bout,Ishiah Carson,-0.015899999999999997,0.2222,0.2381
 2025-10-03 12:56:05.691697,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Pat Carroll,-0.015999999999999903,0.8131,0.8291
 2025-10-03 09:29:56.573737,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Boca Juniors,-0.016699999999999993,0.25,0.2667
 2025-10-03 10:33:37.339459,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Mario Hernandez,-0.01680000000000001,0.2105,0.2273
@@ -248,43 +218,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,-0.0179,0.125,0.1429
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Bologna,-0.0179,0.125,0.1429
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Legia Warsaw,-0.018099999999999998,0.0588,0.0769
-2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,FC Salzburg,-0.018200000000000004,0.0294,0.0476
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Plymouth Argyle,-0.018200000000000004,0.0294,0.0476
+2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,FC Salzburg,-0.018200000000000004,0.0294,0.0476
 2025-10-03 15:30:47.246191,Boxing Lines - Bradley Wilcox vs Jordan Mcnaughton - To Win the Bout,Jordan Mcnaughton,-0.01830000000000001,0.2381,0.2564
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Maccabi Tel Aviv,-0.0189,0.0196,0.0385
 2025-10-03 09:29:56.451429,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,FC Utrecht,-0.0189,0.0196,0.0385
 2025-10-03 08:36:43.990230,Scores - 2nd Round Scores - Max Homa - 2nd Round Scores,Over 70.5,-0.018900000000000028,0.4255,0.4444
+2025-10-03 20:32:01.458410,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Bamgbose O.,-0.019000000000000017,0.2667,0.2857
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Doncaster Rovers,-0.019099999999999992,0.0476,0.0667
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Salzburg,-0.0194,0.005,0.0244
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Celtic,-0.019499999999999997,0.0099,0.0294
 2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Independiente,-0.019600000000000003,0.0149,0.0345
 2025-10-03 12:56:05.569106,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Mario Hernandez,-0.01999999999999999,0.1905,0.2105
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Peiyun Chien,-0.020000000000000004,0.0123,0.0323
-2025-10-03 07:28:45.655529,American League - MLB 2025 American League - ALCS Exact Result,TOR Blue Jays beat SEA Mariners,-0.020100000000000007,0.1538,0.1739
 2025-10-03 08:36:41.930962,League One - England League One 2025/26 - To Finish Bottom,Burton Albion,-0.020100000000000007,0.2299,0.25
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Genk,-0.02020000000000001,0.0909,0.1111
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Bologna,-0.0203,0.0385,0.0588
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Crvena Zvezda,-0.0203,0.0385,0.0588
 2025-10-03 14:32:16.456032,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,-0.02079999999999993,0.5348,0.5556
-2025-10-03 07:28:45.685358,Winning Division - World Series 2025 - Winning Division - Winning Division,NL West,-0.021699999999999997,0.2222,0.2439
+2025-10-03 20:32:01.483974,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,-0.021299999999999986,0.2817,0.303
 2025-10-03 09:29:58.195360,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.021999999999999964,0.2857,0.3077
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Northampton Town,-0.021999999999999964,0.2857,0.3077
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Plymouth Argyle,-0.022199999999999998,0.2,0.2222
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Cardiff City,-0.02260000000000001,0.3774,0.4
-2025-10-03 15:30:47.520445,Round Match-Ups - 2nd Round Match-Ups - P. Fishburn vs M. Meissner - 2nd Round Match-Ups,Mac Meissner,-0.022600000000000064,0.5122,0.5348
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Peterborough United,-0.022600000000000064,0.6,0.6226
+2025-10-03 15:30:47.520445,Round Match-Ups - 2nd Round Match-Ups - P. Fishburn vs M. Meissner - 2nd Round Match-Ups,Mac Meissner,-0.022600000000000064,0.5122,0.5348
 2025-10-03 15:30:47.548167,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs B. Hossler - 2nd Round Match-Ups,Thriston Lawrence,-0.022699999999999998,0.4651,0.4878
-2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Atlético Lanús,-0.02310000000000001,0.0769,0.1
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Reading,-0.02310000000000001,0.0769,0.1
+2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Atlético Lanús,-0.02310000000000001,0.0769,0.1
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,VfB Stuttgart,-0.023200000000000002,0.0294,0.0526
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Rotherham United,-0.023200000000000002,0.0244,0.0476
 2025-10-03 15:30:47.543253,Round Match-Ups - 2nd Round Match-Ups - L. Clanton vs D. Ghim - 2nd Round Match-Ups,Luke Clanton,-0.023799999999999988,0.4762,0.5
-2025-10-03 08:36:43.923612,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs D. Thompson - 2nd Round Match-Ups,Davis Thompson,-0.023800000000000043,0.5,0.5238
-2025-10-03 09:29:58.479597,Round Match-Ups - 2nd Round Match-Ups - C. Champ vs J. Svensson - 2nd Round Match-Ups,Cameron Champ,-0.023800000000000043,0.5,0.5238
-2025-10-03 09:29:58.475193,Round Match-Ups - 2nd Round Match-Ups - I. Salinda vs V. Perez - 2nd Round Match-Ups,Isaiah Salinda,-0.023800000000000043,0.5,0.5238
-2025-10-03 15:30:47.533992,Round Match-Ups - 2nd Round Match-Ups - K. Mitchell vs M. Hughes - 2nd Round Match-Ups,Mackenzie Hughes,-0.023800000000000043,0.5,0.5238
-2025-10-03 12:56:05.704751,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.023800000000000043,0.5,0.5238
 2025-10-03 14:32:16.595806,Round Match-Ups - 2nd Round Match-Ups - L. Clanton vs D. Ghim - 2nd Round Match-Ups,Luke Clanton,-0.023800000000000043,0.5,0.5238
+2025-10-03 15:30:47.533992,Round Match-Ups - 2nd Round Match-Ups - K. Mitchell vs M. Hughes - 2nd Round Match-Ups,Mackenzie Hughes,-0.023800000000000043,0.5,0.5238
+2025-10-03 08:36:43.923612,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs D. Thompson - 2nd Round Match-Ups,Davis Thompson,-0.023800000000000043,0.5,0.5238
+2025-10-03 09:29:58.475193,Round Match-Ups - 2nd Round Match-Ups - I. Salinda vs V. Perez - 2nd Round Match-Ups,Isaiah Salinda,-0.023800000000000043,0.5,0.5238
+2025-10-03 09:29:58.479597,Round Match-Ups - 2nd Round Match-Ups - C. Champ vs J. Svensson - 2nd Round Match-Ups,Cameron Champ,-0.023800000000000043,0.5,0.5238
+2025-10-03 12:56:05.704751,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.023800000000000043,0.5,0.5238
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,AEK Athens,-0.0242,0.0667,0.0909
 2025-10-03 14:32:16.600318,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs B. Hossler - 2nd Round Match-Ups,Thriston Lawrence,-0.024399999999999977,0.4878,0.5122
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Miyu Yamashita,-0.0244,0.0079,0.0323
@@ -294,19 +264,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 14:32:16.246521,National League - MLB 2025 National League - National League Winner,Philadelphia Phillies,-0.02679999999999999,0.2857,0.3125
 2025-10-03 10:33:37.335234,Boxing Lines - Bradley Wilcox vs Jordan Mcnaughton - To Win the Bout,Jordan Mcnaughton,-0.027100000000000013,0.2469,0.274
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Celtic,-0.02779999999999999,0.2222,0.25
-2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Bradford City,-0.02779999999999999,0.2222,0.25
 2025-10-03 09:29:56.487292,League One - England League One 2025/26 - To Be Promoted,Stockport County,-0.02779999999999999,0.2222,0.25
 2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Bolton Wanderers,-0.02779999999999999,0.2222,0.25
+2025-10-03 08:36:41.934145,League One - England League One 2025/26 - Top 2 Finish,Bradford City,-0.02779999999999999,0.2222,0.25
 2025-10-03 14:32:16.227545,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,-0.027800000000000005,0.0833,0.1111
 2025-10-03 13:36:21.994680,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Daniel Barrera,-0.028800000000000048,0.8462,0.875
-2025-10-03 07:28:45.484444,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,-0.029299999999999993,0.2564,0.2857
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Somi Lee,-0.0325,0.002,0.0345
 2025-10-03 09:29:56.570684,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Racing Club,-0.03330000000000001,0.0667,0.1
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,Dynamo Kiev,-0.03330000000000001,0.0667,0.1
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Malmö FF,-0.0344,0.0244,0.0588
 2025-10-03 12:56:05.700401,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,-0.03489999999999999,0.4651,0.5
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Andrea Lee,-0.03559999999999999,0.0079,0.0435
-2025-10-03 07:28:45.674902,Winning League - World Series 2025 - Winning League - Winning League,National League,-0.03610000000000002,0.5556,0.5917
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Hyo Joo Kim,-0.036199999999999996,0.0164,0.0526
 2025-10-03 09:29:56.490399,League One - England League One 2025/26 - To Be Relegated,Burton Albion,-0.03639999999999999,0.6,0.6364
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Bologna,-0.03640000000000004,0.3636,0.4
@@ -316,25 +284,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 09:29:56.462741,UEFA Europa Conference League - UEFA Conference League 2025/26 - To Reach the Final,AZ Alkmaar,-0.04269999999999999,0.1111,0.1538
 2025-10-03 09:29:56.576781,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Atlético Lanús,-0.042899999999999994,0.1,0.1429
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Nottingham Forest,-0.0475,0.0294,0.0769
-2025-10-03 07:28:45.583135,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.04760000000000003,0.4762,0.5238
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,Nasa Hataoka,-0.04909999999999999,0.1176,0.1667
 2025-10-03 12:56:05.709009,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Jmani Oliver,-0.04910000000000003,0.3509,0.4
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,VfB Stuttgart,-0.04910000000000003,0.3509,0.4
-2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Rangers,-0.052300000000000006,0.0588,0.1111
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Utrecht,-0.052300000000000006,0.0588,0.1111
+2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Rangers,-0.052300000000000006,0.0588,0.1111
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Ludogorets Razgrad,-0.052300000000000006,0.0588,0.1111
-2025-10-03 07:28:45.680134,Winning State - World Series 2025 - Winning State - Winning State,California (CA),-0.05299999999999999,0.25,0.303
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Nice,-0.05550000000000002,0.1667,0.2222
 2025-10-03 08:36:41.937353,League One - England League One 2025/26 - Top 6 Finish,Stockport County,-0.05559999999999998,0.4444,0.5
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Celta de Vigo,-0.055900000000000005,0.3077,0.3636
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,AS Roma,-0.06669999999999998,0.6,0.6667
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Feyenoord,-0.06840000000000002,0.1538,0.2222
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,PAOK Thessaloniki,-0.0726,0.0385,0.1111
-2025-10-03 07:28:45.548488,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,Yes,-0.0726,0.6774,0.75
-2025-10-03 07:28:45.579697,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,No,-0.07629999999999998,0.2222,0.2985
 2025-10-03 12:56:05.531774,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",-0.0816,0.2632,0.3448
 2025-10-03 09:29:58.640383,LOTTE Championship - LOTTE Championship - Winner,A Lim Kim,-0.08689999999999999,0.004,0.0909
 2025-10-03 09:29:56.454709,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,AS Roma,-0.0871,0.0667,0.1538
+2025-10-03 20:32:01.454158,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Aleem Whitfield,-0.08970000000000003,0.1667,0.2564
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Salzburg,-0.08979999999999999,0.0769,0.1667
 2025-10-03 09:29:56.448211,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Nottingham Forest,-0.09809999999999997,0.4255,0.5236
-2025-10-03 07:28:45.398049,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,-0.24910000000000004,0.2857,0.5348
