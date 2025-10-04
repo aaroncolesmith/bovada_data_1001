@@ -8,7 +8,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Megan Khang,0.0857,0.1053,0.0196
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Megan Khang,0.0857,0.1053,0.0196
 2025-10-04 10:31:08.819735,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,0.07619999999999993,0.6,0.5238
+2025-10-04 15:27:46.555844,Scores - 3rd Round Score - Kevin Yu - 3rd Round Score,Under 69.5,0.06519999999999992,0.6,0.5348
+2025-10-04 15:27:46.551490,Scores - 3rd Round Score - Thorbjorn Olesen - 3rd Round Score,Under 69.5,0.06519999999999992,0.6,0.5348
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Akie Iwai,0.0635,0.2857,0.2222
+2025-10-04 15:27:46.560237,Scores - 3rd Round Score - Rasmus Hojgaard - 3rd Round Score,Under 69.5,0.06230000000000002,0.6078,0.5455
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Minami Katsu,0.0617,0.0667,0.005
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Minami Katsu,0.0617,0.0667,0.005
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Retief Goosen,0.060099999999999994,0.0667,0.0066
@@ -52,12 +55,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 10:31:08.932429,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Paderborn,0.02310000000000001,0.1,0.0769
 2025-10-04 10:31:08.932429,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Karlsruher,0.02310000000000001,0.1,0.0769
 2025-10-04 09:27:41.907833,Round Match-Ups - 2nd Round Match-Ups - P. Fishburn vs M. Meissner - 2nd Round Match-Ups,Mac Meissner,0.022600000000000064,0.5348,0.5122
-2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,0.022199999999999998,0.2222,0.2
 2025-10-04 05:30:23.141346,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.021699999999999997,0.4762,0.4545
+2025-10-04 15:27:46.603573,Scores - 3rd Round Score - Taylor Montgomery - 3rd Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-10-04 05:30:23.145535,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.02169999999999994,0.5455,0.5238
 2025-10-04 10:31:08.932429,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,0.02020000000000001,0.1111,0.0909
-2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Andrea Lee,0.019899999999999998,0.0278,0.0079
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Andrea Lee,0.019899999999999998,0.0278,0.0079
+2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Andrea Lee,0.019899999999999998,0.0278,0.0079
 2025-10-04 11:23:48.797839,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.01970000000000005,0.5652,0.5455
 2025-10-04 06:38:54.331057,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,0.0179,0.1429,0.125
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tag Ridings,0.017100000000000004,0.0323,0.0152
@@ -76,31 +79,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 09:27:41.474618,American League - MLB 2025 American League - American League Winner,Seattle Mariners,0.012299999999999978,0.3571,0.3448
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Mark Hensby,0.012200000000000003,0.04,0.0278
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,0.011699999999999999,0.0196,0.0079
+2025-10-04 15:27:46.438790,BKFC 82: Perry vs Stephens - Jeff Lentz vs Elijah Harris - To Win the Bout,Jeff Lentz,0.011699999999999988,0.2857,0.274
 2025-10-04 09:27:41.658763,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.0116,0.4878,0.4762
 2025-10-04 10:31:10.567429,American League - MLB 2025 American League - American League Winner,New York Yankees,0.01150000000000001,0.3448,0.3333
-2025-10-04 09:27:41.807975,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Greyson Sigg,0.01150000000000001,0.3448,0.3333
 2025-10-04 09:27:41.833295,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / J. Suber / R. Castillo - 2nd Round 3-Balls,Ricky Castillo,0.01150000000000001,0.3448,0.3333
+2025-10-04 09:27:41.807975,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Greyson Sigg,0.01150000000000001,0.3448,0.3333
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ricardo Gonzalez,0.0112,0.0152,0.004
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Chad Campbell,0.0112,0.0152,0.004
 2025-10-04 09:27:41.654632,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Bamgbose O.,0.011099999999999999,0.2778,0.2667
 2025-10-04 09:27:41.697777,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - B. Martin / A. Smalley / D. Redman - 2nd Round 3-Balls,Doc Redman,0.011099999999999999,0.2778,0.2667
 2025-10-04 09:27:41.786535,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J. Paul / S. Fisk / B. Drewitt - 2nd Round 3-Balls,Jeremy Paul,0.010599999999999998,0.4651,0.4545
 2025-10-04 09:27:41.829088,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Hughes / K. Mitchell / R. Hojgaard - 2nd Round 3-Balls,Mackenzie Hughes,0.01040000000000002,0.3279,0.3175
-2025-10-04 06:38:54.340818,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,UTSA,0.0102,0.0769,0.0667
 2025-10-04 10:31:08.927580,Ligue 2 - France Ligue 2 2025/26 - Winner,Pau FC,0.0102,0.0769,0.0667
-2025-10-04 11:23:48.869718,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.010099999999999998,0.5556,0.5455
+2025-10-04 06:38:54.340818,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,UTSA,0.0102,0.0769,0.0667
 2025-10-04 09:27:41.464379,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,0.010099999999999998,0.1887,0.1786
+2025-10-04 11:23:48.869718,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.010099999999999998,0.5556,0.5455
 2025-10-04 10:31:10.557247,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,-0.010099999999999998,0.1786,0.1887
 2025-10-04 12:51:46.162365,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - S. Fisk / B. Garnett - 3rd Round 2-Balls,Brice Garnett,-0.010099999999999998,0.4444,0.4545
 2025-10-04 10:31:08.932429,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Holstein Kiel,-0.0102,0.0667,0.0769
-2025-10-04 03:00:52.669791,Euro Cup - Euro Cup 2025/26 - Outright,Besiktas,-0.010399999999999993,0.2222,0.2326
-2025-10-04 03:00:53.997801,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Mario Hernandez,-0.010499999999999982,0.2,0.2105
 2025-10-04 09:27:41.654632,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Karl Roberson,-0.010500000000000065,0.7895,0.8
-2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,-0.011099999999999999,0.1,0.1111
-2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ricardo Gonzalez,-0.0112,0.004,0.0152
+2025-10-04 15:27:46.356601,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,-0.011099999999999999,0.7826,0.7937
+2025-10-04 15:27:46.360631,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.011099999999999999,0.4651,0.4762
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Chad Campbell,-0.0112,0.004,0.0152
-2025-10-04 09:27:41.474618,American League - MLB 2025 American League - American League Winner,New York Yankees,-0.01150000000000001,0.3333,0.3448
+2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Ricardo Gonzalez,-0.0112,0.004,0.0152
 2025-10-04 09:27:41.795090,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - E. Cole / J. Bramlett / S. Valimaki - 2nd Round 3-Balls,Joseph Bramlett,-0.01150000000000001,0.3333,0.3448
+2025-10-04 09:27:41.474618,American League - MLB 2025 American League - American League Winner,New York Yankees,-0.01150000000000001,0.3333,0.3448
 2025-10-04 11:23:48.869718,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.011600000000000055,0.5122,0.5238
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,-0.011699999999999999,0.0079,0.0196
 2025-10-04 12:51:46.153394,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - M. Meissner / L. List - 3rd Round 2-Balls,Luke List,-0.012199999999999989,0.4878,0.5
@@ -109,12 +112,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 06:38:54.350229,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Sam Houston State,-0.012400000000000001,0.004,0.0164
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,David Duval,-0.0127,0.0025,0.0152
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Paul Stankowski,-0.013,0.0066,0.0196
-2025-10-04 03:00:52.669791,Euro Cup - Euro Cup 2025/26 - Outright,Manresa,-0.013899999999999996,0.1111,0.125
 2025-10-04 06:38:54.345569,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Iowa State,-0.013899999999999996,0.129,0.1429
 2025-10-04 10:31:08.956509,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Eibar,-0.013999999999999999,0.0769,0.0909
 2025-10-04 10:31:10.567429,American League - MLB 2025 American League - American League Winner,Detroit Tigers,-0.014399999999999996,0.1961,0.2105
-2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Cairns Taipans,-0.014899999999999997,0.0476,0.0625
 2025-10-04 09:27:41.807975,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - S. Ryder / G. Sigg / K. Roy - 2nd Round 3-Balls,Kevin Roy,-0.015400000000000025,0.3846,0.4
+2025-10-04 15:27:46.438790,BKFC 82: Perry vs Stephens - Jeff Lentz vs Elijah Harris - To Win the Bout,Elijah Harris,-0.015899999999999914,0.7778,0.7937
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Y E Yang,-0.0159,0.0164,0.0323
 2025-10-04 05:30:23.141346,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Brandon Bushaw,-0.016100000000000003,0.5917,0.6078
 2025-10-04 06:38:54.350229,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Jacksonville State,-0.016600000000000004,0.1739,0.1905
@@ -127,6 +129,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Andrea Lee,-0.019899999999999998,0.0079,0.0278
 2025-10-04 09:27:41.833295,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / J. Suber / R. Castillo - 2nd Round 3-Balls,Jackson Suber,-0.020100000000000007,0.2299,0.25
 2025-10-04 09:27:41.829088,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - M. Hughes / K. Mitchell / R. Hojgaard - 2nd Round 3-Balls,Keith Mitchell,-0.020799999999999985,0.3125,0.3333
+2025-10-04 15:27:46.603573,Scores - 3rd Round Score - Taylor Montgomery - 3rd Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
 2025-10-04 09:27:41.921254,Round Match-Ups - 2nd Round Match-Ups - K. Mitchell vs M. Hughes - 2nd Round Match-Ups,Keith Mitchell,-0.02169999999999994,0.5238,0.5455
 2025-10-04 05:30:23.145535,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.02169999999999994,0.5238,0.5455
 2025-10-04 09:27:41.744179,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J.T. Poston / N. Dunlap / A. Bhatia - 2nd Round 3-Balls,Akshay Bhatia,-0.021699999999999997,0.4545,0.4762
@@ -134,8 +137,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 09:27:41.907833,Round Match-Ups - 2nd Round Match-Ups - P. Fishburn vs M. Meissner - 2nd Round Match-Ups,Patrick Fishburn,-0.022600000000000064,0.5122,0.5348
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tommy Gainey,-0.0232,0.0435,0.0667
 2025-10-04 12:51:45.920796,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.023799999999999988,0.4762,0.5
-2025-10-04 09:27:41.786535,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J. Paul / S. Fisk / B. Drewitt - 2nd Round 3-Balls,Steven Fisk,-0.023799999999999988,0.4762,0.5
 2025-10-04 09:27:41.697777,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - B. Martin / A. Smalley / D. Redman - 2nd Round 3-Balls,Alex Smalley,-0.023799999999999988,0.4762,0.5
+2025-10-04 09:27:41.786535,Sanderson Farms - 2/3 Balls - 2nd Round 3-Balls - J. Paul / S. Fisk / B. Drewitt - 2nd Round 3-Balls,Steven Fisk,-0.023799999999999988,0.4762,0.5
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,A Lim Kim,-0.023799999999999998,0.004,0.0278
 2025-10-04 11:23:48.797839,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.023800000000000043,0.5,0.5238
 2025-10-04 12:51:46.014803,BKFC 82: Perry vs Stephens - Jimmie Rivera vs Timmy Mason - To Win the Bout,Timmy Mason,-0.02400000000000002,0.25,0.274
@@ -151,11 +154,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Pornanong Phatlum,-0.031200000000000002,0.0164,0.0476
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Matt Gogel,-0.032400000000000005,0.0152,0.0476
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Brooke Matthews,-0.03439999999999999,0.0323,0.0667
-2025-10-04 06:38:54.710819,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.035999999999999976,0.4762,0.5122
 2025-10-04 10:31:10.596119,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.035999999999999976,0.4762,0.5122
+2025-10-04 06:38:54.710819,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.035999999999999976,0.4762,0.5122
 2025-10-04 09:27:41.502854,Winning League - World Series 2025 - Winning League - Winning League,National League,-0.03610000000000002,0.5556,0.5917
-2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Chisato Iwai,-0.03660000000000001,0.011,0.0476
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Chisato Iwai,-0.03660000000000001,0.011,0.0476
+2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Chisato Iwai,-0.03660000000000001,0.011,0.0476
 2025-10-04 14:28:37.326571,Sanderson Farms - 2/3 Balls - 3rd Round 2-Balls - G. Sargent / V. Covello - 3rd Round 2-Balls,Vince Covello,-0.0378,0.4167,0.4545
 2025-10-04 09:27:41.930272,Round Match-Ups - 2nd Round Match-Ups - L. Clanton vs D. Ghim - 2nd Round Match-Ups,Doug Ghim,-0.04139999999999999,0.5238,0.5652
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Charley Hull,-0.044800000000000006,0.0028,0.0476
@@ -174,6 +177,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Minami Katsu,-0.0617,0.005,0.0667
 2025-10-04 10:31:11.202034,LOTTE Championship - LOTTE Championship - Winner,Akie Iwai,-0.0635,0.2222,0.2857
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Akie Iwai,-0.0635,0.2222,0.2857
+2025-10-04 15:27:46.560237,Scores - 3rd Round Score - Rasmus Hojgaard - 3rd Round Score,Over 69.5,-0.06930000000000003,0.4545,0.5238
+2025-10-04 15:27:46.551490,Scores - 3rd Round Score - Thorbjorn Olesen - 3rd Round Score,Over 69.5,-0.06970000000000004,0.4651,0.5348
+2025-10-04 15:27:46.555844,Scores - 3rd Round Score - Kevin Yu - 3rd Round Score,Over 69.5,-0.06970000000000004,0.4651,0.5348
 2025-10-04 09:27:42.042213,LOTTE Championship - LOTTE Championship - Winner,Megan Khang,-0.0857,0.0196,0.1053
 2025-10-04 10:31:11.169612,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Miguel Angel Jimenez,-0.08589999999999999,0.005,0.0909
 2025-10-04 09:27:42.009782,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Vijay Singh,-0.0865,0.0385,0.125
