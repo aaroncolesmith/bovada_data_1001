@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Hyo Joo Kim,0.1265,0.1429,0.0164
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Tom McKibbin,0.1103,0.1538,0.0435
 2025-10-03 23:26:07.124979,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.10930000000000001,0.5744,0.4651
-2025-10-03 20:32:01.454158,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Pat Carroll,0.08689999999999998,0.9,0.8131
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Vijay Singh,0.0865,0.125,0.0385
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Megan Khang,0.0857,0.1053,0.0196
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Minami Katsu,0.0617,0.0667,0.005
@@ -22,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,A Lim Kim,0.023799999999999998,0.0278,0.004
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tommy Gainey,0.0232,0.0667,0.0435
 2025-10-03 22:30:14.191103,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.022600000000000064,0.5348,0.5122
-2025-10-03 20:32:01.458410,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Karl Roberson,0.022199999999999998,0.8,0.7778
 2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,0.022199999999999998,0.2222,0.2
 2025-10-04 05:30:23.141346,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.021699999999999997,0.4762,0.4545
 2025-10-04 05:30:23.145535,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,0.02169999999999994,0.5455,0.5238
@@ -31,9 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Wenyi Ding,0.0189,0.0217,0.0028
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Mikael Lindberg,0.0182,0.0244,0.0062
 2025-10-04 06:38:54.331057,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,0.0179,0.1429,0.125
-2025-10-03 20:32:01.483974,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Mike Perry,0.017899999999999916,0.7826,0.7647
 2025-10-03 23:26:08.627795,Boxing Lines - Cain Sandoval vs Jino Rodrigo - To Win the Bout,Jino Rodrigo,0.01759999999999999,0.1176,0.1
-2025-10-03 20:32:01.479737,BKFC 82: Perry vs Stephens - Justin Clarke 1989 vs Ishiah Carson - To Win the Bout,Justin Clarke 1989,0.017100000000000004,0.8462,0.8291
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tag Ridings,0.017100000000000004,0.0323,0.0152
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Boo Weekley,0.0168,0.0278,0.011
 2025-10-03 22:30:14.054043,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Daniel Barrera,0.016799999999999926,0.8571,0.8403
@@ -47,15 +43,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,David Duval,0.0127,0.0152,0.0025
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Mark Hensby,0.012200000000000003,0.04,0.0278
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Chad Campbell,0.0112,0.0152,0.004
-2025-10-03 20:32:01.497585,Bare Knuckle Fighting Championship - Jimmie Rivera vs Timmy Mason - To Win the Bout,Jimmie Rivera,0.011099999999999999,0.7937,0.7826
-2025-10-03 20:32:01.475498,BKFC 82: Perry vs Stephens - Jeff Lentz vs Elijah Harris - To Win the Bout,Elijah Harris,0.011099999999999999,0.7937,0.7826
 2025-10-03 23:26:08.759685,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,0.010699999999999932,0.5455,0.5348
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Joel Girrbach,0.0103,0.0123,0.002
 2025-10-04 06:38:54.340818,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,UTSA,0.0102,0.0769,0.0667
 2025-10-04 03:00:52.669791,Euro Cup - Euro Cup 2025/26 - Outright,Besiktas,-0.010399999999999993,0.2222,0.2326
 2025-10-04 03:00:53.997801,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Mario Hernandez,-0.010499999999999982,0.2,0.2105
-2025-10-03 20:32:01.462659,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Pat Sullivan,-0.010599999999999998,0.4545,0.4651
-2025-10-03 20:32:01.471239,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Jmani Oliver,-0.010699999999999987,0.3226,0.3333
 2025-10-03 23:26:08.759685,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,-0.01100000000000001,0.5238,0.5348
 2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,-0.011099999999999999,0.1,0.1111
 2025-10-03 23:26:08.627795,Boxing Lines - Cain Sandoval vs Jino Rodrigo - To Win the Bout,Cain Sandoval,-0.011199999999999988,0.9412,0.9524
@@ -64,7 +56,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Jordan Smith,-0.012400000000000001,0.004,0.0164
 2025-10-04 06:38:54.350229,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Sam Houston State,-0.012400000000000001,0.004,0.0164
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Jeff Winther,-0.0128,0.0004,0.0132
-2025-10-03 20:32:01.343491,Boxing Lines - Shokichi Iwata vs Edwin Cano Hernandez - To Win the Bout,Edwin Cano Hernandez,-0.012899999999999995,0.1538,0.1667
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Paul Stankowski,-0.013,0.0066,0.0196
 2025-10-03 22:30:14.058231,Boxing Lines - Cain Sandoval vs Jino Rodrigo - To Win the Bout,Cain Sandoval,-0.0131,0.9524,0.9655
 2025-10-04 03:00:52.669791,Euro Cup - Euro Cup 2025/26 - Outright,Manresa,-0.013899999999999996,0.1111,0.125
@@ -72,16 +63,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Matt Fitzpatrick,-0.014099999999999994,0.0526,0.0667
 2025-10-04 03:00:52.793697,NBL - Australia NBL 2025/26 - Outright,Cairns Taipans,-0.014899999999999997,0.0476,0.0625
 2025-10-04 01:55:41.317210,BKFC 82: Perry vs Stephens - Irakli Ghvinjilia vs Jmani Oliver - To Win the Bout,Jmani Oliver,-0.014900000000000024,0.3077,0.3226
-2025-10-03 20:32:01.479737,BKFC 82: Perry vs Stephens - Justin Clarke 1989 vs Ishiah Carson - To Win the Bout,Ishiah Carson,-0.015899999999999997,0.2222,0.2381
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Angel Ayora,-0.015899999999999997,0.002,0.0179
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Y E Yang,-0.0159,0.0164,0.0323
 2025-10-04 05:30:23.141346,BKFC 82: Perry vs Stephens - Brandon Bushaw vs Pat Sullivan - To Win the Bout,Brandon Bushaw,-0.016100000000000003,0.5917,0.6078
 2025-10-04 06:38:54.350229,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Jacksonville State,-0.016600000000000004,0.1739,0.1905
 2025-10-03 22:30:14.054043,Boxing Lines - Daniel Barrera vs Mario Hernandez - To Win the Bout,Mario Hernandez,-0.01680000000000001,0.2105,0.2273
 2025-10-04 06:38:54.331057,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,-0.0178,0.0116,0.0294
-2025-10-03 20:32:01.458410,BKFC 82: Perry vs Stephens - Bamgbose O. vs Karl Roberson - To Win the Bout,Bamgbose O.,-0.019000000000000017,0.2667,0.2857
 2025-10-03 22:30:14.191103,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.02079999999999993,0.5348,0.5556
-2025-10-03 20:32:01.483974,BKFC 82: Perry vs Stephens - Mike Perry vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,-0.021299999999999986,0.2817,0.303
 2025-10-04 05:30:23.145535,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Jessica Borga,-0.02169999999999994,0.5238,0.5455
 2025-10-04 06:38:54.345569,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Arizona State,-0.021799999999999986,0.16,0.1818
 2025-10-03 21:26:28.048207,BKFC 82: Perry vs Stephens - Christine Ferea vs Jessica Borga - To Win the Bout,Christine Ferea,-0.022600000000000064,0.5122,0.5348
@@ -106,7 +94,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Tommy Fleetwood,-0.06760000000000001,0.0435,0.1111
 2025-10-03 23:26:07.124979,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.06779999999999997,0.4878,0.5556
 2025-10-04 01:55:41.407166,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Miguel Angel Jimenez,-0.08589999999999999,0.005,0.0909
-2025-10-03 20:32:01.454158,BKFC 82: Perry vs Stephens - Aleem Whitfield vs Pat Carroll - To Win the Bout,Aleem Whitfield,-0.08970000000000003,0.1667,0.2564
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Tyrrell Hatton,-0.0927,0.0323,0.125
 2025-10-03 22:30:14.228549,Alfred Dunhill - Alfred Dunhill - Winner,Dustin Johnson,-0.1046,0.0007,0.1053
 2025-10-04 04:33:32.539844,LOTTE Championship - LOTTE Championship - Winner,Youmin Hwang,-0.3089,0.0833,0.3922
