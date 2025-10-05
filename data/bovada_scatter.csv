@@ -10,80 +10,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-05 16:33:34.787346,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Tie,0.20120000000000005,0.5238,0.3226
 2025-10-05 16:33:34.828225,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs NY Yankees,Tie,0.1875,0.5,0.3125
 2025-10-05 16:33:34.790845,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Toronto Blue Jays,0.17900000000000005,0.5238,0.3448
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,TOR Blue Jays beat DET Tigers,0.1731,0.25,0.0769
 2025-10-05 16:33:34.794333,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Los Angeles Dodgers,0.17099999999999993,0.6154,0.4444
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,0.15749999999999997,0.6923,0.5348
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,NY Yankees beat DET Tigers,0.154,0.2128,0.0588
 2025-10-05 16:33:34.783891,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs NY Yankees,Tie,0.1488,0.4878,0.339
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,LA Dodgers beat MIL Brewers,0.14429999999999998,0.3571,0.2128
-2025-10-05 07:25:54.057690,National League - MLB 2025 National League - National League Winner,Los Angeles Dodgers,0.13640000000000002,0.5,0.3636
 2025-10-05 10:31:38.089789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.12710000000000005,0.4348,0.3077
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Texas Tech,0.12530000000000002,0.4762,0.3509
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,DET Tigers beat TOR Blue Jays,0.12310000000000001,0.2,0.0769
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.1131,0.2381,0.125
 2025-10-05 16:33:34.806129,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs TOR Blue Jays,Los Angeles Dodgers,0.11119999999999997,0.5556,0.4444
-2025-10-05 07:25:54.049231,American League - MLB 2025 American League - American League Winner,Detroit Tigers,0.1069,0.303,0.1961
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,MIL Brewers beat LA Dodgers,0.0993,0.2326,0.1333
-2025-10-05 07:25:54.049231,American League - MLB 2025 American League - American League Winner,Toronto Blue Jays,0.09800000000000003,0.3279,0.2299
-2025-10-05 07:25:53.786457,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Ohio State,0.09740000000000004,0.4545,0.3571
-2025-10-05 07:25:54.092810,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,0.09600000000000009,0.8182,0.7222
-2025-10-05 07:25:54.087511,Winning Division - World Series 2025 - Winning Division - Winning Division,NL West,0.08939999999999998,0.3333,0.2439
 2025-10-05 16:33:34.821237,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Milwaukee Brewers,0.08390000000000003,0.4348,0.3509
-2025-10-05 07:25:54.057690,National League - MLB 2025 National League - National League Winner,Milwaukee Brewers,0.07779999999999998,0.3077,0.2299
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,DET Tigers beat NY Yankees,0.0741,0.1176,0.0435
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.0692,0.0909,0.0217
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.0642,0.1818,0.1176
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Hapoel Tel Aviv,0.0635,0.7778,0.7143
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),0.0629,0.1538,0.0909
 2025-10-05 16:33:34.810066,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Detroit Tigers,0.05990000000000001,0.3774,0.3175
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Alabama,0.059099999999999986,0.3448,0.2857
 2025-10-05 09:27:20.036766,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Matt Gogel,0.05870000000000003,0.5238,0.4651
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,CHI Cubs beat LA Dodgers,0.058300000000000005,0.125,0.0667
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.057300000000000004,0.0714,0.0141
-2025-10-05 07:25:54.087511,Winning Division - World Series 2025 - Winning Division - Winning Division,AL Central,0.056400000000000006,0.1333,0.0769
-2025-10-05 07:25:54.082023,Winning State - World Series 2025 - Winning State - Winning State,New York (NY),0.052000000000000005,0.1429,0.0909
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Monaco,0.050000000000000044,0.8,0.75
-2025-10-05 07:25:54.087511,Winning Division - World Series 2025 - Winning Division - Winning Division,NL Central,0.0494,0.2381,0.1887
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Cincinnati,0.047400000000000005,0.1,0.0526
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,0.0474,0.0909,0.0435
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),0.04360000000000001,0.0714,0.0278
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Carson Beck (MIA),0.04240000000000001,0.1333,0.0909
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Mookie Betts (LAD),0.04239999999999999,0.0769,0.0345
 2025-10-05 16:33:34.821237,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Toronto Blue Jays,0.04099999999999998,0.3636,0.3226
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Miami Florida,0.0407,0.1176,0.0769
 2025-10-05 10:31:38.096209,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.037599999999999995,0.1429,0.1053
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Tarik Skubal (DET),0.037500000000000006,0.1,0.0625
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,LA Dodgers beat CHI Cubs,0.036199999999999996,0.1538,0.1176
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Toronto Blue Jays,0.0353,0.0909,0.0556
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Detroit Tigers,0.033600000000000005,0.05,0.0164
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat New York Yankees,0.0334,0.0769,0.0435
-2025-10-05 07:25:54.082023,Winning State - World Series 2025 - Winning State - Winning State,Any Other State,0.033299999999999996,0.4878,0.4545
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Tarik Skubal (DET),0.033,0.0526,0.0196
 2025-10-05 16:33:34.810066,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Milwaukee Brewers,0.03210000000000002,0.4167,0.3846
-2025-10-05 07:25:54.082023,Winning State - World Series 2025 - Winning State - Winning State,California (CA),0.030299999999999994,0.3333,0.303
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Panathinaikos,0.029299999999999993,0.7436,0.7143
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Zalgiris,0.028799999999999992,0.1538,0.125
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Freddie Freeman (LAD),0.027999999999999997,0.0625,0.0345
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,New York Yankees to beat Los Angeles Dodgers,0.027900000000000008,0.0714,0.0435
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Jackson Chourio (MIL),0.027900000000000008,0.0714,0.0435
-2025-10-05 07:25:53.786457,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Indiana,0.027800000000000005,0.1111,0.0833
 2025-10-05 10:31:39.918065,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - D. Thompson / D. Lipsky - Final Round 2-Balls,Davis Thompson,0.026499999999999968,0.6491,0.6226
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Florida,0.0262,0.0385,0.0123
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Milwaukee Brewers,0.0262,0.0385,0.0123
 2025-10-05 10:31:38.096209,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.02560000000000001,0.3333,0.3077
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Riley Greene (DET),0.0256,0.05,0.0244
 2025-10-05 10:31:39.888379,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - C. Phillips / P. Fishburn - Final Round 2-Balls,Patrick Fishburn,0.025599999999999956,0.6,0.5744
-2025-10-05 07:25:54.057690,National League - MLB 2025 National League - National League Winner,Chicago Cubs,0.025300000000000003,0.1429,0.1176
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas A&M,0.024999999999999994,0.125,0.1
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Chicago Cubs,0.0244,0.0323,0.0079
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Spencer Torkelson (DET),0.024399999999999998,0.0385,0.0141
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Gleyber Torres (DET),0.023899999999999998,0.0435,0.0196
-2025-10-05 07:25:54.076889,Winning League - World Series 2025 - Winning League - Winning League,American League,0.023799999999999988,0.5,0.4762
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Hapoel Tel Aviv,0.023799999999999988,0.3571,0.3333
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Virginia,0.02310000000000001,0.1,0.0769
 2025-10-05 10:31:40.038915,Round Match-Ups - Final Round Match-Ups - M. Homa vs T. Olesen - Final Round Match-Ups,Thorbjorn Olesen,0.022600000000000064,0.5348,0.5122
-2025-10-05 07:25:53.786457,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Oregon,0.02260000000000001,0.4,0.3774
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Detroit Tigers,0.022400000000000003,0.0323,0.0099
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,William Contreras (MIL),0.022099999999999998,0.0385,0.0164
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Alejandro Kirk (TOR),0.021799999999999996,0.0435,0.0217
 2025-10-05 10:31:39.867209,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - E. Van Rooyen / J. Svensson - Final Round 2-Balls,Jesper Svensson,0.02169999999999994,0.5455,0.5238
@@ -91,12 +49,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Monaco,0.02100000000000002,0.3846,0.3636
 2025-10-05 10:31:39.913795,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - C. Young / N. Dunlap - Final Round 2-Balls,Carson Young,0.02079999999999993,0.5556,0.5348
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Jackson Chourio (MIL),0.0206,0.0385,0.0179
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Georgia,0.02049999999999999,0.1538,0.1333
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Zalgiris,0.0203,0.0588,0.0385
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,0.0203,0.0526,0.0323
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jeremiah Smith (OSU),0.02020000000000001,0.1111,0.0909
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Ty Simpson (ALA),0.02020000000000001,0.1111,0.0909
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oregon,0.020100000000000007,0.1739,0.1538
 2025-10-05 15:27:10.399408,Round Match-Ups - Final Round Match-Ups - G. Higgo vs R. Hojgaard - Final Round Match-Ups,Rasmus Hojgaard,0.01970000000000005,0.5652,0.5455
 2025-10-05 10:31:39.964525,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - T. Kanaya / D. Ghim - Final Round 2-Balls,Doug Ghim,0.01970000000000005,0.5652,0.5455
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Aaron Judge (NYY),0.019099999999999992,0.0667,0.0476
@@ -106,86 +61,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-05 10:31:39.909525,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - M. Hubbard / M. Thorbjornsen - Final Round 2-Balls,Michael Thorbjornsen,0.018100000000000005,0.5833,0.5652
 2025-10-05 12:52:32.568390,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Real Madrid,0.0179,0.1429,0.125
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Pete Crow-Armstrong (CHC),0.017100000000000004,0.0323,0.0152
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat New York Yankees,0.017100000000000004,0.0323,0.0152
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Toronto Blue Jays,0.0169,0.0526,0.0357
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Virtus Bologna,0.016700000000000007,0.1,0.0833
 2025-10-05 10:31:38.093331,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.016699999999999993,0.2667,0.25
 2025-10-05 12:52:32.568390,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Hapoel Tel Aviv,0.016600000000000004,0.0833,0.0667
-2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Alejandro Kirk (TOR),0.016100000000000003,0.0244,0.0083
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.016100000000000003,0.0357,0.0196
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Andy Pages (LAD),0.016100000000000003,0.0357,0.0196
+2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Alejandro Kirk (TOR),0.016100000000000003,0.0244,0.0083
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Brice Turang (MIL),0.0157,0.0435,0.0278
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Tucker (CHC),0.0157,0.0435,0.0278
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,New York Yankees to beat Milwaukee Brewers,0.015300000000000001,0.0476,0.0323
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.015100000000000002,0.1818,0.1667
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Michael Busch (CHC),0.014599999999999998,0.0278,0.0132
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Bo Bichette (TOR),0.014599999999999998,0.0278,0.0132
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Shane Bieber (TOR),0.0145,0.0244,0.0099
-2025-10-05 07:25:54.082023,Winning State - World Series 2025 - Winning State - Winning State,Illinois (IL),0.014399999999999996,0.0769,0.0625
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Fenerbahce,0.01429999999999998,0.9091,0.8948
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Bayern Munich,0.013899999999999996,0.125,0.1111
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Tennessee,0.0131,0.0476,0.0345
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Gleyber Torres (DET),0.012899999999999998,0.0179,0.005
 2025-10-05 10:31:38.087044,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.012899999999999995,0.1667,0.1538
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Indiana,0.012800000000000002,0.0345,0.0217
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Seiya Suzuki (CHC),0.012700000000000003,0.0323,0.0196
 2025-10-05 10:31:39.989796,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - V. Whaley / M. Homa - Final Round 2-Balls,Vince Whaley,0.012199999999999989,0.5122,0.5
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Riley Greene (DET),0.0118,0.0217,0.0099
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Kevin Gausman (TOR),0.011399999999999997,0.0278,0.0164
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.011300000000000001,0.0357,0.0244
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat New York Yankees,0.011199999999999995,0.0435,0.0323
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Alabama,0.011099999999999999,0.1111,0.1
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Real Madrid,0.01100000000000001,0.5348,0.5238
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Andy Pages (LAD),0.010700000000000001,0.0217,0.011
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),0.010700000000000001,0.0385,0.0278
-2025-10-05 15:27:10.377036,Round Match-Ups - Final Round Match-Ups - M. Meissner vs D. Ghim - Final Round Match-Ups,Doug Ghim,0.010699999999999932,0.5455,0.5348
 2025-10-05 15:27:10.381474,Round Match-Ups - Final Round Match-Ups - M. Homa vs T. Olesen - Final Round Match-Ups,Thorbjorn Olesen,0.010699999999999932,0.5455,0.5348
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Philadelphia Phillies to beat Detroit Tigers,0.010600000000000002,0.0323,0.0217
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.010600000000000002,0.0323,0.0217
+2025-10-05 15:27:10.377036,Round Match-Ups - Final Round Match-Ups - M. Meissner vs D. Ghim - Final Round Match-Ups,Doug Ghim,0.010699999999999932,0.5455,0.5348
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Christian Yelich (MIL),0.010600000000000002,0.0323,0.0217
 2025-10-05 09:27:20.036766,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Cameron Percy,0.010399999999999993,0.2326,0.2222
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,George Springer (TOR),0.0102,0.0769,0.0667
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Real Madrid,0.010199999999999987,0.9333,0.9231
 2025-10-05 12:52:34.023992,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.010099999999999998,0.5556,0.5455
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Julio Rodriguez (SEA),-0.010100000000000001,0.0244,0.0345
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,George Pickens (DAL),-0.0102,0.0667,0.0769
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Cristopher Sanchez (PHI),-0.010300000000000002,0.0141,0.0244
 2025-10-05 10:31:39.989796,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - V. Whaley / M. Homa - Final Round 2-Balls,Max Homa,-0.010699999999999932,0.5348,0.5455
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),-0.010700000000000001,0.0278,0.0385
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Max Fried (NYY),-0.010700000000000001,0.0278,0.0385
-2025-10-05 10:31:39.909525,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - M. Hubbard / M. Thorbjornsen - Final Round 2-Balls,Mark Hubbard,-0.011099999999999999,0.4651,0.4762
 2025-10-05 12:52:32.568390,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Fenerbahce,-0.011099999999999999,0.1,0.1111
+2025-10-05 10:31:39.909525,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - M. Hubbard / M. Thorbjornsen - Final Round 2-Balls,Mark Hubbard,-0.011099999999999999,0.4651,0.4762
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Randy Arozarena (SEA),-0.011199999999999995,0.0323,0.0435
 2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Cal Raleigh (SEA),-0.011199999999999995,0.0476,0.0588
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,LSU,-0.011199999999999995,0.0476,0.0588
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,-0.011199999999999995,0.0323,0.0435
 2025-10-05 10:31:39.892638,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - T. Widing / Z. Johnson - Final Round 2-Balls,Tim Widing,-0.0116,0.4762,0.4878
 2025-10-05 12:52:34.023992,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.011600000000000055,0.5122,0.5238
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Georgia,-0.011900000000000008,0.0833,0.0952
 2025-10-05 15:27:10.377036,Round Match-Ups - Final Round Match-Ups - M. Meissner vs D. Ghim - Final Round Match-Ups,Mac Meissner,-0.012199999999999989,0.5,0.5122
 2025-10-05 15:27:10.381474,Round Match-Ups - Final Round Match-Ups - M. Homa vs T. Olesen - Final Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Bryan Woo (SEA),-0.012700000000000003,0.0196,0.0323
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Josh Naylor (SEA),-0.012700000000000003,0.0196,0.0323
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Kansas State,-0.013,0.0066,0.0196
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Barcelona,-0.01319999999999999,0.25,0.2632
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Fernando Mendoza (IND),-0.014399999999999996,0.0625,0.0769
-2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Blake Snell (LAD),-0.0145,0.0099,0.0244
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Arch Manning (TEX),-0.0145,0.0099,0.0244
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,Trey McBride (ARI),-0.014899999999999997,0.0476,0.0625
+2025-10-05 11:23:47.591289,World Series MVP - World Series MVP 2025 - World Series MVP,Blake Snell (LAD),-0.0145,0.0099,0.0244
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jeremiyah Love (ND),-0.014900000000000004,0.0196,0.0345
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Philadelphia Phillies to beat Toronto Blue Jays,-0.015300000000000001,0.0323,0.0476
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Blake Snell (LAD),-0.015300000000000001,0.0323,0.0476
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,-0.015300000000000001,0.0323,0.0476
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,CHI Cubs beat PHI Phillies,-0.01580000000000001,0.0556,0.0714
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),-0.0168,0.0217,0.0385
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,Jaxon Smith-Njigba (SEA),-0.01759999999999999,0.1,0.1176
 2025-10-05 10:31:38.096209,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.017600000000000005,0.3333,0.3509
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Gunner Stockton (UGA),-0.018099999999999998,0.0345,0.0526
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,Emeka Egbuka (TB),-0.018099999999999998,0.0588,0.0769
 2025-10-05 16:33:34.835283,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs TOR Blue Jays,Tie,-0.018799999999999983,0.3448,0.3636
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Eugenio Suarez (SEA),-0.019800000000000005,0.0278,0.0476
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Houston,-0.0204,0.0141,0.0345
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Jonathan Taylor (IND),-0.02049999999999999,0.1333,0.1538
 2025-10-05 10:31:39.888379,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - C. Phillips / P. Fishburn - Final Round 2-Balls,Chandler Phillips,-0.020699999999999996,0.4444,0.4651
 2025-10-05 10:31:39.796764,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Cristopher Sanchez (PHI),-0.021799999999999996,0.0217,0.0435
 2025-10-05 10:31:40.038915,Round Match-Ups - Final Round Match-Ups - M. Homa vs T. Olesen - Final Round Match-Ups,Max Homa,-0.022600000000000064,0.5122,0.5348
@@ -196,69 +125,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-05 10:31:39.867209,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - E. Van Rooyen / J. Svensson - Final Round 2-Balls,Erik Van Rooyen,-0.023800000000000043,0.5,0.5238
 2025-10-05 10:31:39.913795,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - C. Young / N. Dunlap - Final Round 2-Balls,Nick Dunlap,-0.024399999999999977,0.4878,0.5122
 2025-10-05 10:31:39.918065,Sanderson Farms - 2/3 Balls - Final Round 2-Balls - D. Thompson / D. Lipsky - Final Round 2-Balls,David Lipsky,-0.024500000000000022,0.3922,0.4167
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,Nico Collins (HOU),-0.024999999999999994,0.1,0.125
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Cal Raleigh (SEA),-0.025300000000000003,0.1176,0.1429
 2025-10-05 08:33:46.089748,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Drew Allar (PSU),-0.0254,0.004,0.0294
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Philadelphia Phillies,-0.025900000000000003,0.0217,0.0476
-2025-10-05 07:25:54.076889,Winning League - World Series 2025 - Winning League - Winning League,National League,-0.026499999999999968,0.5652,0.5917
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Arizona State,-0.027999999999999997,0.1538,0.1818
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,PHI Phillies beat CHI Cubs,-0.028399999999999995,0.0625,0.0909
-2025-10-05 07:25:54.066454,Exact Result - World Series 2025 - Exact Result,Philadelphia Phillies to beat Seattle Mariners,-0.031199999999999995,0.0244,0.0556
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Saquon Barkley (PHI),-0.031799999999999995,0.1111,0.1429
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Breece Hall (NYJ),-0.03330000000000001,0.0667,0.1
 2025-10-05 10:31:39.791230,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Aaron Judge (NYY),-0.033399999999999985,0.1333,0.1667
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,SEA Mariners beat NY Yankees,-0.034100000000000005,0.0909,0.125
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,NY Yankees beat SEA Mariners,-0.034100000000000005,0.0909,0.125
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,California,-0.03660000000000001,0.011,0.0476
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Georgia Tech,-0.03670000000000001,0.1538,0.1905
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Barcelona,-0.03709999999999991,0.6296,0.6667
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,MIL Brewers beat PHI Phillies,-0.038099999999999995,0.0952,0.1333
-2025-10-05 07:25:54.024315,NFL Weekly Specials - NFL Week 5 Leaders - Most Receiving Yards,Jaylen Waddle (MIA),-0.038299999999999994,0.0526,0.0909
 2025-10-05 16:33:34.801951,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Tie,-0.04140000000000002,0.2326,0.274
 2025-10-05 16:33:34.780436,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,-0.04410000000000003,0.3333,0.3774
 2025-10-05 16:33:34.817597,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Tie,-0.04859999999999998,0.274,0.3226
 2025-10-05 16:33:34.828225,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs NY Yankees,New York Yankees,-0.04910000000000003,0.3509,0.4
 2025-10-05 16:33:34.813894,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs NY Yankees,Tie,-0.05080000000000001,0.2667,0.3175
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Tony Pollard (TEN),-0.052399999999999995,0.0385,0.0909
-2025-10-05 07:25:54.087511,Winning Division - World Series 2025 - Winning Division - Winning Division,AL West,-0.05379999999999999,0.1,0.1538
-2025-10-05 07:25:54.060955,National League - MLB 2025 National League - NLCS Exact Result,PHI Phillies beat MIL Brewers,-0.0563,0.1176,0.1739
 2025-10-05 12:52:32.561490,Euroleague - Euroleague 2025/26 - To Make Final Four,Crvena Zvezda,-0.05679999999999999,0.125,0.1818
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,SEA Mariners beat TOR Blue Jays,-0.05710000000000001,0.1429,0.2
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas,-0.0585,0.0526,0.1111
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Louisville,-0.058899999999999994,0.0244,0.0833
-2025-10-05 07:25:54.049231,American League - MLB 2025 American League - American League Winner,New York Yankees,-0.059099999999999986,0.2857,0.3448
 2025-10-05 16:33:34.783891,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs NY Yankees,New York Yankees,-0.05960000000000004,0.3571,0.4167
 2025-10-05 10:31:38.096209,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.06190000000000001,0.3636,0.4255
-2025-10-05 07:25:54.052530,American League - MLB 2025 American League - ALCS Exact Result,TOR Blue Jays beat SEA Mariners,-0.0628,0.1111,0.1739
 2025-10-05 16:33:34.797826,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs NY Yankees,Tie,-0.0635,0.2222,0.2857
 2025-10-05 16:33:34.794333,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Detroit Tigers,-0.0635,0.2222,0.2857
 2025-10-05 16:33:34.824773,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs DET Tigers,Tie,-0.06490000000000001,0.3125,0.3774
-2025-10-05 07:25:54.087511,Winning Division - World Series 2025 - Winning Division - Winning Division,NL East,-0.07149999999999998,0.0952,0.1667
-2025-10-05 07:25:54.082023,Winning State - World Series 2025 - Winning State - Winning State,Pennsylvania (PA),-0.0739,0.1,0.1739
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Derrick Henry (BAL),-0.07500000000000001,0.125,0.2
 2025-10-05 09:27:20.036766,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Boo Weekley,-0.0799,0.011,0.0909
-2025-10-05 07:25:53.782200,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Florida State,-0.08299999999999999,0.0079,0.0909
-2025-10-05 07:25:53.773791,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Iowa State,-0.08410000000000001,0.0588,0.1429
 2025-10-05 16:33:34.787346,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Chicago Cubs,-0.08549999999999996,0.2222,0.3077
-2025-10-05 07:25:54.028281,NFL Weekly Specials - NFL Week 5 Leaders - Most Rushing Yards,Jahmyr Gibbs (DET),-0.0871,0.0667,0.1538
 2025-10-05 16:33:34.783891,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs NY Yankees,Chicago Cubs,-0.09029999999999999,0.2222,0.3125
-2025-10-05 07:25:53.711658,National Championship - National Championship 2025-26 - National Championship Game Winner ,Penn State,-0.0905,0.0345,0.125
 2025-10-05 16:33:34.810066,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Tie,-0.0933,0.2703,0.3636
-2025-10-05 07:25:54.092810,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",-0.0948,0.25,0.3448
 2025-10-05 16:33:34.821237,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Tie,-0.10010000000000002,0.2703,0.3704
 2025-10-05 16:33:34.787346,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Seattle Mariners,-0.10289999999999999,0.3226,0.4255
 2025-10-05 12:52:32.564951,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Crvena Zvezda,-0.10900000000000004,0.3077,0.4167
-2025-10-05 07:25:53.786457,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Penn State,-0.1098,0.0152,0.125
 2025-10-05 10:31:38.089789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,-0.11069999999999991,0.6226,0.7333
 2025-10-05 16:33:34.831803,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs SEA Mariners,Philadelphia Phillies,-0.11109999999999998,0.2222,0.3333
 2025-10-05 16:33:34.794333,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Tie,-0.11589999999999998,0.2174,0.3333
 2025-10-05 16:33:34.831803,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs SEA Mariners,Seattle Mariners,-0.11730000000000002,0.3175,0.4348
 2025-10-05 16:33:34.806129,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs TOR Blue Jays,Tie,-0.1175,0.2,0.3175
 2025-10-05 16:33:34.828225,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs NY Yankees,Philadelphia Phillies,-0.12739999999999999,0.2174,0.3448
-2025-10-05 07:25:54.049231,American League - MLB 2025 American League - American League Winner,Seattle Mariners,-0.14479999999999998,0.2,0.3448
-2025-10-05 07:25:54.057690,National League - MLB 2025 National League - National League Winner,Philadelphia Phillies,-0.1458,0.1667,0.3125
 2025-10-05 16:33:34.797826,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs NY Yankees,New York Yankees,-0.1482,0.2222,0.3704
-2025-10-05 07:25:53.777931,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas,-0.15,0.1,0.25
 2025-10-05 16:33:34.813894,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs NY Yankees,New York Yankees,-0.1518,0.2564,0.4082
 2025-10-05 16:33:34.835283,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs TOR Blue Jays,Philadelphia Phillies,-0.17309999999999998,0.1905,0.3636
 2025-10-05 16:33:34.790845,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Chicago Cubs,-0.177,0.1739,0.3509
