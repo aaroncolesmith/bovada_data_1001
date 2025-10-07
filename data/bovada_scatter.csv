@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 12:59:41.587896,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - Proposition,New endorsement or personal brand venture,0.12040000000000001,0.3704,0.25
 2025-10-07 13:40:15.829796,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Milwaukee Brewers,0.10319999999999996,0.6154,0.5122
 2025-10-07 13:40:15.853795,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs TOR Blue Jays,Toronto Blue Jays,0.10300000000000009,0.8,0.697
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,MIlwaukee Bucks,0.08730000000000004,0.7647,0.6774
 2025-10-07 13:40:15.826330,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs TOR Blue Jays,Los Angeles Dodgers,0.08660000000000001,0.5744,0.4878
 2025-10-07 13:40:15.812335,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Toronto Blue Jays,0.07730000000000004,0.7874,0.7101
 2025-10-07 13:40:15.808912,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Seattle Mariners,0.06970000000000004,0.5348,0.4651
@@ -19,9 +20,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 13:40:15.836661,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Seattle Mariners,0.06589999999999999,0.2985,0.2326
 2025-10-07 21:27:04.416587,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Brooklyn Nets,0.063,0.3571,0.2941
 2025-10-07 12:59:41.482999,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Deportivo Riestra,0.0605,0.0625,0.002
+2025-10-07 21:27:04.419990,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,New Orleans Pelicans,0.059799999999999964,0.6154,0.5556
 2025-10-07 13:40:15.840053,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Milwaukee Brewers,0.05890000000000001,0.3922,0.3333
 2025-10-07 21:27:04.419990,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Sacramento Kings,0.05709999999999993,0.8571,0.8
 2025-10-07 13:40:15.843436,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs DET Tigers,Detroit Tigers,0.056900000000000006,0.4651,0.4082
+2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,New Orleans Pelicans,0.055900000000000005,0.3636,0.3077
 2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Sacramento Kings,0.05449999999999999,0.6,0.5455
 2025-10-07 13:40:15.850266,MLB Futures Specials - Playoffs Specials - Team to Progress Further - PHI Phillies vs SEA Mariners,Tie,0.05449999999999999,0.4545,0.4
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Deportes Tolima,0.052300000000000006,0.1111,0.0588
@@ -29,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 15:33:15.675670,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.0491,0.0769,0.0278
 2025-10-07 21:27:04.416587,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,New Orleans Pelicans,0.047599999999999976,0.8571,0.8095
 2025-10-07 21:27:04.416587,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Utah Jazz,0.045899999999999996,0.25,0.2041
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,New Orleans Pelicans,0.043899999999999995,0.1818,0.1379
 2025-10-07 21:27:04.419990,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Brooklyn Nets,0.04169999999999999,0.1667,0.125
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Junior FC,0.03889999999999999,0.1818,0.1429
 2025-10-07 13:40:15.802125,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Detroit Tigers,0.03620000000000001,0.4444,0.4082
@@ -40,18 +44,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Sacramento Kings,0.029899999999999982,0.3077,0.2778
 2025-10-07 15:33:16.060824,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - B. Hossler / M. Greyserman / N. Nakanishi - 1st Round 3 Balls,Beau Hossler,0.029000000000000026,0.4545,0.4255
 2025-10-07 10:34:53.708369,League Two - England League Two 2025/26 - Top 3 Finish,Barnet,0.02779999999999999,0.25,0.2222
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Indiana Pacers,0.027700000000000002,0.4444,0.4167
 2025-10-07 15:33:16.069675,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - B. Cauley / N. Hojgaard / T. Konishi - 1st Round 3 Balls,Nicolai Hojgaard,0.027700000000000002,0.4444,0.4167
 2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Indiana Pacers,0.026800000000000046,0.7143,0.6875
 2025-10-07 21:27:04.419990,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Chicago Bulls,0.026800000000000046,0.7143,0.6875
 2025-10-07 14:35:45.234993,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - LeBron Special,Final season declaration,0.02560000000000001,0.3333,0.3077
 2025-10-07 10:34:53.708369,League Two - England League Two 2025/26 - Top 3 Finish,Grimsby Town,0.02560000000000001,0.3333,0.3077
 2025-10-07 10:34:53.698952,League Two - England League Two 2025/26 - To Be Promoted,Swindon Town,0.025499999999999967,0.4255,0.4
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Detroit Pistons,0.02529999999999999,0.8824,0.8571
 2025-10-07 12:59:41.582911,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Marty Supreme,0.0242,0.0909,0.0667
 2025-10-07 15:33:16.130607,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - R. Hojgaard / R. Yonezawa / S. Kodaira - 1st Round 3 Balls,Rasmus Hojgaard,0.023800000000000043,0.5238,0.5
 2025-10-07 12:59:41.280138,Liga MX - Liga MX Apertura 2025 - Winner,CF Monterrey,0.023799999999999988,0.1667,0.1429
 2025-10-07 20:32:15.937620,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.023799999999999988,0.5,0.4762
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Golden State Warriors,0.023799999999999932,0.8571,0.8333
 2025-10-07 10:34:53.711536,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,0.02169999999999994,0.5455,0.5238
 2025-10-07 13:40:15.840053,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Tie,0.021399999999999975,0.2778,0.2564
+2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Brooklyn Nets,0.0213,0.0769,0.0556
 2025-10-07 10:34:53.711536,League Two - England League Two 2025/26 - Top 7 Finish,Crewe Alexandra,0.020699999999999996,0.4651,0.4444
 2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Philadelphia 76ers,0.01980000000000004,0.8948,0.875
 2025-10-07 15:33:16.158595,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - I. Salinda / S. Ryder / T. Kobayashi - 1st Round 3 Balls,Isaiah Salinda,0.019699999999999995,0.4545,0.4348
@@ -60,6 +68,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 15:33:16.175342,Tournament Match-Ups - Tournament Match-Ups - K. Yu vs M. Homa - Tournament Match-Ups,Kevin Yu,0.01880000000000004,0.5744,0.5556
 2025-10-07 10:34:53.708369,League Two - England League Two 2025/26 - Top 3 Finish,Crewe Alexandra,0.01820000000000002,0.2,0.1818
 2025-10-07 12:59:41.280138,Liga MX - Liga MX Apertura 2025 - Winner,Tigres UANL,0.0179,0.1429,0.125
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Atlanta Hawks,0.01760000000000006,0.9,0.8824
 2025-10-07 15:33:16.106553,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - M. Thorbjornsen / R. Hisatsune / T. Semikawa - 1st Round 3 Balls,Michael Thorbjornsen,0.017299999999999982,0.4255,0.4082
 2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Chicago Bulls,0.017299999999999982,0.4255,0.4082
 2025-10-07 10:34:53.711536,League Two - England League Two 2025/26 - Top 7 Finish,Milton Keynes Dons,0.016700000000000048,0.75,0.7333
@@ -71,11 +80,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 15:33:16.118616,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - A. Smalley / K. Kaneko / S. Valimaki - 1st Round 3 Balls,Alex Smalley,0.015400000000000025,0.4,0.3846
 2025-10-07 15:33:16.118616,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - A. Smalley / K. Kaneko / S. Valimaki - 1st Round 3 Balls,Sami Valimaki,0.015400000000000025,0.4,0.3846
 2025-10-07 15:33:16.126635,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - K. Roy / M. Meissner / R. Kawamoto - 1st Round 3 Balls,Kevin Roy,0.015400000000000025,0.4,0.3846
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Portland Trail Blazers,0.015400000000000025,0.2857,0.2703
 2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Philadelphia 76ers,0.014900000000000024,0.6923,0.6774
 2025-10-07 10:34:53.705239,League Two - England League Two 2025/26 - To Finish Bottom,Harrogate Town,0.014899999999999997,0.0625,0.0476
 2025-10-07 10:34:54.113888,LNB Pro A - LNB Pro A 2025/26 - Outright,Nanterre,0.014499999999999999,0.0294,0.0149
 2025-10-07 12:59:43.086410,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,0.014200000000000101,0.8403,0.8261
 2025-10-07 20:32:16.248640,Open de Espana - Open de Espana - Winner,David Puig,0.014099999999999994,0.0667,0.0526
+2025-10-07 22:31:10.703469,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Cleveland Cavaliers,0.013900000000000023,0.8889,0.875
+2025-10-07 22:31:10.703469,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Philadelphia 76ers,0.0131,0.2353,0.2222
 2025-10-07 10:34:53.702117,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,0.0131,0.2353,0.2222
 2025-10-07 10:34:54.113888,LNB Pro A - LNB Pro A 2025/26 - Outright,Cholet,0.012300000000000002,0.0417,0.0294
 2025-10-07 21:27:04.416587,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Washington Wizards,0.012299999999999978,0.3571,0.3448
@@ -83,14 +95,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 10:34:53.702117,League Two - England League Two 2025/26 - To Be Relegated,Newport County,0.011900000000000022,0.661,0.6491
 2025-10-07 15:33:16.233106,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Pierceson Coody,0.011199999999999995,0.0588,0.0476
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Millonarios,0.011099999999999999,0.1111,0.1
-2025-10-07 09:32:10.591155,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.011099999999999999,0.4762,0.4651
+2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Portland Trail Blazers,0.01100000000000001,0.5348,0.5238
 2025-10-07 20:32:15.925426,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,0.010800000000000004,0.2381,0.2273
 2025-10-07 21:27:05.309055,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.010699999999999932,0.5455,0.5348
 2025-10-07 10:34:53.702117,League Two - England League Two 2025/26 - To Be Relegated,Barrow FC,0.0102,0.0769,0.0667
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,América de Cali,-0.0102,0.0667,0.0769
-2025-10-07 10:34:55.499228,SAS Championship - SAS Championship - Winner,Cameron Percy,-0.0102,0.0667,0.0769
 2025-10-07 21:27:04.423418,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Washington Wizards,-0.0102,0.0667,0.0769
+2025-10-07 10:34:55.499228,SAS Championship - SAS Championship - Winner,Cameron Percy,-0.0102,0.0667,0.0769
 2025-10-07 15:33:16.106553,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - M. Thorbjornsen / R. Hisatsune / T. Semikawa - 1st Round 3 Balls,Taiga Semikawa,-0.010699999999999987,0.3226,0.3333
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Brooklyn Nets,-0.010700000000000001,0.0278,0.0385
 2025-10-07 21:27:05.309055,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.01100000000000001,0.5238,0.5348
 2025-10-07 15:33:16.060824,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - B. Hossler / M. Greyserman / N. Nakanishi - 1st Round 3 Balls,Max Greyserman,-0.011099999999999999,0.4651,0.4762
 2025-10-07 12:59:41.582911,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Avatar: Fire & Ash,-0.011199999999999995,0.0476,0.0588
@@ -105,8 +118,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 10:34:55.499228,SAS Championship - SAS Championship - Winner,Darren Clarke,-0.0131,0.0345,0.0476
 2025-10-07 12:59:43.086410,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.01369999999999999,0.2273,0.241
 2025-10-07 21:27:04.416587,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Phoenix Suns,-0.013900000000000023,0.875,0.8889
-2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nasa Hataoka,-0.013999999999999999,0.0769,0.0909
 2025-10-07 14:35:45.234993,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - LeBron Special,"Launch of a docuseries, film, or media event",-0.013999999999999999,0.0769,0.0909
+2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nasa Hataoka,-0.013999999999999999,0.0769,0.0909
 2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Miyu Yamashita,-0.013999999999999999,0.0769,0.0909
 2025-10-07 12:59:41.587896,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - Proposition,Global basketball initiative,-0.014099999999999994,0.0526,0.0667
 2025-10-07 12:59:41.280138,Liga MX - Liga MX Apertura 2025 - Winner,FC Juárez,-0.014099999999999998,0.0244,0.0385
@@ -114,9 +127,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Deportivo Pasto,-0.014199999999999999,0.0152,0.0294
 2025-10-07 12:59:41.280138,Liga MX - Liga MX Apertura 2025 - Winner,Deportivo Toluca,-0.01469999999999999,0.2353,0.25
 2025-10-07 15:33:16.130607,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - R. Hojgaard / R. Yonezawa / S. Kodaira - 1st Round 3 Balls,Ren Yonezawa,-0.014900000000000024,0.3077,0.3226
+2025-10-07 22:31:10.710324,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Oklahoma City Thunder,-0.015599999999999947,0.7143,0.7299
 2025-10-07 15:33:16.060824,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - B. Hossler / M. Greyserman / N. Nakanishi - 1st Round 3 Balls,Naoto Nakanishi,-0.016600000000000004,0.1739,0.1905
-2025-10-07 10:34:53.698952,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.016699999999999993,0.25,0.2667
 2025-10-07 10:34:53.698952,League Two - England League Two 2025/26 - To Be Promoted,Gillingham,-0.016699999999999993,0.25,0.2667
+2025-10-07 10:34:53.698952,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.016699999999999993,0.25,0.2667
 2025-10-07 21:27:04.419990,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Phoenix Suns,-0.016900000000000026,0.6552,0.6721
 2025-10-07 12:59:41.587896,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - Proposition,Leaving the Lakers,-0.0179,0.125,0.1429
 2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,-0.018099999999999998,0.0588,0.0769
@@ -127,23 +141,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-07 13:40:15.819269,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs NY Yankees,New York Yankees,-0.02020000000000001,0.0909,0.1111
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Fortaleza CEIF,-0.0203,0.0323,0.0526
 2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ariya Jutanugarn,-0.0203,0.0385,0.0588
-2025-10-07 15:33:16.126635,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - K. Roy / M. Meissner / R. Kawamoto - 1st Round 3 Balls,Riki Kawamoto,-0.021999999999999964,0.2857,0.3077
 2025-10-07 17:30:56.231737,Serie A - Serie A 2025/26 - Winner,Virtus Bologna,-0.021999999999999964,0.2857,0.3077
+2025-10-07 15:33:16.126635,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - K. Roy / M. Meissner / R. Kawamoto - 1st Round 3 Balls,Riki Kawamoto,-0.021999999999999964,0.2857,0.3077
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Phoenix Suns,-0.022199999999999998,0.1739,0.1961
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Llaneros FC,-0.022400000000000003,0.0099,0.0323
 2025-10-07 10:34:54.113888,LNB Pro A - LNB Pro A 2025/26 - Outright,Paris Basketball,-0.023799999999999988,0.1429,0.1667
 2025-10-07 12:59:43.223136,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.0242,0.0667,0.0909
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Toronto Raptors,-0.024399999999999977,0.4878,0.5122
 2025-10-07 15:33:16.175342,Tournament Match-Ups - Tournament Match-Ups - K. Yu vs M. Homa - Tournament Match-Ups,Max Homa,-0.024399999999999977,0.4878,0.5122
 2025-10-07 20:32:15.937620,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.026499999999999968,0.5652,0.5917
 2025-10-07 10:34:54.113888,LNB Pro A - LNB Pro A 2025/26 - Outright,ASVEL Basket,-0.02779999999999999,0.2222,0.25
 2025-10-07 12:59:41.582911,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Hamnet,-0.02779999999999999,0.2222,0.25
 2025-10-07 14:35:45.234993,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - LeBron Special,Confirms involvement in an ownership group for an NBA expansion team,-0.028399999999999995,0.0625,0.0909
 2025-10-07 15:33:16.118616,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - A. Smalley / K. Kaneko / S. Valimaki - 1st Round 3 Balls,Kota Kaneko,-0.028500000000000025,0.2941,0.3226
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Dallas Mavericks,-0.02960000000000007,0.6,0.6296
 2025-10-07 14:35:45.234993,Sports Celebrities - LeBron James (LAL) - What will be the #TheSecondDecision - LeBron Special,Leaving the Lakers,-0.029799999999999993,0.0952,0.125
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,San Antonio Spurs,-0.03169999999999995,0.7778,0.8095
 2025-10-07 15:33:16.158595,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - I. Salinda / S. Ryder / T. Kobayashi - 1st Round 3 Balls,Taiga Kobayashi,-0.03259999999999999,0.2,0.2326
 2025-10-07 11:26:16.917396,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Taylor Montgomery,-0.03330000000000001,0.0667,0.1
 2025-10-07 15:33:16.183367,Tournament Match-Ups - Tournament Match-Ups - A. Noren vs H. Matsuyama - Tournament Match-Ups,Hideki Matsuyama,-0.03479999999999994,0.5652,0.6
 2025-10-07 15:33:16.069675,Baycurrent Classic - 2/3 Balls - 1st Round 3 Balls - B. Cauley / N. Hojgaard / T. Konishi - 1st Round 3 Balls,Takanori Konishi,-0.03950000000000001,0.2105,0.25
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Miami Heat,-0.04089999999999999,0.3846,0.4255
 2025-10-07 10:34:53.711536,League Two - England League Two 2025/26 - Top 7 Finish,Cambridge United,-0.04139999999999999,0.4348,0.4762
+2025-10-07 21:27:04.426840,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Memphis Grizzlies,-0.04259999999999997,0.5652,0.6078
 2025-10-07 12:59:41.496743,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.04440000000000001,0.0667,0.1111
 2025-10-07 13:40:15.829796,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Detroit Tigers,-0.04519999999999999,0.2326,0.2778
 2025-10-07 12:59:41.280138,Liga MX - Liga MX Apertura 2025 - Winner,Cruz Azul,-0.04999999999999999,0.2,0.25
