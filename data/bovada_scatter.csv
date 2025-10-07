@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-06 18:41:59.330571,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Callahan,0.2302,0.2778,0.0476
 2025-10-06 17:30:48.001172,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,Feyenoord,0.1607,0.6369,0.4762
 2025-10-06 17:30:48.004341,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Volendam,0.13890000000000002,0.5833,0.4444
-2025-10-06 15:31:45.256695,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.12079999999999996,0.5556,0.4348
 2025-10-06 18:41:59.330571,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Zac Taylor,0.1096,0.1481,0.0385
 2025-10-06 17:30:48.007504,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Feyenoord,0.10909999999999997,0.9091,0.8
 2025-10-06 17:30:47.805180,Serie A - Italy Serie A 2025/26 - To Be Relegated,Hellas Verona,0.09999999999999998,0.6,0.5
@@ -19,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Club Brugge,0.043200000000000016,0.3509,0.3077
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Lecce,0.04040000000000002,0.2222,0.1818
 2025-10-06 20:32:28.076055,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.03480000000000005,0.5348,0.5
-2025-10-06 15:31:47.215867,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.031799999999999995,0.4762,0.4444
 2025-10-06 17:30:47.998034,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.030299999999999994,0.6667,0.6364
 2025-10-06 17:30:47.805180,Serie A - Italy Serie A 2025/26 - To Be Relegated,Fiorentina,0.0294,0.0588,0.0294
 2025-10-06 17:30:48.026863,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,0.029000000000000026,0.4545,0.4255
@@ -33,40 +31,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-06 17:30:48.007504,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Groningen,0.0189,0.0385,0.0196
 2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Como,0.01820000000000002,0.2,0.1818
 2025-10-06 18:41:57.639864,Tournament Futures - FIFA World Cup 2026 - Winner,Spain,0.01820000000000002,0.2,0.1818
-2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Anderlecht,0.0179,0.1429,0.125
 2025-10-06 17:30:47.805180,Serie A - Italy Serie A 2025/26 - To Be Relegated,Udinese,0.0179,0.1429,0.125
 2025-10-06 18:41:57.784015,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,0.0179,0.1429,0.125
+2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Anderlecht,0.0179,0.1429,0.125
 2025-10-06 18:41:59.330571,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Daboll,0.017100000000000004,0.16,0.1429
 2025-10-06 17:30:48.022069,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.016700000000000048,0.75,0.7333
 2025-10-06 18:41:57.784015,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Racing Club,0.016600000000000004,0.0833,0.0667
 2025-10-06 16:37:21.974970,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.016100000000000003,0.6078,0.5917
 2025-10-06 18:41:59.498052,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,0.01430000000000009,0.8182,0.8039
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Cremonese,0.013899999999999996,0.125,0.1111
+2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Genk,0.011199999999999995,0.0588,0.0476
 2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Riccardo Orsolini (Bologna),0.011199999999999995,0.0588,0.0476
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Genoa,0.011199999999999995,0.0588,0.0476
-2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Genk,0.011199999999999995,0.0588,0.0476
 2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Rasmus Hojlund (Napoli),0.011099999999999999,0.1111,0.1
 2025-10-06 20:32:28.080052,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.010599999999999998,0.4651,0.4545
 2025-10-06 17:30:48.022069,Super Lig - Turkey Super Lig 2025/26 - Winner,Trabzonspor,0.0102,0.0769,0.0667
 2025-10-06 16:37:21.966541,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,0.010199999999999987,0.8039,0.7937
 2025-10-06 23:27:09.677506,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,S T Lee,0.010100000000000001,0.0345,0.0244
-2025-10-06 15:31:47.203636,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,-0.010099999999999998,0.3125,0.3226
 2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Jonathan David (Juventus),-0.0102,0.0667,0.0769
 2025-10-06 16:37:21.966541,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.010800000000000032,0.2632,0.274
+2025-10-07 03:40:39.319329,League Two - England League Two 2025/26 - Winner,Chesterfield,-0.010899999999999993,0.1429,0.1538
 2025-10-06 17:30:47.972506,First Division A - Belgium First Division A 2025/26 - Winner,Mechelen,-0.011199999999999995,0.0476,0.0588
-2025-10-06 15:31:47.272494,Open de Espana - Open de Espana - Winner,Jon Rahm,-0.011899999999999994,0.2381,0.25
 2025-10-06 17:30:48.004341,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,NEC Nijmegen,-0.012100000000000001,0.0123,0.0244
-2025-10-06 15:31:47.211755,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.012199999999999989,0.5,0.5122
 2025-10-06 17:30:49.616012,American League - MLB 2025 American League - American League Winner,Detroit Tigers,-0.012800000000000006,0.2198,0.2326
 2025-10-06 18:41:59.498052,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.01319999999999999,0.25,0.2632
 2025-10-06 17:30:47.872018,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.014099999999999994,0.0526,0.0667
 2025-10-06 17:30:47.872018,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.016699999999999937,0.5833,0.6
 2025-10-06 17:30:47.805180,Serie A - Italy Serie A 2025/26 - To Be Relegated,Torino,-0.0179,0.125,0.1429
-2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Christian Pulisic (AC Milan),-0.018099999999999998,0.0588,0.0769
 2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Kevin De Bruyne (Napoli),-0.018099999999999998,0.0588,0.0769
-2025-10-06 17:30:48.026863,Super League - Switzerland Super League 2025/26 - Winner,Servette,-0.0189,0.0196,0.0385
+2025-10-06 17:30:47.801760,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Christian Pulisic (AC Milan),-0.018099999999999998,0.0588,0.0769
 2025-10-06 17:30:48.007504,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Sparta Rotterdam,-0.0189,0.0196,0.0385
-2025-10-06 15:31:45.256695,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,-0.019099999999999992,0.0476,0.0667
+2025-10-06 17:30:48.026863,Super League - Switzerland Super League 2025/26 - Winner,Servette,-0.0189,0.0196,0.0385
 2025-10-06 17:30:48.004341,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Go Ahead Eagles,-0.019099999999999992,0.0476,0.0667
 2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Lazio,-0.02020000000000001,0.0909,0.1111
 2025-10-06 16:37:21.974970,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,-0.021699999999999997,0.4545,0.4762
@@ -75,13 +70,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-06 17:30:48.001172,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,FC Utrecht,-0.022200000000000004,0.0123,0.0345
 2025-10-06 17:30:48.026863,Super League - Switzerland Super League 2025/26 - Winner,St. Gallen,-0.023799999999999988,0.1429,0.1667
 2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Napoli,-0.026700000000000057,0.8681,0.8948
-2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Fiorentina,-0.029299999999999993,0.0476,0.0769
-2025-10-06 17:30:47.998034,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,AZ Alkmaar,-0.029299999999999993,0.0476,0.0769
 2025-10-06 17:30:48.007504,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,FC Utrecht,-0.029299999999999993,0.0476,0.0769
-2025-10-06 18:41:59.339253,NFL Specials - WIll Mike McDaniel be fired as Head Coach Before the Last Game of the Regular Season - Proposition,No,-0.030299999999999994,0.3333,0.3636
+2025-10-06 17:30:47.998034,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,AZ Alkmaar,-0.029299999999999993,0.0476,0.0769
+2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Fiorentina,-0.029299999999999993,0.0476,0.0769
 2025-10-06 17:30:48.026863,Super League - Switzerland Super League 2025/26 - Winner,Young Boys,-0.030299999999999994,0.3333,0.3636
+2025-10-06 18:41:59.339253,NFL Specials - WIll Mike McDaniel be fired as Head Coach Before the Last Game of the Regular Season - Proposition,No,-0.030299999999999994,0.3333,0.3636
 2025-10-06 20:32:28.076055,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.030399999999999983,0.5348,0.5652
-2025-10-06 15:31:47.215867,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.03090000000000004,0.5917,0.6226
 2025-10-06 17:30:47.998034,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Ajax,-0.031799999999999995,0.1111,0.1429
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Sassuolo,-0.0321,0.0588,0.0909
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Parma,-0.034100000000000005,0.0909,0.125
@@ -92,7 +86,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-06 17:30:48.004341,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Heerenveen,-0.0524,0.0476,0.1
 2025-10-06 17:30:47.808254,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Pisa,-0.055900000000000005,0.3077,0.3636
 2025-10-06 17:30:47.811314,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Juventus,-0.08339999999999992,0.5833,0.6667
-2025-10-06 15:31:45.256695,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,-0.0988,0.5238,0.6226
 2025-10-06 17:30:47.805180,Serie A - Italy Serie A 2025/26 - To Be Relegated,Sassuolo,-0.10069999999999998,0.2326,0.3333
 2025-10-06 18:41:59.330571,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Kevin Stefanski,-0.101,0.0323,0.1333
 2025-10-06 17:30:48.001172,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,AZ Alkmaar,-0.1071,0.1429,0.25
