@@ -1,9 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-09 03:08:34.985626,American League - MLB 2025 American League - American League Winner,Toronto Blue Jays,0.1985,0.5556,0.3571
 2025-10-09 03:08:34.985626,American League - MLB 2025 American League - American League Winner,Detroit Tigers,0.1347,0.2597,0.125
+2025-10-09 04:35:29.946564,National League - MLB 2025 National League - National League Winner,Philadelphia Phillies,0.0871,0.1538,0.0667
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,0.06860000000000002,0.2353,0.1667
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,0.062,0.1176,0.0556
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Philadelphia Phillies,0.05910000000000001,0.0976,0.0385
+2025-10-09 04:35:29.946564,National League - MLB 2025 National League - National League Winner,Chicago Cubs,0.05550000000000001,0.1111,0.0556
 2025-10-08 19:25:09.294013,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,0.03420000000000001,0.1111,0.0769
-2025-10-08 17:31:04.857499,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.02169999999999994,0.5455,0.5238
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Chicago Cubs,0.022599999999999995,0.0571,0.0345
 2025-10-08 18:44:09.171183,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.02169999999999994,0.5455,0.5238
+2025-10-08 17:31:04.857499,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.02169999999999994,0.5455,0.5238
 2025-10-08 22:32:18.063200,Boxing Lines - Joe Hayden vs Angelo Dragone - To Win the Bout,Angelo Dragone,0.0208,0.0833,0.0625
 2025-10-08 17:31:04.841414,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.02079999999999993,0.5556,0.5348
 2025-10-08 19:25:09.282199,Boxing Lines - Joe Hayden vs Angelo Dragone - To Win the Bout,Joe Hayden,0.020399999999999974,0.9859,0.9655
@@ -13,13 +19,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-08 16:37:58.513036,Western Conference - Western Conference 2025-26 - Conference Winner,Denver Nuggets,0.012899999999999995,0.1667,0.1538
 2025-10-08 16:38:00.021823,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.011600000000000055,0.5238,0.5122
 2025-10-08 18:44:09.158980,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.011600000000000055,0.5238,0.5122
-2025-10-08 22:32:18.104606,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.01100000000000001,0.5348,0.5238
 2025-10-08 16:38:00.004501,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.01100000000000001,0.5348,0.5238
+2025-10-08 22:32:18.104606,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.01100000000000001,0.5348,0.5238
 2025-10-08 23:27:45.138124,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,0.01090000000000002,0.8571,0.8462
 2025-10-08 18:44:09.158980,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.010099999999999998,0.5455,0.5556
 2025-10-08 16:38:00.021823,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.010099999999999998,0.5455,0.5556
-2025-10-08 16:38:00.004501,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.010699999999999932,0.5348,0.5455
 2025-10-08 22:32:18.104606,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.010699999999999932,0.5348,0.5455
+2025-10-08 16:38:00.004501,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.010699999999999932,0.5348,0.5455
 2025-10-08 23:27:45.138124,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.011700000000000016,0.2105,0.2222
 2025-10-08 16:37:58.513036,Western Conference - Western Conference 2025-26 - Conference Winner,Houston Rockets,-0.013899999999999996,0.1111,0.125
 2025-10-08 18:44:09.146841,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,-0.013999999999999999,0.0769,0.0909
@@ -35,4 +41,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-08 16:37:58.568321,Southeast Division - Southeast Division 2025-26 - Division Winner,Orlando Magic,-0.022600000000000064,0.6,0.6226
 2025-10-08 17:31:04.841414,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.022600000000000064,0.5122,0.5348
 2025-10-08 19:25:09.294013,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,Ibraheem Sulaimaan,-0.023499999999999965,0.9474,0.9709
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.026500000000000024,0.1818,0.2083
+2025-10-09 04:35:29.946564,National League - MLB 2025 National League - National League Winner,Milwaukee Brewers,-0.031399999999999983,0.339,0.3704
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,-0.04290000000000005,0.3571,0.4
+2025-10-09 04:35:29.931344,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,-0.06670000000000001,0.1333,0.2
+2025-10-09 04:35:29.946564,National League - MLB 2025 National League - National League Winner,Los Angeles Dodgers,-0.1058,0.5238,0.6296
 2025-10-09 03:08:34.985626,American League - MLB 2025 American League - American League Winner,Seattle Mariners,-0.15700000000000003,0.2778,0.4348
