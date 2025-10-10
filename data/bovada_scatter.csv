@@ -11,12 +11,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Joakim Lagergren,0.04190000000000001,0.0476,0.0057
 2025-10-10 17:13:59.074477,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,0.0391,0.0714,0.0323
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Somi Lee,0.0384,0.0769,0.0385
-2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Riki Kawamoto,0.03489999999999999,0.5,0.4651
 2025-10-10 14:34:12.545467,Round Match-Ups - 3rd Round Match Up - M. Thorbjornsen v C. Morikawa - 3rd Round Match Up ,Michael Thorbjornsen,0.03489999999999999,0.5,0.4651
+2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Riki Kawamoto,0.03489999999999999,0.5,0.4651
 2025-10-10 14:34:12.528594,Round Match-Ups - 3rd Round Match Up - B. Cauley v L. Hodges - 3rd Round Match Up ,Bud Cauley,0.03480000000000005,0.5348,0.5
 2025-10-10 14:34:12.562367,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Max Greyserman,0.03479999999999994,0.6,0.5652
-2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Jon Rahm,0.03420000000000001,0.1111,0.0769
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Patrick Reed,0.03420000000000001,0.1111,0.0769
+2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Jon Rahm,0.03420000000000001,0.1111,0.0769
 2025-10-10 14:34:12.656232,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - A. Noren / N. Echavarria / S. Theegala - 3rd Round 3 Balls,Alex Noren,0.033299999999999996,0.4878,0.4545
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Daniel Brown,0.033,0.0526,0.0196
 2025-10-10 14:34:12.524389,Round Match-Ups - 3rd Round Match Up - V. Whaley v P. Fishburn - 3rd Round Match Up ,Vince Whaley,0.03179999999999994,0.5556,0.5238
@@ -26,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jenny Bae,0.028199999999999996,0.0667,0.0385
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,A Lim Kim,0.025599999999999998,0.0435,0.0179
 2025-10-10 14:34:12.668290,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - D. Riley / G. Woodland / N. Nakanishi - 3rd Round 3 Balls,Gary Woodland,0.023800000000000043,0.5238,0.5
-2025-10-10 14:34:12.532813,Round Match-Ups - 3rd Round Match Up - M. Homa v K. Mitchell - 3rd Round Match Up ,Keith Mitchell,0.023800000000000043,0.5238,0.5
 2025-10-10 14:34:12.553967,Round Match-Ups - 3rd Round Match Up - G. Higgo v R. Hoey - 3rd Round Match Up ,Rico Hoey,0.023800000000000043,0.5238,0.5
+2025-10-10 14:34:12.532813,Round Match-Ups - 3rd Round Match Up - M. Homa v K. Mitchell - 3rd Round Match Up ,Keith Mitchell,0.023800000000000043,0.5238,0.5
 2025-10-10 14:34:12.558164,Round Match-Ups - 3rd Round Match Up - A. Noren v X. Schauffele - 3rd Round Match Up ,Alex Noren,0.023799999999999988,0.5,0.4762
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Aaron Cockerill,0.0233,0.0385,0.0152
 2025-10-10 14:34:12.515877,Round Match-Ups - 3rd Round Match Up - E. Grillo v M. McCarty - 3rd Round Match Up ,Emiliano Grillo,0.022600000000000064,0.5348,0.5122
@@ -50,20 +50,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 18:30:12.585407,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.01100000000000001,0.5348,0.5238
 2025-10-10 14:34:12.566602,Round Match-Ups - 3rd Round Match Up - N. Echavarria v A. Smalley - 3rd Round Match Up ,Alex Smalley,0.010699999999999932,0.5455,0.5348
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,JT Toppin (Texas Tech),0.0102,0.0769,0.0667
-2025-10-10 19:51:05.209080,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,0.010099999999999998,0.4545,0.4444
 2025-10-10 15:30:51.441212,American League - MLB 2025 American League - American League Winner,Toronto Blue Jays,0.010099999999999998,0.5556,0.5455
+2025-10-10 19:51:05.209080,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,0.010099999999999998,0.4545,0.4444
 2025-10-10 17:13:59.154864,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.010099999999999998,0.4444,0.4545
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Todd Clements,-0.0103,0.002,0.0123
 2025-10-10 14:34:12.648056,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - B. Campbell / R. Hoey / S.W. Kim - 3rd Round 3 Balls,Si Woo Kim,-0.010599999999999998,0.4545,0.4651
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nataliya Guseva,-0.0106,0.0017,0.0123
 2025-10-10 18:30:12.585407,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.010699999999999932,0.5348,0.5455
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,-0.010700000000000001,0.011,0.0217
-2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
+2025-10-10 20:32:23.054717,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,-0.011099999999999999,0.1,0.1111
+2025-10-10 20:32:23.086664,Boxing Lines - Tahmir Smalls vs Jose Roman Vazquez - To Win the Bout,Tahmir Smalls,-0.011099999999999999,0.8889,0.9
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
+2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Jayden Schaper,-0.0118,0.0099,0.0217
 2025-10-10 14:34:12.648056,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - B. Campbell / R. Hoey / S.W. Kim - 3rd Round 3 Balls,Brian Campbell,-0.011899999999999994,0.2381,0.25
-2025-10-10 18:30:12.633338,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.012199999999999989,0.4878,0.5
 2025-10-10 14:34:12.566602,Round Match-Ups - 3rd Round Match Up - N. Echavarria v A. Smalley - 3rd Round Match Up ,Nico Echavarria,-0.012199999999999989,0.5,0.5122
+2025-10-10 18:30:12.633338,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.012199999999999989,0.4878,0.5
 2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Satoshi Kodaira,-0.012299999999999978,0.3448,0.3571
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Joaquin Niemann,-0.012400000000000001,0.004,0.0164
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nanna Koerstz Madsen,-0.0127,0.0014,0.0141
@@ -76,8 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 14:34:12.656232,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - A. Noren / N. Echavarria / S. Theegala - 3rd Round 3 Balls,Nico Echavarria,-0.014900000000000024,0.3077,0.3226
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Boogie Fland (Florida),-0.015300000000000001,0.0323,0.0476
 2025-10-10 17:13:59.060675,American League - MLB 2025 American League - ALCS Exact Result,DET Tigers beat TOR Blue Jays,-0.015400000000000025,0.2703,0.2857
-2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Tom Vaillant,-0.0165,0.0079,0.0244
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Mikael Lindberg,-0.0165,0.0079,0.0244
+2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Tom Vaillant,-0.0165,0.0079,0.0244
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,AJ Dybantsa (BYU),-0.016700000000000007,0.0833,0.1
 2025-10-10 09:32:24.510486,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,-0.017299999999999982,0.5744,0.5917
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Francesco Laporta,-0.0179,0.0099,0.0278
@@ -94,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 15:30:51.524584,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.021699999999999997,0.4545,0.4762
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.021799999999999996,0.0217,0.0435
 2025-10-10 14:34:12.515877,Round Match-Ups - 3rd Round Match Up - E. Grillo v M. McCarty - 3rd Round Match Up ,Matt McCarty,-0.022600000000000064,0.5122,0.5348
-2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Arpichaya Yubol,-0.023200000000000002,0.0244,0.0476
+2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
 2025-10-10 12:58:29.576234,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Sahith Theegala,-0.023799999999999988,0.4762,0.5
 2025-10-10 14:34:12.537040,Round Match-Ups - 3rd Round Match Up - C. Gotterup v K. Yu - 3rd Round Match Up ,Kevin Yu,-0.023799999999999988,0.4762,0.5
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jin Hee Im,-0.023899999999999998,0.0196,0.0435
