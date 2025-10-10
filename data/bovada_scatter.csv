@@ -47,13 +47,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Somi Lee,0.0384,0.0769,0.0385
 2025-10-10 07:29:05.224892,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.03640000000000004,0.4,0.3636
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Chicago Cubs,0.0353,0.0909,0.0556
+2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Riki Kawamoto,0.03489999999999999,0.5,0.4651
+2025-10-10 14:34:12.545467,Round Match-Ups - 3rd Round Match Up - M. Thorbjornsen v C. Morikawa - 3rd Round Match Up ,Michael Thorbjornsen,0.03489999999999999,0.5,0.4651
+2025-10-10 14:34:12.528594,Round Match-Ups - 3rd Round Match Up - B. Cauley v L. Hodges - 3rd Round Match Up ,Bud Cauley,0.03480000000000005,0.5348,0.5
+2025-10-10 14:34:12.562367,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Max Greyserman,0.03479999999999994,0.6,0.5652
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,0.03469999999999995,0.875,0.8403
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.033399999999999985,0.3509,0.3175
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.033299999999999996,0.1333,0.1
-2025-10-10 06:43:56.339954,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,0.031799999999999995,0.4762,0.4444
+2025-10-10 14:34:12.656232,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - A. Noren / N. Echavarria / S. Theegala - 3rd Round 3 Balls,Alex Noren,0.033299999999999996,0.4878,0.4545
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,0.031799999999999995,0.1429,0.1111
-2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.0286,0.1,0.0714
+2025-10-10 06:43:56.339954,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,0.031799999999999995,0.4762,0.4444
+2025-10-10 14:34:12.524389,Round Match-Ups - 3rd Round Match Up - V. Whaley v P. Fishburn - 3rd Round Match Up ,Vince Whaley,0.03179999999999994,0.5556,0.5238
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ball State,0.0286,0.0385,0.0099
+2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.0286,0.1,0.0714
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Los Angeles Rams,0.02840000000000001,0.1053,0.0769
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jenny Bae,0.028199999999999996,0.0667,0.0385
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Western Michigan,0.0267,0.1176,0.0909
@@ -61,16 +67,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 07:29:05.255004,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,No,0.024500000000000022,0.4167,0.3922
 2025-10-10 07:29:05.261656,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,Yes,0.024299999999999995,0.0769,0.0526
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cam Skattebo (NYG),0.024,0.0625,0.0385
+2025-10-10 14:34:12.532813,Round Match-Ups - 3rd Round Match Up - M. Homa v K. Mitchell - 3rd Round Match Up ,Keith Mitchell,0.023800000000000043,0.5238,0.5
+2025-10-10 14:34:12.668290,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - D. Riley / G. Woodland / N. Nakanishi - 3rd Round 3 Balls,Gary Woodland,0.023800000000000043,0.5238,0.5
 2025-10-10 07:29:05.278311,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,Yes,0.023800000000000043,0.5238,0.5
+2025-10-10 14:34:12.553967,Round Match-Ups - 3rd Round Match Up - G. Higgo v R. Hoey - 3rd Round Match Up ,Rico Hoey,0.023800000000000043,0.5238,0.5
 2025-10-10 05:33:10.038902,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Tampa Bay Buccaneers,0.0238,0.0952,0.0714
+2025-10-10 14:34:12.558164,Round Match-Ups - 3rd Round Match Up - A. Noren v X. Schauffele - 3rd Round Match Up ,Alex Noren,0.023799999999999988,0.5,0.4762
 2025-10-10 03:09:46.472513,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,0.023799999999999988,0.5,0.4762
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,0.022699999999999998,0.25,0.2273
 2025-10-10 07:29:05.271656,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,0.022600000000000064,0.6226,0.6
+2025-10-10 14:34:12.515877,Round Match-Ups - 3rd Round Match Up - E. Grillo v M. McCarty - 3rd Round Match Up ,Emiliano Grillo,0.022600000000000064,0.5348,0.5122
+2025-10-10 14:34:12.648056,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - B. Campbell / R. Hoey / S.W. Kim - 3rd Round 3 Balls,Rico Hoey,0.02260000000000001,0.4,0.3774
 2025-10-10 07:29:05.201681,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,0.02210000000000001,0.2326,0.2105
+2025-10-10 14:34:12.616035,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - C. Morikawa / M. Thorbjornsen / T. Kanaya - 3rd Round 3 Balls,Takumi Kanaya,0.021999999999999964,0.3077,0.2857
 2025-10-10 06:43:56.214999,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Carson Schwesinger (CLE),0.021799999999999986,0.1818,0.16
 2025-10-10 07:29:05.387515,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),0.02049999999999999,0.2128,0.1923
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.01999999999999999,0.2105,0.1905
 2025-10-10 12:58:29.576234,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Max Greyserman,0.01970000000000005,0.5652,0.5455
+2025-10-10 14:34:12.537040,Round Match-Ups - 3rd Round Match Up - C. Gotterup v K. Yu - 3rd Round Match Up ,Chris Gotterup,0.01970000000000005,0.5652,0.5455
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,Yes,0.01959999999999995,0.697,0.6774
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Ian Happ (CHC),0.017800000000000003,0.0244,0.0066
 2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
@@ -79,13 +93,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.015700000000000006,0.1333,0.1176
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Tucker (CHC),0.015300000000000001,0.0476,0.0323
 2025-10-10 06:43:56.209765,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.014900000000000024,0.3226,0.3077
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.014899999999999997,0.0625,0.0476
 2025-10-10 06:43:56.329690,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),0.014899999999999997,0.0625,0.0476
-2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.014399999999999996,0.0769,0.0625
-2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.014399999999999996,0.0769,0.0625
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.014899999999999997,0.0625,0.0476
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Utah State,0.014399999999999996,0.0769,0.0625
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.014100000000000001,0.0526,0.0385
+2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.014399999999999996,0.0769,0.0625
+2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.014100000000000001,0.0526,0.0385
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.014100000000000001,0.0526,0.0385
 2025-10-10 05:33:10.019712,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Tampa Bay Buccaneers,0.014099999999999998,0.0435,0.0294
 2025-10-10 07:29:05.185067,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,No,0.014000000000000012,0.9231,0.9091
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Freddie Freeman (LAD),0.013999999999999999,0.0909,0.0769
@@ -101,11 +115,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 05:33:10.038902,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Seattle Seahawks,0.011199999999999995,0.0588,0.0476
 2025-10-10 07:29:05.288277,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,Yes,0.01100000000000001,0.5348,0.5238
 2025-10-10 06:43:56.301279,National League - MLB 2025 National League - National League Winner,Los Angeles Dodgers,0.010700000000000043,0.6774,0.6667
+2025-10-10 14:34:12.566602,Round Match-Ups - 3rd Round Match Up - N. Echavarria v A. Smalley - 3rd Round Match Up ,Alex Smalley,0.010699999999999932,0.5455,0.5348
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,San Francisco 49ers,0.010499999999999982,0.2105,0.2
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Matthew Stafford (LAR),0.0102,0.0769,0.0667
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,JT Toppin (Texas Tech),0.0102,0.0769,0.0667
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),-0.010099999999999998,0.4444,0.4545
 2025-10-10 07:29:05.221584,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,-0.010399999999999993,0.2222,0.2326
+2025-10-10 14:34:12.648056,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - B. Campbell / R. Hoey / S.W. Kim - 3rd Round 3 Balls,Si Woo Kim,-0.010599999999999998,0.4545,0.4651
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nataliya Guseva,-0.0106,0.0017,0.0123
 2025-10-10 07:29:05.288277,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,-0.010699999999999932,0.5348,0.5455
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,-0.010700000000000001,0.011,0.0217
@@ -114,43 +130,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.0118,0.0099,0.0217
+2025-10-10 14:34:12.648056,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - B. Campbell / R. Hoey / S.W. Kim - 3rd Round 3 Balls,Brian Campbell,-0.011899999999999994,0.2381,0.25
+2025-10-10 14:34:12.566602,Round Match-Ups - 3rd Round Match Up - N. Echavarria v A. Smalley - 3rd Round Match Up ,Nico Echavarria,-0.012199999999999989,0.5,0.5122
 2025-10-10 04:34:48.325125,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.012199999999999989,0.4878,0.5
+2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Satoshi Kodaira,-0.012299999999999978,0.3448,0.3571
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nanna Koerstz Madsen,-0.0127,0.0014,0.0141
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,-0.012700000000000003,0.0196,0.0323
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),-0.012800000000000002,0.0217,0.0345
 2025-10-10 05:33:10.033939,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.012899999999999995,0.1538,0.1667
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Patty Tavatanakit,-0.012899999999999998,0.005,0.0179
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Gabriela Ruffels,-0.013,0.0022,0.0152
+2025-10-10 14:34:12.668290,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - D. Riley / G. Woodland / N. Nakanishi - 3rd Round 3 Balls,Naoto Nakanishi,-0.0131,0.2222,0.2353
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Donovan Dent (UCLA),-0.0131,0.0345,0.0476
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Tyler Glasnow (LAD),-0.0139,0.0057,0.0196
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cameron Ward (TEN),-0.014099999999999998,0.0294,0.0435
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),-0.014399999999999996,0.0625,0.0769
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tetairoa McMillan (CAR),-0.01440000000000001,0.0909,0.1053
+2025-10-10 14:34:12.656232,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - A. Noren / N. Echavarria / S. Theegala - 3rd Round 3 Balls,Nico Echavarria,-0.014900000000000024,0.3077,0.3226
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Wyoming,-0.0153,0.0141,0.0294
-2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Boogie Fland (Florida),-0.015300000000000001,0.0323,0.0476
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,-0.015300000000000001,0.0323,0.0476
+2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Boogie Fland (Florida),-0.015300000000000001,0.0323,0.0476
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Milwaukee Brewers,-0.0157,0.0278,0.0435
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,-0.015700000000000006,0.1176,0.1333
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,AJ Dybantsa (BYU),-0.016700000000000007,0.0833,0.1
 2025-10-10 09:32:24.510486,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,-0.017299999999999982,0.5744,0.5917
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
-2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Trey Kaufman-Renn (Purdue),-0.018099999999999998,0.0345,0.0526
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,-0.018099999999999998,0.0345,0.0526
+2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Trey Kaufman-Renn (Purdue),-0.018099999999999998,0.0345,0.0526
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Carlota Ciganda,-0.0186,0.001,0.0196
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ying Xu,-0.0194,0.005,0.0244
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,-0.019499999999999997,0.0099,0.0294
+2025-10-10 14:34:12.656232,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - A. Noren / N. Echavarria / S. Theegala - 3rd Round 3 Balls,Sahith Theegala,-0.019600000000000006,0.303,0.3226
 2025-10-10 07:29:05.278311,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.01970000000000005,0.5455,0.5652
+2025-10-10 14:34:12.558164,Round Match-Ups - 3rd Round Match Up - A. Noren v X. Schauffele - 3rd Round Match Up ,Xander Schauffele,-0.01970000000000005,0.5455,0.5652
+2025-10-10 14:34:12.636052,Baycurrent Classic - 2/3 Balls - 3rd Round 3 Balls - R. Kawamoto / S. Kodaira / T. Kobayashi - 3rd Round 3 Balls,Taiga Kobayashi,-0.020299999999999985,0.25,0.2703
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Detroit Tigers,-0.0203,0.0323,0.0526
 2025-10-10 07:29:05.271656,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.020699999999999996,0.4444,0.4651
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),-0.0208,0.0625,0.0833
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sarah Schmelzel,-0.021300000000000003,0.011,0.0323
+2025-10-10 14:34:12.532813,Round Match-Ups - 3rd Round Match Up - M. Homa v K. Mitchell - 3rd Round Match Up ,Max Homa,-0.02169999999999994,0.5238,0.5455
+2025-10-10 14:34:12.553967,Round Match-Ups - 3rd Round Match Up - G. Higgo v R. Hoey - 3rd Round Match Up ,Garrick Higgo,-0.02169999999999994,0.5238,0.5455
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,-0.021799999999999986,0.3704,0.3922
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Northern Illinois,-0.021799999999999996,0.0217,0.0435
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.021799999999999996,0.0217,0.0435
-2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
+2025-10-10 14:34:12.515877,Round Match-Ups - 3rd Round Match Up - E. Grillo v M. McCarty - 3rd Round Match Up ,Matt McCarty,-0.022600000000000064,0.5122,0.5348
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Arpichaya Yubol,-0.023200000000000002,0.0244,0.0476
+2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
 2025-10-10 07:29:05.201681,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,-0.023799999999999932,0.8333,0.8571
 2025-10-10 12:58:29.576234,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Sahith Theegala,-0.023799999999999988,0.4762,0.5
+2025-10-10 14:34:12.537040,Round Match-Ups - 3rd Round Match Up - C. Gotterup v K. Yu - 3rd Round Match Up ,Kevin Yu,-0.023799999999999988,0.4762,0.5
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jin Hee Im,-0.023899999999999998,0.0196,0.0435
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,-0.024299999999999995,0.0345,0.0588
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.024800000000000003,0.0278,0.0526
@@ -162,12 +190,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Toronto Blue Jays,-0.028399999999999995,0.0625,0.0909
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jordan Love (GB),-0.02840000000000001,0.0769,0.1053
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,-0.030199999999999998,0.0323,0.0625
+2025-10-10 14:34:12.562367,Round Match-Ups - 3rd Round Match Up - M. Greyserman v S. Theegala - 3rd Round Match Up ,Sahith Theegala,-0.031799999999999995,0.4444,0.4762
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jenny Shin,-0.0319,0.0066,0.0385
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Central Michigan,-0.0321,0.0588,0.0909
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.03249999999999997,0.7143,0.7468
+2025-10-10 14:34:12.528594,Round Match-Ups - 3rd Round Match Up - B. Cauley v L. Hodges - 3rd Round Match Up ,Lee Hodges,-0.033299999999999996,0.5122,0.5455
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,-0.03330000000000001,0.0667,0.1
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,-0.03330000000000001,0.0667,0.1
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jeeno Thitikul,-0.03570000000000001,0.25,0.2857
+2025-10-10 14:34:12.524389,Round Match-Ups - 3rd Round Match Up - V. Whaley v P. Fishburn - 3rd Round Match Up ,Patrick Fishburn,-0.03600000000000003,0.4878,0.5238
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,-0.0368,0.1905,0.2273
 2025-10-10 06:43:56.343295,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Seattle Mariners,-0.0378,0.4167,0.4545
 2025-10-10 07:29:05.224892,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.03920000000000001,0.6667,0.7059
@@ -197,8 +228,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,-0.0905,0.1,0.1905
 2025-10-10 06:43:56.349991,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Tie,-0.0947,0.1053,0.2
 2025-10-10 06:43:56.353309,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Tie,-0.1048,0.0952,0.2
-2025-10-10 06:43:56.363393,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Milwaukee Brewers,-0.10710000000000003,0.4167,0.5238
 2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.10710000000000003,0.4762,0.5833
+2025-10-10 06:43:56.363393,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Milwaukee Brewers,-0.10710000000000003,0.4167,0.5238
 2025-10-10 06:43:56.360054,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Milwaukee Brewers,-0.11810000000000004,0.4167,0.5348
 2025-10-10 06:43:56.346661,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Toronto Blue Jays,-0.125,0.7917,0.9167
 2025-10-10 07:29:05.268315,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,-0.13129999999999997,0.7778,0.9091
