@@ -45,9 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,0.03469999999999995,0.875,0.8403
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.033399999999999985,0.3509,0.3175
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.033299999999999996,0.1333,0.1
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,0.031799999999999995,0.1429,0.1111
 2025-10-10 06:43:56.339954,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,0.031799999999999995,0.4762,0.4444
-2025-10-09 22:31:24.804491,New Orleans Pelicans - Regular Season Wins 2025-26 - New Orleans Pelicans - Regular Season Wins,Over 30.5,0.030399999999999983,0.5652,0.5348
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,0.031799999999999995,0.1429,0.1111
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ball State,0.0286,0.0385,0.0099
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.0286,0.1,0.0714
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Los Angeles Rams,0.02840000000000001,0.1053,0.0769
@@ -62,28 +61,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 07:29:05.271656,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,0.022600000000000064,0.6226,0.6
 2025-10-10 07:29:05.201681,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,0.02210000000000001,0.2326,0.2105
 2025-10-10 06:43:56.214999,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Carson Schwesinger (CLE),0.021799999999999986,0.1818,0.16
-2025-10-09 22:31:24.764265,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Over 46.5,0.02169999999999994,0.5455,0.5238
-2025-10-09 22:31:24.673102,Brooklyn Nets - Regular Season Wins 2025-26 - Brooklyn Nets - Regular Season Wins,Under 20.5,0.02079999999999993,0.5556,0.5348
-2025-10-09 22:31:24.793489,Atlanta Hawks - Regular Season Wins 2025-26 - Atlanta Hawks - Regular Season Wins,Over 46.5,0.02079999999999993,0.5556,0.5348
 2025-10-10 07:29:05.387515,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),0.02049999999999999,0.2128,0.1923
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.01999999999999999,0.2105,0.1905
-2025-10-09 22:31:24.747146,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Over 47.5,0.01970000000000005,0.5652,0.5455
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,Yes,0.01959999999999995,0.697,0.6774
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Ian Happ (CHC),0.017800000000000003,0.0244,0.0066
-2025-10-09 22:31:25.993041,Boxing Lines - Tahmir Smalls vs Jose Roman Vazquez - To Win the Bout,Tahmir Smalls,0.01760000000000006,0.9,0.8824
+2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Seattle Mariners,0.0169,0.0526,0.0357
-2025-10-09 22:31:25.970386,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,0.016799999999999926,0.8571,0.8403
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.015700000000000006,0.1333,0.1176
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Tucker (CHC),0.015300000000000001,0.0476,0.0323
 2025-10-10 06:43:56.209765,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.014900000000000024,0.3226,0.3077
-2025-10-10 06:43:56.329690,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),0.014899999999999997,0.0625,0.0476
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.014899999999999997,0.0625,0.0476
-2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.014399999999999996,0.0769,0.0625
+2025-10-10 06:43:56.329690,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),0.014899999999999997,0.0625,0.0476
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Utah State,0.014399999999999996,0.0769,0.0625
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.014100000000000001,0.0526,0.0385
+2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.014100000000000001,0.0526,0.0385
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.014100000000000001,0.0526,0.0385
 2025-10-10 05:33:10.019712,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Tampa Bay Buccaneers,0.014099999999999998,0.0435,0.0294
 2025-10-10 07:29:05.185067,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,No,0.014000000000000012,0.9231,0.9091
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Freddie Freeman (LAD),0.013999999999999999,0.0909,0.0769
@@ -97,24 +91,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 09:32:24.510486,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,0.0116,0.4878,0.4762
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Bennett Stirtz (Iowa),0.011399999999999997,0.0278,0.0164
 2025-10-10 05:33:10.038902,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Seattle Seahawks,0.011199999999999995,0.0588,0.0476
-2025-10-09 22:31:24.787999,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 27.5,0.01100000000000001,0.5348,0.5238
 2025-10-10 07:29:05.288277,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,Yes,0.01100000000000001,0.5348,0.5238
 2025-10-10 06:43:56.301279,National League - MLB 2025 National League - National League Winner,Los Angeles Dodgers,0.010700000000000043,0.6774,0.6667
-2025-10-09 22:31:24.736632,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Over 49.5,0.010699999999999932,0.5455,0.5348
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,San Francisco 49ers,0.010499999999999982,0.2105,0.2
-2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,JT Toppin (Texas Tech),0.0102,0.0769,0.0667
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Matthew Stafford (LAR),0.0102,0.0769,0.0667
+2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,JT Toppin (Texas Tech),0.0102,0.0769,0.0667
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),-0.010099999999999998,0.4444,0.4545
 2025-10-10 07:29:05.221584,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,-0.010399999999999993,0.2222,0.2326
-2025-10-09 22:31:24.787999,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Under 27.5,-0.010699999999999932,0.5348,0.5455
 2025-10-10 07:29:05.288277,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,-0.010699999999999932,0.5348,0.5455
 2025-10-10 07:29:05.185067,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,-0.010899999999999993,0.1429,0.1538
-2025-10-09 22:31:24.736632,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Under 49.5,-0.01100000000000001,0.5238,0.5348
 2025-10-10 06:43:56.209765,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Saquon Barkley (PHI),-0.011200000000000002,0.0132,0.0244
+2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.0118,0.0099,0.0217
 2025-10-10 04:34:48.325125,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.012199999999999989,0.4878,0.5
-2025-10-09 22:31:24.757893,Phoenix Suns - Regular Season Wins 2025-26 - Phoenix Suns - Regular Season Wins,Under 31.5,-0.012199999999999989,0.5,0.5122
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),-0.012800000000000002,0.0217,0.0345
 2025-10-10 05:33:10.033939,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.012899999999999995,0.1538,0.1667
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Donovan Dent (UCLA),-0.0131,0.0345,0.0476
@@ -122,14 +112,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cameron Ward (TEN),-0.014099999999999998,0.0294,0.0435
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),-0.014399999999999996,0.0625,0.0769
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tetairoa McMillan (CAR),-0.01440000000000001,0.0909,0.1053
-2025-10-09 22:31:25.993041,Boxing Lines - Tahmir Smalls vs Jose Roman Vazquez - To Win the Bout,Jose Roman Vazquez,-0.015100000000000002,0.1667,0.1818
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Wyoming,-0.0153,0.0141,0.0294
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,-0.015300000000000001,0.0323,0.0476
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Boogie Fland (Florida),-0.015300000000000001,0.0323,0.0476
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,-0.015300000000000001,0.0323,0.0476
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Milwaukee Brewers,-0.0157,0.0278,0.0435
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,-0.015700000000000006,0.1176,0.1333
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,AJ Dybantsa (BYU),-0.016700000000000007,0.0833,0.1
-2025-10-09 22:31:25.970386,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,-0.01680000000000001,0.2105,0.2273
 2025-10-10 09:32:24.510486,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,-0.017299999999999982,0.5744,0.5917
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Trey Kaufman-Renn (Purdue),-0.018099999999999998,0.0345,0.0526
@@ -139,14 +127,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Detroit Tigers,-0.0203,0.0323,0.0526
 2025-10-10 07:29:05.271656,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.020699999999999996,0.4444,0.4651
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),-0.0208,0.0625,0.0833
-2025-10-09 22:31:24.764265,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Under 46.5,-0.02169999999999994,0.5238,0.5455
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,-0.021799999999999986,0.3704,0.3922
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Northern Illinois,-0.021799999999999996,0.0217,0.0435
-2025-10-09 22:31:24.673102,Brooklyn Nets - Regular Season Wins 2025-26 - Brooklyn Nets - Regular Season Wins,Over 20.5,-0.022600000000000064,0.5122,0.5348
-2025-10-09 22:31:24.793489,Atlanta Hawks - Regular Season Wins 2025-26 - Atlanta Hawks - Regular Season Wins,Under 46.5,-0.022600000000000064,0.5122,0.5348
 2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
 2025-10-10 07:29:05.201681,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,-0.023799999999999932,0.8333,0.8571
-2025-10-09 22:31:24.747146,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Under 47.5,-0.023800000000000043,0.5,0.5238
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,-0.024299999999999995,0.0345,0.0588
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.024800000000000003,0.0278,0.0526
 2025-10-10 03:09:46.472513,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,-0.026499999999999968,0.5652,0.5917
@@ -158,9 +142,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,-0.030199999999999998,0.0323,0.0625
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Central Michigan,-0.0321,0.0588,0.0909
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.03249999999999997,0.7143,0.7468
-2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,-0.03330000000000001,0.0667,0.1
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,-0.03330000000000001,0.0667,0.1
-2025-10-09 22:31:24.804491,New Orleans Pelicans - Regular Season Wins 2025-26 - New Orleans Pelicans - Regular Season Wins,Under 30.5,-0.03480000000000005,0.5,0.5348
+2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,-0.03330000000000001,0.0667,0.1
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,-0.0368,0.1905,0.2273
 2025-10-10 06:43:56.343295,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Seattle Mariners,-0.0378,0.4167,0.4545
 2025-10-10 07:29:05.224892,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.03920000000000001,0.6667,0.7059
@@ -186,8 +169,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 05:33:10.038902,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.09,0.16,0.25
 2025-10-10 06:43:56.349991,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Tie,-0.0947,0.1053,0.2
 2025-10-10 06:43:56.353309,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Tie,-0.1048,0.0952,0.2
-2025-10-10 06:43:56.363393,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Milwaukee Brewers,-0.10710000000000003,0.4167,0.5238
 2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.10710000000000003,0.4762,0.5833
+2025-10-10 06:43:56.363393,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Milwaukee Brewers,-0.10710000000000003,0.4167,0.5238
 2025-10-10 06:43:56.360054,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs DET Tigers,Milwaukee Brewers,-0.11810000000000004,0.4167,0.5348
 2025-10-10 06:43:56.346661,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Toronto Blue Jays,-0.125,0.7917,0.9167
 2025-10-10 07:29:05.268315,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,-0.13129999999999997,0.7778,0.9091
