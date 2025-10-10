@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minami Katsu,0.3484,0.3636,0.0152
 2025-10-10 06:43:56.304340,National League - MLB 2025 National League - NLCS Exact Result,LA Dodgers beat CHI Cubs,0.19039999999999999,0.3333,0.1429
 2025-10-10 06:43:56.353309,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Los Angeles Dodgers,0.17000000000000004,0.7778,0.6078
 2025-10-10 06:43:56.349991,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Los Angeles Dodgers,0.16909999999999992,0.7917,0.6226
@@ -17,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Toledo,0.08549999999999996,0.3077,0.2222
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Miami Ohio,0.07719999999999999,0.2105,0.1333
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,0.07500000000000001,0.2,0.125
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ina Yoon,0.0741,0.1176,0.0435
 2025-10-10 06:43:56.346661,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Tie,0.0705,0.1538,0.0833
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Tampa Bay Buccaneers,0.06910000000000001,0.16,0.0909
 2025-10-10 07:29:05.214915,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,Yes,0.0673999999999999,0.697,0.6296
@@ -33,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.363393,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Seattle Mariners,0.0524,0.3509,0.2985
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Detroit Tigers,0.0519,0.1852,0.1333
 2025-10-10 06:43:56.346661,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs TOR Blue Jays,Chicago Cubs,0.0509,0.1176,0.0667
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lindy Duncan,0.0503,0.0667,0.0164
 2025-10-10 05:33:10.033939,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Buffalo Bills,0.047099999999999975,0.5122,0.4651
 2025-10-10 07:29:05.191732,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,0.043399999999999994,0.4878,0.4444
 2025-10-10 05:33:10.185017,National League - MLB 2025 National League - National League Winner,Chicago Cubs,0.04269999999999999,0.1538,0.1111
@@ -40,17 +43,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 07:29:05.211625,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,0.04099999999999998,0.3077,0.2667
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.03920000000000001,0.3333,0.2941
 2025-10-10 06:43:56.324484,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,0.0391999999999999,0.8039,0.7647
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Somi Lee,0.0384,0.0769,0.0385
 2025-10-10 07:29:05.224892,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.03640000000000004,0.4,0.3636
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Chicago Cubs,0.0353,0.0909,0.0556
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,0.03469999999999995,0.875,0.8403
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.033399999999999985,0.3509,0.3175
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Detroit Tigers,0.033299999999999996,0.1333,0.1
-2025-10-10 06:43:56.339954,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,0.031799999999999995,0.4762,0.4444
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,0.031799999999999995,0.1429,0.1111
-2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ball State,0.0286,0.0385,0.0099
+2025-10-10 06:43:56.339954,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs DET Tigers,Tie,0.031799999999999995,0.4762,0.4444
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Toronto Blue Jays,0.0286,0.1,0.0714
+2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ball State,0.0286,0.0385,0.0099
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Los Angeles Rams,0.02840000000000001,0.1053,0.0769
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jenny Bae,0.028199999999999996,0.0667,0.0385
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Western Michigan,0.0267,0.1176,0.0909
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,A Lim Kim,0.025599999999999998,0.0435,0.0179
 2025-10-10 07:29:05.255004,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,No,0.024500000000000022,0.4167,0.3922
 2025-10-10 07:29:05.261656,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,Yes,0.024299999999999995,0.0769,0.0526
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cam Skattebo (NYG),0.024,0.0625,0.0385
@@ -65,17 +71,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 05:33:10.043034,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.01999999999999999,0.2105,0.1905
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,Yes,0.01959999999999995,0.697,0.6774
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Ian Happ (CHC),0.017800000000000003,0.0244,0.0066
-2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
+2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.017299999999999982,0.5917,0.5744
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Chicago Cubs vs. Seattle Mariners,0.0169,0.0526,0.0357
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.015700000000000006,0.1333,0.1176
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Kyle Tucker (CHC),0.015300000000000001,0.0476,0.0323
 2025-10-10 06:43:56.209765,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.014900000000000024,0.3226,0.3077
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Detroit Tigers to beat Los Angeles Dodgers,0.014899999999999997,0.0625,0.0476
 2025-10-10 06:43:56.329690,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),0.014899999999999997,0.0625,0.0476
-2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Utah State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.014399999999999996,0.0769,0.0625
+2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.014399999999999996,0.0769,0.0625
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Chicago Cubs to beat Toronto Blue Jays,0.014100000000000001,0.0526,0.0385
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Chicago Cubs,0.014100000000000001,0.0526,0.0385
 2025-10-10 05:33:10.019712,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Tampa Bay Buccaneers,0.014099999999999998,0.0435,0.0294
@@ -98,15 +104,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,JT Toppin (Texas Tech),0.0102,0.0769,0.0667
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),-0.010099999999999998,0.4444,0.4545
 2025-10-10 07:29:05.221584,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,-0.010399999999999993,0.2222,0.2326
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nataliya Guseva,-0.0106,0.0017,0.0123
 2025-10-10 07:29:05.288277,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,-0.010699999999999932,0.5348,0.5455
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,-0.010700000000000001,0.011,0.0217
 2025-10-10 07:29:05.185067,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,-0.010899999999999993,0.1429,0.1538
 2025-10-10 06:43:56.209765,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Saquon Barkley (PHI),-0.011200000000000002,0.0132,0.0244
 2025-10-10 10:35:19.467963,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 08:38:07.106647,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.0116,0.4762,0.4878
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.0118,0.0099,0.0217
 2025-10-10 04:34:48.325125,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.012199999999999989,0.4878,0.5
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Nanna Koerstz Madsen,-0.0127,0.0014,0.0141
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,-0.012700000000000003,0.0196,0.0323
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),-0.012800000000000002,0.0217,0.0345
 2025-10-10 05:33:10.033939,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.012899999999999995,0.1538,0.1667
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Patty Tavatanakit,-0.012899999999999998,0.005,0.0179
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Gabriela Ruffels,-0.013,0.0022,0.0152
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Donovan Dent (UCLA),-0.0131,0.0345,0.0476
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Tyler Glasnow (LAD),-0.0139,0.0057,0.0196
 2025-10-10 06:43:56.203922,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cameron Ward (TEN),-0.014099999999999998,0.0294,0.0435
@@ -122,28 +134,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.283378,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Trey Kaufman-Renn (Purdue),-0.018099999999999998,0.0345,0.0526
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,-0.018099999999999998,0.0345,0.0526
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Carlota Ciganda,-0.0186,0.001,0.0196
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ying Xu,-0.0194,0.005,0.0244
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,-0.019499999999999997,0.0099,0.0294
 2025-10-10 07:29:05.278311,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.01970000000000005,0.5455,0.5652
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Detroit Tigers,-0.0203,0.0323,0.0526
 2025-10-10 07:29:05.271656,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.020699999999999996,0.4444,0.4651
 2025-10-10 05:33:10.195290,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),-0.0208,0.0625,0.0833
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sarah Schmelzel,-0.021300000000000003,0.011,0.0323
 2025-10-10 07:29:05.244966,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,-0.021799999999999986,0.3704,0.3922
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.021799999999999996,0.0217,0.0435
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Northern Illinois,-0.021799999999999996,0.0217,0.0435
 2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.023200000000000002,0.0294,0.0526
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Arpichaya Yubol,-0.023200000000000002,0.0244,0.0476
 2025-10-10 07:29:05.201681,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,-0.023799999999999932,0.8333,0.8571
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jin Hee Im,-0.023899999999999998,0.0196,0.0435
 2025-10-10 06:43:56.167994,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,-0.024299999999999995,0.0345,0.0588
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.024800000000000003,0.0278,0.0526
 2025-10-10 03:09:46.472513,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,-0.026499999999999968,0.5652,0.5917
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Rio Takeda,-0.0275,0.011,0.0385
 2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Detroit Tigers,-0.027700000000000002,0.0556,0.0833
 2025-10-10 09:32:23.266436,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Solo Ball (UConn),-0.028000000000000004,0.0196,0.0476
 2025-10-10 07:29:05.255004,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,Yes,-0.028299999999999992,0.6491,0.6774
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Toronto Blue Jays,-0.028399999999999995,0.0625,0.0909
 2025-10-10 06:43:56.193447,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jordan Love (GB),-0.02840000000000001,0.0769,0.1053
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,-0.030199999999999998,0.0323,0.0625
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jenny Shin,-0.0319,0.0066,0.0385
 2025-10-10 06:43:56.176012,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Central Michigan,-0.0321,0.0588,0.0909
 2025-10-10 07:29:05.241649,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.03249999999999997,0.7143,0.7468
-2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,-0.03330000000000001,0.0667,0.1
 2025-10-10 06:43:56.309472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,-0.03330000000000001,0.0667,0.1
+2025-10-10 06:43:56.314489,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,-0.03330000000000001,0.0667,0.1
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jeeno Thitikul,-0.03570000000000001,0.25,0.2857
 2025-10-10 07:29:05.281639,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,-0.0368,0.1905,0.2273
 2025-10-10 06:43:56.343295,MLB Futures Specials - Playoffs Specials - Team to Progress Further - CHI Cubs vs SEA Mariners,Seattle Mariners,-0.0378,0.4167,0.4545
 2025-10-10 07:29:05.224892,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.03920000000000001,0.6667,0.7059
@@ -152,7 +173,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 05:33:10.019712,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Philadelphia Eagles,-0.04240000000000001,0.0909,0.1333
 2025-10-10 06:43:56.198682,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Nick Sirianni,-0.0429,0.0196,0.0625
 2025-10-10 07:29:05.211625,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,-0.04390000000000005,0.7561,0.8
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Miyu Yamashita,-0.0474,0.0435,0.0909
 2025-10-10 07:29:05.191732,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,Yes,-0.04820000000000002,0.5744,0.6226
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jennifer Kupcho,-0.0506,0.002,0.0526
 2025-10-10 06:43:56.366732,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs TOR Blue Jays,Milwaukee Brewers,-0.0534,0.1905,0.2439
 2025-10-10 05:33:10.165973,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.0572,0.1333,0.1905
 2025-10-10 06:43:56.225785,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Christian McCaffrey (SF),-0.057699999999999974,0.25,0.3077
@@ -167,6 +190,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 06:43:56.349991,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Detroit Tigers,-0.07720000000000002,0.1667,0.2439
 2025-10-10 05:33:10.185017,National League - MLB 2025 National League - National League Winner,Milwaukee Brewers,-0.07790000000000002,0.25,0.3279
 2025-10-10 05:33:10.038902,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.09,0.16,0.25
+2025-10-10 11:27:02.787269,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,-0.0905,0.1,0.1905
 2025-10-10 06:43:56.349991,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs DET Tigers,Tie,-0.0947,0.1053,0.2
 2025-10-10 06:43:56.353309,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Tie,-0.1048,0.0952,0.2
 2025-10-10 08:38:05.205897,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.10710000000000003,0.4762,0.5833
