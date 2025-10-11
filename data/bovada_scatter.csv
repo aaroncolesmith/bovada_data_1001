@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-10-11 09:28:00.569571,Scores - Final Round Score - Sungjae Im - Final Round Score,Under 70.5,0.20590000000000003,0.6226,0.4167
 2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Old Dominion,0.20370000000000002,0.3704,0.1667
 2025-10-11 08:34:04.210823,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.1377,0.2667,0.129
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Western Kentucky,0.11430000000000001,0.4,0.2857
@@ -11,19 +12,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 06:38:21.335345,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Indiana,0.02679999999999999,0.1379,0.1111
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Liberty,0.02239999999999999,0.1176,0.0952
 2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Julio Rodriguez (SEA),0.022000000000000006,0.1053,0.0833
+2025-10-11 09:28:00.630015,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 68.5,0.020699999999999996,0.4651,0.4444
 2025-10-11 04:33:07.961995,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Alejandro Moya,0.01999999999999999,0.2105,0.1905
-2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Arkansas State,0.0178,0.0294,0.0116
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,New Mexico State,0.0178,0.0294,0.0116
+2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Arkansas State,0.0178,0.0294,0.0116
 2025-10-10 22:30:44.817488,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,0.017300000000000093,0.7143,0.697
 2025-10-11 05:30:58.536329,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,0.01680000000000001,0.2273,0.2105
 2025-10-11 05:30:58.502284,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Alejandro Moya,0.01680000000000001,0.2273,0.2105
 2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Eugenio Suarez (SEA),0.015300000000000001,0.0476,0.0323
 2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Vladimir Guerrero Jr. (TOR),0.014800000000000008,0.2,0.1852
 2025-10-11 01:57:18.687790,Outrights - Tour de France 2026 - Tour de France Winner,Paul Seixas,0.014499999999999999,0.0294,0.0149
-2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.013999999999999999,0.0909,0.0769
 2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.013999999999999999,0.0909,0.0769
-2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,0.0131,0.0476,0.0345
+2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,0.013999999999999999,0.0909,0.0769
 2025-10-11 03:03:31.126059,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,0.0131,0.2353,0.2222
+2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,0.0131,0.0476,0.0345
 2025-10-11 06:38:21.594832,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.012699999999999989,0.3636,0.3509
 2025-10-11 05:30:57.125049,WNBA Championship - WNBA Championship 2026 - Championship Winner,Las Vegas Aces,0.010399999999999993,0.2326,0.2222
 2025-10-10 23:27:14.270849,Outright - Milan-San Remo 2026 - Milan-San Remo Winner,Wout van Aert,0.0102,0.0769,0.0667
@@ -40,12 +42,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),-0.014899999999999997,0.0476,0.0625
 2025-10-11 06:38:21.335345,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Oregon,-0.015400000000000025,0.3846,0.4
 2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Georgia Southern,-0.0167,0.005,0.0217
-2025-10-11 05:30:58.502284,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Viktor Postol,-0.016799999999999926,0.8403,0.8571
 2025-10-11 05:30:58.536329,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Josh Padley,-0.016799999999999926,0.8403,0.8571
+2025-10-11 05:30:58.502284,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Viktor Postol,-0.016799999999999926,0.8403,0.8571
 2025-10-11 06:38:21.594832,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,-0.017300000000000093,0.697,0.7143
 2025-10-11 04:33:07.961995,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Viktor Postol,-0.017900000000000027,0.8571,0.875
 2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,South Alabama,-0.018200000000000004,0.0294,0.0476
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Florida International,-0.02020000000000001,0.0909,0.1111
+2025-10-11 09:28:00.630015,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
 2025-10-11 05:30:57.125049,WNBA Championship - WNBA Championship 2026 - Championship Winner,Seattle Storm,-0.024299999999999995,0.0345,0.0588
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,UTEP,-0.024399999999999998,0.005,0.0294
 2025-10-11 06:38:21.307054,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,-0.026100000000000012,0.1739,0.2
@@ -55,3 +58,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Texas State,-0.1196,0.0909,0.2105
 2025-10-11 06:38:21.319306,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Louisiana Tech,-0.1408,0.1818,0.3226
 2025-10-11 06:38:21.311020,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,James Madison,-0.1674,0.3448,0.5122
+2025-10-11 09:28:00.569571,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 70.5,-0.2047,0.4444,0.6491
