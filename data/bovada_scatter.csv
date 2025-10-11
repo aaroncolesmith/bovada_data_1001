@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Marco Penge,0.5,0.75,0.25
 2025-10-11 09:28:00.569571,Scores - Final Round Score - Sungjae Im - Final Round Score,Under 70.5,0.20590000000000003,0.6226,0.4167
-2025-10-11 08:34:04.210823,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.1377,0.2667,0.129
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,0.1326,0.2326,0.1
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Stewart Cink,0.13130000000000003,0.2222,0.0909
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Padraig Harrington,0.1079,0.1667,0.0588
@@ -11,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Robert Karlsson,0.0617,0.0769,0.0152
 2025-10-11 11:23:57.048112,Primera A - Colombia Primera A 2025 - Winner,Atlético Bucaramanga,0.052000000000000005,0.1429,0.0909
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Bernhard Langer,0.051,0.0833,0.0323
-2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Cal Raleigh (SEA),0.04909999999999999,0.1667,0.1176
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Chad Campbell,0.042600000000000006,0.0476,0.005
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minami Katsu,0.03640000000000004,0.4,0.3636
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jeeno Thitikul,0.03570000000000001,0.2857,0.25
@@ -25,16 +23,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Somi Lee,0.02310000000000001,0.1,0.0769
 2025-10-11 19:22:35.681158,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.022600000000000064,0.5348,0.5122
 2025-10-11 15:26:51.931058,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Hapoel Tel Aviv,0.022199999999999998,0.8,0.7778
-2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Julio Rodriguez (SEA),0.022000000000000006,0.1053,0.0833
 2025-10-11 17:26:38.089077,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.02169999999999994,0.5455,0.5238
-2025-10-11 12:52:09.676500,Scores - Final Round Score - Mac Meissner - Final Round Score,Under 69.5,0.02169999999999994,0.5455,0.5238
 2025-10-11 12:52:09.684923,Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Under 69.5,0.02169999999999994,0.5455,0.5238
+2025-10-11 12:52:09.676500,Scores - Final Round Score - Mac Meissner - Final Round Score,Under 69.5,0.02169999999999994,0.5455,0.5238
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Billy Andrade,0.0211,0.0244,0.0033
 2025-10-11 09:28:00.630015,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 68.5,0.020699999999999996,0.4651,0.4444
 2025-10-11 12:52:09.395933,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.02030000000000004,0.3774,0.3571
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Alex Cejka,0.0203,0.0526,0.0323
-2025-10-11 11:23:57.048112,Primera A - Colombia Primera A 2025 - Winner,Fortaleza CEIF,0.0203,0.0526,0.0323
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Joel Girrbach,0.0203,0.0526,0.0323
+2025-10-11 11:23:57.048112,Primera A - Colombia Primera A 2025 - Winner,Fortaleza CEIF,0.0203,0.0526,0.0323
 2025-10-11 18:35:03.303922,Boxing Lines - Josh Padley vs Reece Bellotti - To Win the Bout,Reece Bellotti,0.019799999999999984,0.2667,0.2469
 2025-10-11 15:26:51.931058,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Barcelona,0.019499999999999962,0.6491,0.6296
 2025-10-11 15:26:53.306578,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,Ibraheem Sulaimaan,0.018900000000000028,0.9804,0.9615
@@ -42,10 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 15:26:51.927776,Euroleague - Euroleague 2025/26 - To Make Final Four,Crvena Zvezda,0.0179,0.1429,0.125
 2025-10-11 17:26:38.077022,Boxing Lines - Hamza Uddin vs Paul Roberts - To Win the Bout,Hamza Uddin,0.015900000000000025,0.9868,0.9709
 2025-10-11 10:31:49.760876,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,0.015899999999999997,0.2381,0.2222
-2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Eugenio Suarez (SEA),0.015300000000000001,0.0476,0.0323
 2025-10-11 11:23:58.654874,Boxing Lines - Conner Tudsbury vs Khalid Graidia - To Win the Bout,Conner Tudsbury,0.014900000000000024,0.9804,0.9655
 2025-10-11 15:26:51.934676,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Zalgiris,0.014900000000000004,0.0345,0.0196
-2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Vladimir Guerrero Jr. (TOR),0.014800000000000008,0.2,0.1852
 2025-10-11 15:26:51.937990,Euroleague - Euroleague 2025/26 - Regular Season MVP,Sylvain Francisco,0.014499999999999999,0.0294,0.0149
 2025-10-11 11:23:57.048112,Primera A - Colombia Primera A 2025 - Winner,América de Cali,0.014099999999999994,0.0667,0.0526
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Charlie Wi,0.013,0.0196,0.0066
@@ -55,21 +50,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 14:27:45.364340,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.010699999999999932,0.5455,0.5348
 2025-10-11 20:29:09.500532,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.010699999999999932,0.5455,0.5348
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,0.010600000000000002,0.0323,0.0217
-2025-10-11 16:32:55.942248,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,0.0102,0.0769,0.0667
 2025-10-11 16:32:55.946211,Boxing Lines - Hamza Uddin vs Paul Roberts - To Win the Bout,Paul Roberts,0.0102,0.0769,0.0667
-2025-10-11 15:26:53.346748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.010099999999999998,0.5556,0.5455
+2025-10-11 16:32:55.942248,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,0.0102,0.0769,0.0667
 2025-10-11 18:35:03.307931,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.010099999999999998,0.5556,0.5455
+2025-10-11 15:26:53.346748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.010099999999999998,0.5556,0.5455
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pauline Roussin Bouchard,-0.0101,0.004,0.0141
+2025-10-11 21:25:32.559423,Boxing Lines - Giorgio Visioli vs James Wilkins - To Win the Bout,James Wilkins,-0.0102,0.0667,0.0769
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,David Puig,-0.010300000000000002,0.0141,0.0244
-2025-10-11 08:34:04.210823,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,-0.010399999999999993,0.2222,0.2326
-2025-10-11 14:27:45.364340,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.01100000000000001,0.5238,0.5348
 2025-10-11 20:29:09.500532,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.01100000000000001,0.5238,0.5348
+2025-10-11 14:27:45.364340,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.01100000000000001,0.5238,0.5348
 2025-10-11 14:27:45.527327,Baycurrent Classic - 2/3 Balls - Final Round 3 Balls - P. Rodgers / T. Kobayashi / T. Kim - Final Round 3 Balls,Tom Kim,-0.011099999999999999,0.4651,0.4762
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Patrick Reed,-0.011099999999999999,0.1,0.1111
-2025-10-11 15:26:53.346748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.011600000000000055,0.5122,0.5238
 2025-10-11 18:35:03.307931,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.011600000000000055,0.5122,0.5238
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Bernd Wiesberger,-0.011699999999999999,0.0079,0.0196
+2025-10-11 15:26:53.346748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.011600000000000055,0.5122,0.5238
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jin Hee Im,-0.011699999999999999,0.0079,0.0196
+2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Bernd Wiesberger,-0.011699999999999999,0.0079,0.0196
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Alexander Levy,-0.012199999999999999,0.0057,0.0179
 2025-10-11 11:23:59.012902,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,-0.013,0.0066,0.0196
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Rasmus Neergaard-Petersen,-0.013400000000000002,0.011,0.0244
@@ -78,13 +73,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 11:23:57.048112,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.014099999999999994,0.0526,0.0667
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Tommy Gainey,-0.014100000000000001,0.0385,0.0526
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Freddie Jacobson,-0.0145,0.0099,0.0244
-2025-10-11 08:34:04.229160,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Logan Gilbert (SEA),-0.014899999999999997,0.0476,0.0625
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Doug Barron,-0.0151,0.0066,0.0217
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Tom McKibbin,-0.015300000000000001,0.0435,0.0588
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Boo Weekley,-0.015899999999999997,0.002,0.0179
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Joost Luiten,-0.016,0.0004,0.0164
-2025-10-11 11:23:58.654874,Boxing Lines - Conner Tudsbury vs Khalid Graidia - To Win the Bout,Khalid Graidia,-0.016600000000000004,0.0667,0.0833
 2025-10-11 15:26:51.934676,Euroleague - Euroleague 2025/26 - Regular Season League Winner,Hapoel Tel Aviv,-0.016600000000000004,0.0667,0.0833
+2025-10-11 11:23:58.654874,Boxing Lines - Conner Tudsbury vs Khalid Graidia - To Win the Bout,Khalid Graidia,-0.016600000000000004,0.0667,0.0833
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Daniel Hillier,-0.0173,0.0044,0.0217
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Kristoffer Reitan,-0.017499999999999998,0.0004,0.0179
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Dan Bradbury,-0.017499999999999998,0.0004,0.0179
@@ -107,8 +101,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-11 09:28:00.630015,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
 2025-10-11 12:52:09.693462,Scores - Final Round Score - Min Woo Lee - Final Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-10-11 10:31:50.204705,SAS Championship - SAS Championship - Winner,Angel Cabrera,-0.0233,0.0152,0.0385
-2025-10-11 15:26:51.927776,Euroleague - Euroleague 2025/26 - To Make Final Four,Hapoel Tel Aviv,-0.023799999999999988,0.3333,0.3571
 2025-10-11 15:26:51.927776,Euroleague - Euroleague 2025/26 - To Make Final Four,BC Dubai,-0.023799999999999988,0.1429,0.1667
+2025-10-11 15:26:51.927776,Euroleague - Euroleague 2025/26 - To Make Final Four,Hapoel Tel Aviv,-0.023799999999999988,0.3333,0.3571
 2025-10-11 15:26:53.306578,Boxing Lines - Ibraheem Sulaimaan vs James Chereji - To Win the Bout,James Chereji,-0.0242,0.0667,0.0909
 2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Thorbjorn Olesen,-0.025900000000000003,0.0217,0.0476
 2025-10-11 15:26:51.931058,Euroleague - Euroleague 2025/26 - To Make The Playoffs,Fenerbahce,-0.026700000000000057,0.8824,0.9091
