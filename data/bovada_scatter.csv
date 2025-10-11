@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 17:13:59.060675,American League - MLB 2025 American League - ALCS Exact Result,TOR Blue Jays beat DET Tigers,0.028299999999999992,0.3509,0.3226
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Aaron Cockerill,0.0233,0.0385,0.0152
 2025-10-10 17:13:57.759189,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Victor Wembanyama (SAS),0.0208,0.0833,0.0625
+2025-10-11 04:33:07.961995,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Alejandro Moya,0.01999999999999999,0.2105,0.1905
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Julien Guerrier,0.019800000000000005,0.0476,0.0278
 2025-10-10 17:13:59.183921,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.018799999999999983,0.3636,0.3448
 2025-10-10 22:30:44.817488,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,0.017300000000000093,0.7143,0.697
@@ -38,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Mikael Lindberg,-0.0165,0.0079,0.0244
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Tom Vaillant,-0.0165,0.0079,0.0244
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Francesco Laporta,-0.0179,0.0099,0.0278
+2025-10-11 04:33:07.961995,Boxing Lines - Viktor Postol vs Alejandro Moya - To Win the Bout,Viktor Postol,-0.017900000000000027,0.8571,0.875
 2025-10-10 17:13:59.060675,American League - MLB 2025 American League - ALCS Exact Result,SEA Mariners beat TOR Blue Jays,-0.020699999999999996,0.2778,0.2985
 2025-10-10 17:13:59.183921,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,-0.0252,0.697,0.7222
 2025-10-10 18:40:24.261770,Open de Espana - Open de Espana - Winner,Grant Forrest,-0.0286,0.0099,0.0385
