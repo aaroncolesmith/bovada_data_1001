@@ -1,92 +1,178 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Alex Cejka,0.5838,0.6364,0.0526
+2025-10-12 11:23:53.490158,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.4020999999999999,0.9259,0.5238
 2025-10-12 11:23:53.496167,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.3905,0.8667,0.4762
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Barend Botha,0.2716,0.2857,0.0141
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Bristol Rovers,0.2222,0.25,0.0278
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Neal Shipley,0.21030000000000001,0.2381,0.0278
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Seattle Mariners,0.17529999999999998,0.3571,0.1818
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Sandy Scott,0.1439,0.1538,0.0099
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Chandler Blanchet,0.1263,0.1739,0.0476
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,0.123,0.1818,0.0588
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Exeter City,0.10710000000000003,0.5833,0.4762
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Toronto Blue Jays,0.093,0.2041,0.1111
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Stockport County,0.09230000000000005,0.4,0.3077
 2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Seattle Mariners,0.09070000000000002,0.2083,0.1176
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Wigan Athletic,0.07579999999999999,0.1667,0.0909
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Bromley,0.07520000000000002,0.2857,0.2105
 2025-10-12 04:33:25.169627,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,0.07500000000000001,0.2,0.125
 2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,0.0715,0.1429,0.0714
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Bernhard Langer,0.0705,0.1538,0.0833
 2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,0.06770000000000001,0.1,0.0323
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Milton Keynes Dons,0.05980000000000002,0.4444,0.3846
 2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,0.05859999999999999,0.0909,0.0323
 2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,0.05710000000000001,0.2,0.1429
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Colchester United,0.05679999999999999,0.1818,0.125
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Indiana,0.05639999999999999,0.0909,0.0345
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Milton Keynes Dons,0.05559999999999998,0.5556,0.5
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.05350000000000002,0.2353,0.1818
-2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,0.04650000000000001,0.1053,0.0588
+2025-10-12 12:52:32.530396,NFL Weekly Specials - NFL Week 6 Leaders - Most Passing Yards,Jared Goff (DET),0.0524,0.1,0.0476
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Accrington Stanley,0.05080000000000001,0.2326,0.1818
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Chesterfield,0.04760000000000003,0.5238,0.4762
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Northampton Town,0.047599999999999976,0.3333,0.2857
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Blackpool,0.047599999999999976,0.3333,0.2857
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Pierceson Coody,0.04650000000000001,0.1053,0.0588
 2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Toronto Blue Jays,0.04650000000000001,0.1053,0.0588
+2025-10-12 04:33:25.179582,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,0.04650000000000001,0.1053,0.0588
 2025-10-12 11:23:53.493382,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,0.04040000000000002,0.2222,0.1818
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Stuart Macdonald,0.0397,0.0476,0.0079
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.03710000000000002,0.3704,0.3333
+2025-10-12 12:52:30.968727,League Two - England League Two 2025/26 - To Finish Bottom,Accrington Stanley,0.03420000000000001,0.1111,0.0769
 2025-10-12 11:23:53.493382,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,0.03409999999999999,0.2667,0.2326
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Swindon Town,0.030299999999999994,0.3636,0.3333
+2025-10-12 12:52:32.534098,NFL Weekly Specials - NFL Week 6 Leaders - Most Receiving Yards,Jaxon Smith-Njigba (SEA),0.02840000000000001,0.1053,0.0769
 2025-10-12 06:38:34.275814,NFL Weekly Specials - NFL Week 6 Leaders - Most Rushing Yards,Rico Dowdle (CAR),0.028399999999999995,0.0909,0.0625
+2025-10-12 12:52:30.968727,League Two - England League Two 2025/26 - To Finish Bottom,Harrogate Town,0.028399999999999995,0.0909,0.0625
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Doncaster Rovers,0.028399999999999995,0.0909,0.0625
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Milton Keynes Dons,0.027999999999999997,0.1818,0.1538
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.026499999999999996,0.0588,0.0323
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Bromley,0.024999999999999994,0.125,0.1
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Barrow FC,0.024999999999999994,0.125,0.1
+2025-10-12 12:52:30.945222,League One - England League One 2025/26 - Winner,Stockport County,0.024999999999999994,0.125,0.1
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Bromley,0.0242,0.0909,0.0667
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Charlie Wi,0.023899999999999998,0.0435,0.0196
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Cheltenham Town,0.023799999999999988,0.5,0.4762
+2025-10-12 12:52:30.968727,League Two - England League Two 2025/26 - To Finish Bottom,Crawley Town,0.02310000000000001,0.1,0.0769
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Peterborough United,0.022600000000000064,0.6226,0.6
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Crawley Town,0.022199999999999998,0.2222,0.2
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Alabama,0.022199999999999998,0.1333,0.1111
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),0.0208,0.0833,0.0625
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),0.0208,0.0833,0.0625
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Wycombe,0.0203,0.0588,0.0385
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Huddersfield Town,0.019000000000000017,0.2857,0.2667
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Harrogate Town,0.01820000000000002,0.2,0.1818
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Swindon Town,0.0179,0.1429,0.125
 2025-10-12 03:11:18.226390,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,George Liddard,0.017299999999999982,0.5917,0.5744
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Christo Lamprecht,0.0157,0.0435,0.0278
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Walsall,0.015400000000000025,0.4,0.3846
 2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Christian Yelich (MIL),0.015300000000000001,0.0476,0.0323
+2025-10-12 12:52:30.959203,League Two - England League Two 2025/26 - Top Goalscorer,Aaron Drinan (Swindon),0.015100000000000002,0.1818,0.1667
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Cameron Percy,0.014900000000000004,0.0345,0.0196
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Notre Dame,0.014100000000000001,0.0526,0.0385
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Brice Turang (MIL),0.014100000000000001,0.0526,0.0385
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Colchester United,0.014100000000000001,0.0526,0.0385
+2025-10-12 12:52:32.681461,Futures - The Masters 2026 - Winner,Xander Schauffele,0.014099999999999994,0.0667,0.0526
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Tranmere Rovers,0.014099999999999994,0.0667,0.0526
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Mookie Betts (LAD),0.013999999999999999,0.0909,0.0769
 2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.013999999999999999,0.0909,0.0769
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Stevenage,0.013800000000000034,0.3774,0.3636
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Joe Weiler,0.013,0.0196,0.0066
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Walsall,0.012899999999999995,0.1667,0.1538
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Justin Suh,0.012700000000000003,0.0323,0.0196
 2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Cal Raleigh (SEA),0.011899999999999994,0.0833,0.0714
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Jackson Chourio (MIL),0.011899999999999994,0.0833,0.0714
-2025-10-11 23:27:09.684430,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.0116,0.4878,0.4762
-2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),0.011199999999999995,0.0588,0.0476
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Oldham Athletic,0.011700000000000016,0.2222,0.2105
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Swindon Town,0.011499999999999955,0.6667,0.6552
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas A&M,0.011199999999999995,0.0588,0.0476
+2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),0.011199999999999995,0.0588,0.0476
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Colchester United,0.011199999999999995,0.0588,0.0476
 2025-10-12 11:23:53.493382,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,0.011099999999999999,0.1111,0.1
+2025-10-12 12:52:30.945222,League One - England League One 2025/26 - Winner,Stevenage,0.010899999999999993,0.1538,0.1429
 2025-10-12 11:23:53.487407,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.010899999999999993,0.1538,0.1429
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Trent Phillips,0.010700000000000001,0.0385,0.0278
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Leyton Orient,0.010700000000000001,0.0385,0.0278
 2025-10-12 07:26:35.490343,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,-0.010599999999999998,0.4545,0.4651
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Salford City,-0.011199999999999995,0.0476,0.0588
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oklahoma,-0.011199999999999995,0.0476,0.0588
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Bo Van Pelt,-0.0112,0.004,0.0152
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Notts County,-0.01150000000000001,0.3333,0.3448
 2025-10-12 03:11:18.226390,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.0116,0.4762,0.4878
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,S Y Noh,-0.011699999999999999,0.0079,0.0196
-2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Julian Suri,-0.0119,0.0033,0.0152
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Ken Tanigawa,-0.0119,0.0033,0.0152
+2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Julian Suri,-0.0119,0.0033,0.0152
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Blackpool,-0.012100000000000001,0.0123,0.0244
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Accrington Stanley,-0.0131,0.0345,0.0476
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Harrogate Town,-0.0131,0.0345,0.0476
+2025-10-12 12:52:30.959203,League Two - England League Two 2025/26 - Top Goalscorer,Jaze Kabia (Grimbsy),-0.013899999999999996,0.1111,0.125
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Grimsby Town,-0.013899999999999996,0.1111,0.125
 2025-10-12 11:23:53.487407,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,-0.013899999999999996,0.1111,0.125
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Notts County,-0.013899999999999996,0.1111,0.125
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Blades Brown,-0.0139,0.0057,0.0196
-2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Ian Holt,-0.014599999999999998,0.005,0.0196
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Bristol Rovers,-0.013999999999999999,0.0769,0.0909
+2025-10-12 12:52:30.968727,League Two - England League Two 2025/26 - To Finish Bottom,Shrewsbury Town,-0.013999999999999999,0.0769,0.0909
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Cambridge United,-0.014099999999999994,0.0526,0.0667
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Oldham Athletic,-0.014099999999999994,0.0526,0.0667
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Tranmere Rovers,-0.014099999999999998,0.0244,0.0385
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Wigan Athletic,-0.014100000000000001,0.0385,0.0526
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Colchester United,-0.014100000000000001,0.0385,0.0526
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Tyler Duncan,-0.014599999999999998,0.005,0.0196
-2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Mitchell Meissner,-0.0156,0.004,0.0196
+2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Ian Holt,-0.014599999999999998,0.005,0.0196
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Cambridge United,-0.015100000000000002,0.1667,0.1818
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Northampton Town,-0.015499999999999998,0.0123,0.0278
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Dylan Wu,-0.0156,0.004,0.0196
+2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Mitchell Meissner,-0.0156,0.004,0.0196
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Peter Kuest,-0.016,0.0057,0.0217
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Wilson Furr,-0.0167,0.005,0.0217
-2025-10-11 23:27:09.684430,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,-0.017299999999999982,0.5744,0.5917
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Salford City,-0.0174,0.2326,0.25
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Ross Steelman,-0.0177,0.004,0.0217
+2025-10-12 12:52:30.959203,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.018099999999999998,0.0588,0.0769
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Cambridge United,-0.018100000000000005,0.4167,0.4348
+2025-10-12 12:52:30.956154,League Two - England League Two 2025/26 - Winner,Crewe Alexandra,-0.019099999999999992,0.0476,0.0667
+2025-10-12 12:52:30.959203,League Two - England League Two 2025/26 - Top Goalscorer,Michael Mellon (Oldham),-0.019099999999999992,0.0476,0.0667
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Barnsley,-0.02020000000000001,0.0909,0.1111
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Matt Gogel,-0.0211,0.0033,0.0244
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Billy Andrade,-0.021900000000000003,0.0025,0.0244
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Emilio Gonzalez,-0.022099999999999998,0.0057,0.0278
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Bristol Rovers,-0.022199999999999998,0.1111,0.1333
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Alistair Docherty,-0.0227,0.0017,0.0244
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,John VanDerLaan,-0.023100000000000002,0.0013,0.0244
 2025-10-12 11:23:53.490158,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,-0.023200000000000002,0.0244,0.0476
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Davis Shore,-0.0239,0.0005,0.0244
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Pontus Nyholm,-0.024999999999999998,0.0028,0.0278
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Bolton Wanderers,-0.025499999999999967,0.4,0.4255
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.02779999999999999,0.2222,0.25
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Gillingham,-0.02779999999999999,0.2222,0.25
+2025-10-12 12:52:30.945222,League One - England League One 2025/26 - Winner,Bolton Wanderers,-0.028799999999999992,0.125,0.1538
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Davis Chatfield,-0.0319,0.0066,0.0385
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Penn State,-0.0325,0.002,0.0345
 2025-10-12 11:23:53.493382,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,-0.03259999999999999,0.2,0.2326
+2025-10-12 12:52:30.948303,League One - England League One 2025/26 - To Be Promoted,Doncaster Rovers,-0.03330000000000001,0.0667,0.1
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Salford City,-0.0348,0.4,0.4348
 2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,-0.0353,0.2,0.2353
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Zach Bauchou,-0.0357,0.0028,0.0385
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Grimsby Town,-0.03640000000000004,0.3636,0.4
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,S T Lee,-0.0375,0.001,0.0385
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Newport County,-0.03839999999999999,0.6226,0.661
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Salford City,-0.03889999999999999,0.1429,0.1818
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Zecheng Dou,-0.0416,0.011,0.0526
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Chad Campbell,-0.0436,0.004,0.0476
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Robert Karlsson,-0.0491,0.0278,0.0769
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Grimsby Town,-0.04910000000000003,0.6061,0.6552
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Adrien Dumont de Chassart,-0.0548,0.004,0.0588
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Grimsby Town,-0.055499999999999994,0.2778,0.3333
+2025-10-12 12:52:30.971763,League Two - England League Two 2025/26 - Top 3 Finish,Crewe Alexandra,-0.05710000000000001,0.1429,0.2
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Johnny Keefer,-0.05879999999999999,0.0079,0.0667
+2025-10-12 12:52:30.962567,League Two - England League Two 2025/26 - To Be Promoted,Crewe Alexandra,-0.0635,0.2222,0.2857
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Wycombe,-0.0642,0.1176,0.1818
+2025-10-12 12:52:30.974923,League Two - England League Two 2025/26 - Top 7 Finish,Crewe Alexandra,-0.06509999999999999,0.4,0.4651
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Steven Alker,-0.06669999999999998,0.1,0.1667
+2025-10-12 12:52:30.965631,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,-0.06860000000000002,0.1667,0.2353
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oregon,-0.0739,0.1,0.1739
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Burton Albion,-0.07619999999999993,0.5238,0.6
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Miguel Angel Jimenez,-0.0767,0.0066,0.0833
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Leyton Orient,-0.07930000000000001,0.1429,0.2222
+2025-10-12 12:52:30.968727,League Two - England League Two 2025/26 - To Finish Bottom,Newport County,-0.08329999999999999,0.4167,0.5
+2025-10-12 12:52:30.951362,League One - England League One 2025/26 - To Be Relegated,Rotherham United,-0.08330000000000004,0.5,0.5833
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Padraig Harrington,-0.1588,0.0079,0.1667
 2025-10-12 11:23:53.496167,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,-0.1738,0.0588,0.2326
 2025-10-12 11:23:53.496167,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.22360000000000002,0.1538,0.3774
