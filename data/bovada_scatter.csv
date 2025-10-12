@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Marco Penge,0.5,0.75,0.25
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Los Angeles Dodgers vs. Seattle Mariners,0.17529999999999998,0.3571,0.1818
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Seattle Mariners,0.123,0.1818,0.0588
 2025-10-12 04:33:25.184634,Exact Matchup - World Series 2025 - Exact Matchup - Exact Matchup,Milwaukee Brewers vs. Toronto Blue Jays,0.093,0.2041,0.1111
@@ -14,10 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.03710000000000002,0.3704,0.3333
 2025-10-11 22:30:03.526910,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.03610000000000002,0.5917,0.5556
 2025-10-12 06:38:34.275814,NFL Weekly Specials - NFL Week 6 Leaders - Most Rushing Yards,Rico Dowdle (CAR),0.028399999999999995,0.0909,0.0625
-2025-10-11 19:22:35.681158,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.022600000000000064,0.5348,0.5122
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,William Contreras (MIL),0.0208,0.0833,0.0625
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),0.0208,0.0833,0.0625
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Joel Girrbach,0.0203,0.0526,0.0323
 2025-10-12 03:11:18.226390,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,George Liddard,0.017299999999999982,0.5917,0.5744
 2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Christian Yelich (MIL),0.015300000000000001,0.0476,0.0323
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Brice Turang (MIL),0.014100000000000001,0.0526,0.0385
@@ -27,29 +24,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Jackson Chourio (MIL),0.011899999999999994,0.0833,0.0714
 2025-10-11 23:27:09.684430,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.0116,0.4878,0.4762
 2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),0.011199999999999995,0.0588,0.0476
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Daniel Brown,0.011199999999999995,0.0588,0.0476
 2025-10-11 20:29:09.500532,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.010699999999999932,0.5455,0.5348
 2025-10-11 21:25:32.559423,Boxing Lines - Giorgio Visioli vs James Wilkins - To Win the Bout,James Wilkins,-0.0102,0.0667,0.0769
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,David Puig,-0.010300000000000002,0.0141,0.0244
+2025-10-12 07:26:35.490343,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,-0.010599999999999998,0.4545,0.4651
 2025-10-11 20:29:09.500532,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,-0.01100000000000001,0.5238,0.5348
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Patrick Reed,-0.011099999999999999,0.1,0.1111
 2025-10-12 03:11:18.226390,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.0116,0.4762,0.4878
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Bernd Wiesberger,-0.011699999999999999,0.0079,0.0196
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Alexander Levy,-0.012199999999999999,0.0057,0.0179
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Rasmus Neergaard-Petersen,-0.013400000000000002,0.011,0.0244
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Tom McKibbin,-0.015300000000000001,0.0435,0.0588
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Joost Luiten,-0.016,0.0004,0.0164
 2025-10-11 23:27:09.684430,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,-0.017299999999999982,0.5744,0.5917
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Daniel Hillier,-0.0173,0.0044,0.0217
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Kristoffer Reitan,-0.017499999999999998,0.0004,0.0179
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Dan Bradbury,-0.017499999999999998,0.0004,0.0179
-2025-10-11 19:22:35.681158,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.02079999999999993,0.5348,0.5556
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Thorbjorn Olesen,-0.025900000000000003,0.0217,0.0476
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Aaron Cockerill,-0.031900000000000005,0.0004,0.0323
+2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Penn State,-0.0325,0.002,0.0345
 2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,-0.0353,0.2,0.2353
 2025-10-11 22:30:03.526910,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.035999999999999976,0.4762,0.5122
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Jeff Winther,-0.0436,0.004,0.0476
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Julien Guerrier,-0.0456,0.002,0.0476
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Joakim Lagergren,-0.0466,0.001,0.0476
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Angel Ayora,-0.0489,0.0099,0.0588
-2025-10-11 19:22:36.018058,Open de Espana - Open de Espana - Winner,Jon Rahm,-0.1101,0.001,0.1111
