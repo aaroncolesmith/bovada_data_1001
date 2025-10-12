@@ -21,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Pierceson Coody,0.04650000000000001,0.1053,0.0588
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Stuart Macdonald,0.0397,0.0476,0.0079
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Shohei Ohtani (LAD),0.03710000000000002,0.3704,0.3333
-2025-10-11 22:30:03.526910,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.03610000000000002,0.5917,0.5556
 2025-10-12 06:38:34.275814,NFL Weekly Specials - NFL Week 6 Leaders - Most Rushing Yards,Rico Dowdle (CAR),0.028399999999999995,0.0909,0.0625
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.026499999999999996,0.0588,0.0323
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Charlie Wi,0.023899999999999998,0.0435,0.0196
@@ -34,12 +33,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Cameron Percy,0.014900000000000004,0.0345,0.0196
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Notre Dame,0.014100000000000001,0.0526,0.0385
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Brice Turang (MIL),0.014100000000000001,0.0526,0.0385
-2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.013999999999999999,0.0909,0.0769
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Mookie Betts (LAD),0.013999999999999999,0.0909,0.0769
+2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.013999999999999999,0.0909,0.0769
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Joe Weiler,0.013,0.0196,0.0066
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Justin Suh,0.012700000000000003,0.0323,0.0196
-2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Cal Raleigh (SEA),0.011899999999999994,0.0833,0.0714
 2025-10-12 05:30:52.578944,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Jackson Chourio (MIL),0.011899999999999994,0.0833,0.0714
+2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Cal Raleigh (SEA),0.011899999999999994,0.0833,0.0714
 2025-10-11 23:27:09.684430,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.0116,0.4878,0.4762
 2025-10-12 05:30:52.573874,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),0.011199999999999995,0.0588,0.0476
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas A&M,0.011199999999999995,0.0588,0.0476
@@ -71,7 +70,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-12 07:26:35.130083,National Championship - National Championship 2025-26 - National Championship Game Winner ,Penn State,-0.0325,0.002,0.0345
 2025-10-12 02:06:24.589802,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,-0.0353,0.2,0.2353
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Zach Bauchou,-0.0357,0.0028,0.0385
-2025-10-11 22:30:03.526910,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.035999999999999976,0.4762,0.5122
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,S T Lee,-0.0375,0.001,0.0385
 2025-10-12 09:28:06.471417,Korn Ferry Tour Championship - Korn Ferry Tour Championship - Winner,Zecheng Dou,-0.0416,0.011,0.0526
 2025-10-12 09:28:06.439236,SAS Championship - SAS Championship - Winner,Chad Campbell,-0.0436,0.004,0.0476
