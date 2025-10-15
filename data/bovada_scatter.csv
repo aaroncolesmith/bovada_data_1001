@@ -14,7 +14,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-15 08:41:48.897880,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Krystal Rosado Ortiz,0.02080000000000004,0.6875,0.6667
 2025-10-15 03:45:31.491809,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Max Muncy (LAD),0.019800000000000005,0.0476,0.0278
 2025-10-14 23:28:18.802145,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Seattle Mariners,0.019699999999999995,0.4545,0.4348
-2025-10-14 22:31:51.052469,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Shannon Ryan,0.018999999999999906,0.7333,0.7143
 2025-10-14 23:28:17.557508,Bundesliga - Bundesliga 2025/26 - Outright,Syntainics MBC,0.017400000000000002,0.0323,0.0149
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Enrique Hernandez (LAD),0.0168,0.0385,0.0217
 2025-10-14 23:28:17.557508,Bundesliga - Bundesliga 2025/26 - Outright,Ratiopharm Ulm,0.016700000000000007,0.1,0.0833
@@ -27,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-14 23:28:17.562259,A1 - A1 2025/26 - Winner,Olympiacos,0.010699999999999932,0.5455,0.5348
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.010600000000000002,0.0323,0.0217
 2025-10-15 08:41:47.235584,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,-0.0102,0.0667,0.0769
-2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Jackson Chourio (MIL),-0.010700000000000001,0.0278,0.0385
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),-0.010700000000000001,0.0278,0.0385
+2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Jackson Chourio (MIL),-0.010700000000000001,0.0278,0.0385
 2025-10-15 08:41:49.103730,Tournament Match-Ups - Tournament Match-Ups - B. Harman vs M. Kim - Tournament Match-Ups,Michael Kim,-0.011099999999999999,0.4651,0.4762
 2025-10-14 23:28:18.802145,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,-0.011099999999999999,0.1,0.1111
 2025-10-15 03:45:31.491809,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),-0.011500000000000003,0.0385,0.05
@@ -36,7 +35,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-14 23:28:17.552701,LNB Pro A - LNB Pro A 2025/26 - Outright,ASVEL Basket,-0.011700000000000016,0.2105,0.2222
 2025-10-15 05:32:26.870472,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Milwaukee Brewers,-0.0118,0.0099,0.0217
 2025-10-15 05:32:26.870472,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Toronto Blue Jays,-0.012100000000000001,0.0123,0.0244
-2025-10-14 22:31:51.060471,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.012199999999999989,0.4878,0.5
 2025-10-14 23:28:17.600894,BNXT League - BNXT League 2025/26 - Outright,Leuven Bears,-0.012300000000000002,0.0294,0.0417
 2025-10-15 08:41:47.235584,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Rosario Central,-0.012899999999999995,0.1538,0.1667
 2025-10-15 06:44:27.480357,DP World India Championship - DP World India Championship - Winner,Rory McIlroy,-0.012899999999999995,0.1538,0.1667
@@ -49,10 +47,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-14 23:28:17.557508,Bundesliga - Bundesliga 2025/26 - Outright,Alba Berlin,-0.016700000000000007,0.0833,0.1
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Christian Yelich (MIL),-0.017100000000000004,0.0152,0.0323
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,William Contreras (MIL),-0.017100000000000004,0.0152,0.0323
-2025-10-14 22:31:51.052469,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Chloe Watson,-0.017600000000000005,0.3333,0.3509
 2025-10-14 23:28:17.557508,Bundesliga - Bundesliga 2025/26 - Outright,Braunschweig,-0.0189,0.0196,0.0385
-2025-10-15 03:45:31.480646,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.019699999999999995,0.4348,0.4545
 2025-10-14 23:28:17.600894,BNXT League - BNXT League 2025/26 - Outright,Kortrijk Spurs,-0.019699999999999995,0.1053,0.125
+2025-10-15 03:45:31.480646,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.019699999999999995,0.4348,0.4545
 2025-10-15 08:41:48.897880,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,-0.02260000000000001,0.3774,0.4
 2025-10-15 04:35:12.580832,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.028599999999999987,0.2381,0.2667
 2025-10-15 08:41:47.235584,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Vélez Sarsfield,-0.030299999999999994,0.3333,0.3636
