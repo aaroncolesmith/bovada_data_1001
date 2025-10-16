@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 14:35:46.122009,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.02049999999999999,0.1538,0.1333
 2025-10-16 13:01:13.421197,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.019699999999999995,0.4545,0.4348
 2025-10-16 14:35:45.341022,Milwaukee Bucks - Regular Season Wins 2025-26 - Milwaukee Bucks - Regular Season Wins,Over 42.5,0.01880000000000004,0.5744,0.5556
+2025-10-16 20:33:11.810066,Boxing Lines - Omar Juarez vs Omar Rosario - To Win the Bout,Omar Rosario,0.01830000000000001,0.2564,0.2381
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Chanettee Wannasaen,0.0179,0.0278,0.0099
 2025-10-16 16:39:21.638550,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Shannon Ryan,0.017300000000000093,0.7143,0.697
 2025-10-16 18:42:06.840144,Milwaukee Bucks - Regular Season Wins 2025-26 - Milwaukee Bucks - Regular Season Wins,Over 42.5,0.017299999999999982,0.5917,0.5744
@@ -33,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 14:35:46.592645,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,0.011099999999999999,0.4762,0.4651
 2025-10-16 19:24:21.869841,BMW Ladies Championship - BMW Ladies Championship - Winner,Somi Lee,0.0102,0.0769,0.0667
 2025-10-16 10:37:09.648572,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,0.010099999999999998,0.4545,0.4444
+2025-10-16 20:33:11.722764,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Chloe Watson,-0.010099999999999998,0.3125,0.3226
 2025-10-16 13:43:12.421879,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,-0.010099999999999998,0.4444,0.4545
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Gaby Lopez,-0.0102,0.005,0.0152
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Ina Yoon,-0.0106,0.0017,0.0123
@@ -50,9 +52,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 19:24:21.628490,Boxing Lines - Carlos Utria vs Ntethelelo Nkosi - To Win the Bout,Carlos Utria,-0.01430000000000009,0.8039,0.8182
 2025-10-16 10:37:09.648572,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Ezra Taylor,-0.014800000000000035,0.6078,0.6226
 2025-10-16 18:42:08.147135,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,-0.014900000000000024,0.3077,0.3226
-2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Nasa Hataoka,-0.015300000000000001,0.0435,0.0588
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Brooke Henderson,-0.015300000000000001,0.0323,0.0476
+2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Nasa Hataoka,-0.015300000000000001,0.0435,0.0588
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Celine Boutier,-0.015499999999999998,0.0123,0.0278
+2025-10-16 20:33:11.810066,Boxing Lines - Omar Juarez vs Omar Rosario - To Win the Bout,Omar Juarez,-0.015999999999999903,0.8131,0.8291
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Andrea Lee,-0.0168,0.0217,0.0385
 2025-10-16 16:39:21.686974,Boxing Lines - Yolanda Guadalupe Vega vs Miranda Reyes - To Win the Bout,Yolanda Guadalupe Vega,-0.016900000000000026,0.6552,0.6721
 2025-10-16 16:39:21.723696,Boxing Lines - Omar Juarez vs Omar Rosario - To Win the Bout,Omar Juarez,-0.017100000000000004,0.8291,0.8462
