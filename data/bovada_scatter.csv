@@ -9,7 +9,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 06:43:41.485017,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs SEA Mariners,Los Angeles Dodgers,0.04409999999999992,0.6667,0.6226
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Lindy Duncan,0.0427,0.0526,0.0099
 2025-10-16 08:40:58.049490,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,0.03839999999999999,0.3509,0.3125
+2025-10-16 17:31:27.523494,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score,Over 68.5,0.03610000000000002,0.5917,0.5556
 2025-10-16 08:40:58.013130,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.03370000000000001,0.3846,0.3509
+2025-10-16 17:31:25.901189,Exact Matchup - Exact Matchup 2025-26 - Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,0.030700000000000005,0.1333,0.1026
 2025-10-16 11:27:48.868215,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.026600000000000013,0.4348,0.4082
 2025-10-16 10:37:09.551352,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.02360000000000001,0.4082,0.3846
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Somi Lee,0.0232,0.0667,0.0435
@@ -25,12 +27,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 13:43:12.421879,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Ezra Taylor,0.014800000000000035,0.6226,0.6078
 2025-10-16 14:35:46.596882,Boxing Lines - Antoine Vanackere vs Walid Ouizza - To Win the Bout,Walid Ouizza,0.013800000000000034,0.3774,0.3636
 2025-10-16 14:35:46.584353,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Chloe Watson,0.012699999999999989,0.3636,0.3509
-2025-10-16 14:35:46.592645,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,0.011099999999999999,0.4762,0.4651
 2025-10-16 13:01:13.457028,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Krystal Rosado Ortiz,0.011099999999999999,0.7333,0.7222
+2025-10-16 14:35:46.592645,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,0.011099999999999999,0.4762,0.4651
 2025-10-16 10:37:09.648572,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,0.010099999999999998,0.4545,0.4444
 2025-10-16 13:43:12.421879,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,-0.010099999999999998,0.4444,0.4545
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Gaby Lopez,-0.0102,0.005,0.0152
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Ina Yoon,-0.0106,0.0017,0.0123
+2025-10-16 17:31:27.285417,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,-0.010699999999999987,0.3226,0.3333
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Akie Iwai,-0.010700000000000001,0.0278,0.0385
 2025-10-16 06:43:41.546456,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.011099999999999999,0.4651,0.4762
 2025-10-16 13:01:13.457028,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,-0.01150000000000001,0.3333,0.3448
@@ -62,6 +65,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Hye Jin Choi,-0.025900000000000003,0.0217,0.0476
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Chisato Iwai,-0.033,0.0196,0.0526
 2025-10-16 08:40:58.049490,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Krystal Rosado Ortiz,-0.035699999999999954,0.7143,0.75
+2025-10-16 17:31:27.523494,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score,Under 68.5,-0.036099999999999965,0.4762,0.5123
 2025-10-16 08:40:58.013130,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,-0.036900000000000044,0.6774,0.7143
 2025-10-16 09:34:23.284356,BMW Ladies Championship - BMW Ladies Championship - Winner,Miyu Yamashita,-0.0384,0.0385,0.0769
 2025-10-16 06:43:41.489339,MLB Futures Specials - Playoffs Specials - Team to Progress Further - LA Dodgers vs TOR Blue Jays,Los Angeles Dodgers,-0.04169999999999996,0.8333,0.875
