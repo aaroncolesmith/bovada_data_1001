@@ -38,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 05:33:46.170816,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Ja'Marr Chase (CIN),0.0233,0.0385,0.0152
 2025-10-17 06:42:47.030234,Boxing Lines - Shannon Ryan vs Chloe Watson - To Win the Bout,Chloe Watson,0.022199999999999998,0.3448,0.3226
 2025-10-17 06:42:46.975610,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Enrique Hernandez (LAD),0.022000000000000006,0.1053,0.0833
+2025-10-17 13:38:12.633428,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Krystal Rosado Ortiz,0.021700000000000053,0.7778,0.7561
 2025-10-17 05:33:46.382095,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),0.019699999999999995,0.125,0.1053
 2025-10-17 10:35:38.386050,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,South Florida,0.019000000000000017,0.2857,0.2667
 2025-10-17 06:42:46.908888,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.01830000000000001,0.0952,0.0769
@@ -49,6 +50,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 06:42:46.975610,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Yoshinobu Yamamoto (LAD),0.014399999999999996,0.0769,0.0625
 2025-10-17 12:59:35.802439,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,0.014000000000000012,0.9231,0.9091
 2025-10-17 06:42:47.089321,Boxing Lines - Ronny Alvarez vs Bruno Pola Ruiz - To Win the Bout,Ronny Alvarez,0.013900000000000023,0.8889,0.875
+2025-10-17 13:38:12.775563,BKB 47: Leeds Brawl 2 - Daniel Podmore vs Marko Martinjak - To Win the Bout,Daniel Podmore,0.013800000000000034,0.3774,0.3636
 2025-10-17 06:42:46.960372,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Toronto Blue Jays,0.013300000000000034,0.3704,0.3571
 2025-10-17 04:35:25.627684,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Baltimore Ravens,0.0131,0.0476,0.0345
 2025-10-17 02:03:07.241318,LNB Pro A - LNB Pro A 2025/26 - Outright,Paris Basketball,0.012899999999999995,0.1667,0.1538
@@ -58,8 +60,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 10:35:38.381482,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Southern Miss,0.011700000000000016,0.2222,0.2105
 2025-10-17 12:59:36.352349,Boxing Lines - Mujibillo Tursunov vs Danylo Lozan - To Win the Bout,Mujibillo Tursunov,0.0116,0.4878,0.4762
 2025-10-17 12:59:36.591041,Futures - US Open 2026 - Winner,Xander Schauffele,0.011199999999999995,0.0588,0.0476
-2025-10-17 06:42:47.144940,Boxing Lines - Muhamet Qamili vs Yoni Valverde Jr. - To Win the Bout,Yoni Valverde Jr.,0.011099999999999999,0.4762,0.4651
 2025-10-17 06:42:47.148986,Boxing Lines - Mujibillo Tursunov vs Danylo Lozan - To Win the Bout,Mujibillo Tursunov,0.011099999999999999,0.4762,0.4651
+2025-10-17 06:42:47.144940,Boxing Lines - Muhamet Qamili vs Yoni Valverde Jr. - To Win the Bout,Yoni Valverde Jr.,0.011099999999999999,0.4762,0.4651
 2025-10-17 06:42:46.965322,Winning League - World Series 2025 - Winning League - Winning League,National League,0.010700000000000043,0.6774,0.6667
 2025-10-17 05:33:46.382095,World Series MVP - World Series MVP 2025 - World Series MVP,Daulton Varsho (TOR),0.010700000000000001,0.0217,0.011
 2025-10-17 06:42:47.128985,Boxing Lines - Carlos Sinisterra vs Derek Pomerleau - To Win the Bout,Carlos Sinisterra,0.010699999999999987,0.3333,0.3226
@@ -73,6 +75,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 02:03:08.472088,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Brice Turang (MIL),-0.011200000000000002,0.0132,0.0244
 2025-10-17 02:03:08.472088,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Andrew Vaughn (MIL),-0.0118,0.0099,0.0217
 2025-10-17 08:38:48.222574,BMW Ladies Championship - BMW Ladies Championship - Winner,Jin Hee Im,-0.012100000000000001,0.0123,0.0244
+2025-10-17 13:38:12.573076,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,Kieron Conway,-0.012199999999999989,0.5,0.5122
 2025-10-17 05:33:46.070462,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Buffalo Bills,-0.012500000000000011,0.2439,0.2564
 2025-10-17 05:33:46.371498,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Daulton Varsho (TOR),-0.012599999999999998,0.0152,0.0278
 2025-10-17 04:35:25.627684,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Pittsburgh Steelers,-0.012700000000000003,0.0196,0.0323
@@ -97,6 +100,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 02:03:08.472088,NLCS MVP - NLCS MVP 2025 - NLCS MVP,Christian Yelich (MIL),-0.0189,0.0196,0.0385
 2025-10-17 10:35:36.784919,League One - England League One 2025/26 - To Be Promoted,Huddersfield Town,-0.019000000000000017,0.2667,0.2857
 2025-10-17 08:38:48.222574,BMW Ladies Championship - BMW Ladies Championship - Winner,Andrea Lee,-0.019200000000000002,0.0025,0.0217
+2025-10-17 13:38:12.633428,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Shurretta Metcalf,-0.021999999999999964,0.2857,0.3077
 2025-10-17 08:38:48.222574,BMW Ladies Championship - BMW Ladies Championship - Winner,Minami Katsu,-0.023700000000000002,0.0007,0.0244
 2025-10-17 05:33:46.070462,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Pittsburgh Steelers,-0.0238,0.0476,0.0714
 2025-10-17 08:38:48.222574,BMW Ladies Championship - BMW Ladies Championship - Winner,A Lim Kim,-0.024600000000000004,0.0099,0.0345
@@ -109,8 +113,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 05:33:46.361146,Exact Result - World Series 2025 - Exact Result,Milwaukee Brewers to beat Seattle Mariners,-0.0312,0.0123,0.0435
 2025-10-17 10:35:36.794528,League One - England League One 2025/26 - Top 2 Finish,Huddersfield Town,-0.033399999999999985,0.1333,0.1667
 2025-10-17 08:38:48.222574,BMW Ladies Championship - BMW Ladies Championship - Winner,Chanettee Wannasaen,-0.033800000000000004,0.0007,0.0345
-2025-10-17 06:42:47.038104,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,George Liddard,-0.03479999999999994,0.5652,0.6
 2025-10-17 05:33:46.206012,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.03479999999999994,0.5652,0.6
+2025-10-17 06:42:47.038104,Boxing Lines - Kieron Conway vs George Liddard - To Win the Bout,George Liddard,-0.03479999999999994,0.5652,0.6
 2025-10-17 05:33:46.366297,Winning League - World Series 2025 - Winning League - Winning League,American League,-0.0348,0.4,0.4348
 2025-10-17 06:42:46.992995,MLB Futures Specials - Playoffs Specials - Team to Progress Further - MIL Brewers vs SEA Mariners,Milwaukee Brewers,-0.0391,0.0323,0.0714
 2025-10-17 05:33:46.361146,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Milwaukee Brewers,-0.0403,0.0123,0.0526
