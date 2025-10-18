@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Retief Goosen,0.0232,0.0667,0.0435
 2025-10-18 06:39:07.938755,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.022600000000000064,0.5348,0.5122
 2025-10-17 22:31:25.328907,BKB 47: Leeds Brawl 2 - Daniel Podmore vs Marko Martinjak - To Win the Bout,Daniel Podmore,0.02260000000000001,0.4,0.3774
+2025-10-18 07:28:31.990951,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,0.02079999999999993,0.5556,0.5348
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Greg Chalmers,0.020000000000000004,0.0323,0.0123
 2025-10-18 05:31:42.995842,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.019000000000000003,0.0625,0.0435
 2025-10-17 20:32:51.223680,BKFC Fight Night: Hammond - Ronny Hauser vs Julian Valencia - To Win the Bout,Ronny Hauser,0.018999999999999906,0.7333,0.7143
@@ -53,17 +54,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.365470,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Brooke Evans,0.01430000000000009,0.8182,0.8039
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Mike Weir,0.013,0.0196,0.0066
 2025-10-17 20:32:51.227606,BKFC Fight Night: Hammond - Sean Schultz vs Gabriel Mota - To Win the Bout,Sean Schultz,0.012700000000000045,0.6491,0.6364
+2025-10-18 07:28:32.150722,BKFC Fight Night: Hammond - Sean Schultz vs Gabriel Mota - To Win the Bout,Sean Schultz,0.012700000000000045,0.6491,0.6364
 2025-10-18 06:39:08.127922,BKFC Fight Night: Hammond - Cameron VanCamp vs Derrick Findley - To Win the Bout,Derrick Findley,0.012699999999999989,0.3636,0.3509
 2025-10-18 01:58:08.672600,Boxing Lines - Mujibillo Tursunov vs Danylo Lozan - To Win the Bout,Mujibillo Tursunov,0.012199999999999989,0.5122,0.5
 2025-10-18 01:58:08.610704,Boxing Lines - Yolanda Guadalupe Vega vs Miranda Reyes - To Win the Bout,Yolanda Guadalupe Vega,0.011499999999999955,0.6667,0.6552
-2025-10-17 18:39:18.312989,BKFC Fight Night: Hammond - Bryce Henry vs Roderick Stewart - To Win the Bout,Roderick Stewart,0.011099999999999999,0.1111,0.1
 2025-10-18 01:58:08.588730,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,0.01100000000000001,0.5348,0.5238
-2025-10-17 22:31:25.320978,BKB 47: Leeds Brawl 2 - Aaron McCallum vs Liam Howell - To Win the Bout,Aaron McCallum,0.010699999999999932,0.5455,0.5348
 2025-10-18 04:33:43.535927,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,0.010699999999999932,0.5455,0.5348
+2025-10-17 22:31:25.320978,BKB 47: Leeds Brawl 2 - Aaron McCallum vs Liam Howell - To Win the Bout,Aaron McCallum,0.010699999999999932,0.5455,0.5348
 2025-10-18 06:39:07.983524,Boxing Lines - Shurretta Metcalf vs Krystal Rosado Ortiz - To Win the Bout,Krystal Rosado Ortiz,0.010500000000000065,0.8,0.7895
 2025-10-18 06:39:07.967245,Boxing Lines - Desley Robinson vs Logan Holler - To Win the Bout,Desley Robinson,0.010199999999999987,0.9333,0.9231
-2025-10-18 05:31:43.210872,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,0.010099999999999998,0.5556,0.5455
+2025-10-18 07:28:32.090201,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,0.010099999999999998,0.4545,0.4444
 2025-10-17 23:27:33.746194,Boxing Lines - Dante Stone vs Kevin Ramirez - To Win the Bout,Dante Stone,0.010099999999999998,0.6875,0.6774
+2025-10-18 05:31:43.210872,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,0.010099999999999998,0.5556,0.5455
 2025-10-18 03:04:36.854208,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,FC Porto,-0.010099999999999998,0.4444,0.4545
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,LSU,-0.010600000000000002,0.0217,0.0323
 2025-10-18 01:58:08.588730,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,-0.010699999999999932,0.5348,0.5455
@@ -83,10 +85,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-18 03:04:36.854208,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,-0.013800000000000034,0.3636,0.3774
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Georgia,-0.013999999999999999,0.0769,0.0909
 2025-10-17 23:27:32.454969,WNBL - Australia WNBL 2025/26 - Outright,Townsville Fire (W),-0.01419999999999999,0.3704,0.3846
-2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,-0.014399999999999996,0.0625,0.0769
 2025-10-17 23:27:32.390961,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,-0.014399999999999996,0.0625,0.0769
+2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,-0.014399999999999996,0.0625,0.0769
 2025-10-17 20:32:51.199775,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Marisol Ruelas,-0.014600000000000002,0.2632,0.2778
 2025-10-17 22:31:25.340883,BKB 47: Leeds Brawl 2 - Paulie Malignaggi vs Tyler Goodjohn - To Win the Bout,Tyler Goodjohn,-0.014700000000000046,0.75,0.7647
+2025-10-18 07:28:32.090201,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Ezra Taylor,-0.014800000000000035,0.6078,0.6226
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Vijay Singh,-0.014900000000000004,0.0196,0.0345
 2025-10-17 20:32:51.215771,BKFC Fight Night: Hammond - Nathan Maness vs Tyler Randall - To Win the Bout,Tyler Randall,-0.01629999999999998,0.2469,0.2632
 2025-10-17 20:32:51.211838,BKFC Fight Night: Hammond - Jorge Gonzalez-Rolon vs Caleb Gall - To Win the Bout,Jorge Gonzalez-Rolon,-0.01629999999999998,0.2469,0.2632
@@ -106,6 +109,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.328907,BKB 47: Leeds Brawl 2 - Daniel Podmore vs Marko Martinjak - To Win the Bout,Marko Martinjak,-0.02080000000000004,0.6667,0.6875
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Tommy Gainey,-0.021799999999999996,0.0217,0.0435
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Alex Cejka,-0.021799999999999996,0.0217,0.0435
+2025-10-18 07:28:31.990951,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,-0.022600000000000064,0.5122,0.5348
 2025-10-17 22:31:25.336909,BKB 47: Leeds Brawl 2 - Mateusz Fornalski vs Furqan Cheema - To Win the Bout,Mateusz Fornalski,-0.02300000000000002,0.6491,0.6721
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Cameron Percy,-0.0232,0.0435,0.0667
 2025-10-18 05:31:43.180385,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),-0.0238,0.0476,0.0714
