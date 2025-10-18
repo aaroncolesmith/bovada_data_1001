@@ -1,6 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Cal Raleigh (SEA),0.2088,0.2857,0.0769
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Eugenio Suarez (SEA),0.1877,0.2,0.0123
+2025-10-18 08:35:35.541841,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Seattle Mariners,0.1789,0.5122,0.3333
+2025-10-18 08:35:35.541841,Exact Result - World Series 2025 - Exact Result,Seattle Mariners to beat Los Angeles Dodgers,0.13329999999999997,0.3333,0.2
 2025-10-18 05:31:43.180385,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),0.12979999999999997,0.3571,0.2273
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Ernie Els,0.12719999999999998,0.2105,0.0833
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Justin Leonard,0.11909999999999998,0.1667,0.0476
@@ -19,11 +21,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.344924,BKB 47: Leeds Brawl 2 - Reece Murray vs Jack Dugdale - To Win the Bout,Jack Dugdale,0.04290000000000005,0.4,0.3571
 2025-10-18 03:04:36.608671,Championship - England Championship 2025/26 - Winner 2025/26,Coventry City,0.03920000000000001,0.3333,0.2941
 2025-10-17 23:27:32.390961,NBL - Australia NBL 2025/26 - Outright,Melbourne United,0.030299999999999994,0.3636,0.3333
+2025-10-18 08:35:35.645776,Boxing Lines - Ahmed Krnjic vs Keaton Gomes - To Win the Bout,Ahmed Krnjic,0.029899999999999927,0.7222,0.6923
 2025-10-18 06:39:08.144268,BKFC Fight Night: Hammond - Ronny Hauser vs Julian Valencia - To Win the Bout,Julian Valencia,0.028299999999999992,0.3509,0.3226
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Josh Naylor (SEA),0.027900000000000008,0.0714,0.0435
 2025-10-18 06:39:08.119664,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Marisol Ruelas,0.02779999999999999,0.2778,0.25
 2025-10-18 01:58:08.625239,Boxing Lines - Omar Juarez vs Omar Rosario - To Win the Bout,Omar Juarez,0.026499999999999968,0.7826,0.7561
-2025-10-17 20:32:51.195797,BKFC Fight Night: Hammond - Adam Brady vs Darren Whitney - To Win the Bout,Darren Whitney,0.024799999999999933,0.8462,0.8214
 2025-10-17 22:31:25.336909,BKB 47: Leeds Brawl 2 - Mateusz Fornalski vs Furqan Cheema - To Win the Bout,Furqan Cheema,0.024500000000000022,0.4167,0.3922
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Bernhard Langer,0.024299999999999995,0.0588,0.0345
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Freddie Jacobson,0.023899999999999998,0.0435,0.0196
@@ -34,13 +36,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-18 07:28:31.990951,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,0.02079999999999993,0.5556,0.5348
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Greg Chalmers,0.020000000000000004,0.0323,0.0123
 2025-10-18 05:31:42.995842,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.019000000000000003,0.0625,0.0435
-2025-10-17 20:32:51.223680,BKFC Fight Night: Hammond - Ronny Hauser vs Julian Valencia - To Win the Bout,Ronny Hauser,0.018999999999999906,0.7333,0.7143
 2025-10-18 05:31:42.952273,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,SMU,0.018099999999999998,0.0769,0.0588
 2025-10-18 06:39:07.901972,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Jorge Polanco (SEA),0.0179,0.1429,0.125
-2025-10-17 20:32:51.211838,BKFC Fight Night: Hammond - Jorge Gonzalez-Rolon vs Caleb Gall - To Win the Bout,Caleb Gall,0.01750000000000007,0.8214,0.8039
-2025-10-17 20:32:51.215771,BKFC Fight Night: Hammond - Nathan Maness vs Tyler Randall - To Win the Bout,Nathan Maness,0.01750000000000007,0.8214,0.8039
 2025-10-17 22:31:25.352860,BKB 47: Leeds Brawl 2 - Scott McHugh vs Joe Fitzpatrick - To Win the Bout,Scott McHugh,0.017300000000000093,0.7143,0.697
-2025-10-17 20:32:51.207774,BKFC Fight Night: Hammond - Cameron VanCamp vs Derrick Findley - To Win the Bout,Cameron VanCamp,0.017300000000000093,0.7143,0.697
 2025-10-18 05:31:42.924180,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Boise State,0.016699999999999937,0.6,0.5833
 2025-10-18 06:39:08.132021,BKFC Fight Night: Hammond - Jorge Gonzalez-Rolon vs Caleb Gall - To Win the Bout,Jorge Gonzalez-Rolon,0.01629999999999998,0.2632,0.2469
 2025-10-18 06:39:08.136113,BKFC Fight Night: Hammond - Nathan Maness vs Tyler Randall - To Win the Bout,Tyler Randall,0.01629999999999998,0.2632,0.2469
@@ -50,10 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Y E Yang,0.014900000000000004,0.0345,0.0196
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas,0.014899999999999997,0.0625,0.0476
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.01469999999999999,0.25,0.2353
-2025-10-17 20:32:51.199775,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Brooke Evans,0.014399999999999968,0.8039,0.7895
 2025-10-17 22:31:25.365470,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Brooke Evans,0.01430000000000009,0.8182,0.8039
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Mike Weir,0.013,0.0196,0.0066
-2025-10-17 20:32:51.227606,BKFC Fight Night: Hammond - Sean Schultz vs Gabriel Mota - To Win the Bout,Sean Schultz,0.012700000000000045,0.6491,0.6364
 2025-10-18 07:28:32.150722,BKFC Fight Night: Hammond - Sean Schultz vs Gabriel Mota - To Win the Bout,Sean Schultz,0.012700000000000045,0.6491,0.6364
 2025-10-18 06:39:08.127922,BKFC Fight Night: Hammond - Cameron VanCamp vs Derrick Findley - To Win the Bout,Derrick Findley,0.012699999999999989,0.3636,0.3509
 2025-10-18 01:58:08.672600,Boxing Lines - Mujibillo Tursunov vs Danylo Lozan - To Win the Bout,Mujibillo Tursunov,0.012199999999999989,0.5122,0.5
@@ -76,7 +72,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Steve Flesch,-0.011200000000000002,0.0132,0.0244
 2025-10-18 05:31:43.210872,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Edgar Rosales,-0.011600000000000055,0.5122,0.5238
 2025-10-17 22:31:25.280735,Boxing Lines - Mujibillo Tursunov vs Danylo Lozan - To Win the Bout,Mujibillo Tursunov,-0.012199999999999989,0.5,0.5122
-2025-10-17 20:32:51.207774,BKFC Fight Night: Hammond - Cameron VanCamp vs Derrick Findley - To Win the Bout,Derrick Findley,-0.012699999999999989,0.3509,0.3636
 2025-10-17 22:31:25.352860,BKB 47: Leeds Brawl 2 - Scott McHugh vs Joe Fitzpatrick - To Win the Bout,Joe Fitzpatrick,-0.012699999999999989,0.3509,0.3636
 2025-10-18 06:39:08.148450,BKFC Fight Night: Hammond - Sean Schultz vs Gabriel Mota - To Win the Bout,Sean Schultz,-0.012700000000000045,0.6364,0.6491
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Jerry Kelly,-0.012800000000000002,0.0217,0.0345
@@ -85,20 +80,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-18 03:04:36.854208,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,-0.013800000000000034,0.3636,0.3774
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Georgia,-0.013999999999999999,0.0769,0.0909
 2025-10-17 23:27:32.454969,WNBL - Australia WNBL 2025/26 - Outright,Townsville Fire (W),-0.01419999999999999,0.3704,0.3846
-2025-10-17 23:27:32.390961,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,-0.014399999999999996,0.0625,0.0769
 2025-10-18 05:31:42.864000,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,-0.014399999999999996,0.0625,0.0769
-2025-10-17 20:32:51.199775,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Marisol Ruelas,-0.014600000000000002,0.2632,0.2778
+2025-10-17 23:27:32.390961,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,-0.014399999999999996,0.0625,0.0769
 2025-10-17 22:31:25.340883,BKB 47: Leeds Brawl 2 - Paulie Malignaggi vs Tyler Goodjohn - To Win the Bout,Tyler Goodjohn,-0.014700000000000046,0.75,0.7647
 2025-10-18 07:28:32.090201,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Ezra Taylor,-0.014800000000000035,0.6078,0.6226
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Vijay Singh,-0.014900000000000004,0.0196,0.0345
-2025-10-17 20:32:51.215771,BKFC Fight Night: Hammond - Nathan Maness vs Tyler Randall - To Win the Bout,Tyler Randall,-0.01629999999999998,0.2469,0.2632
-2025-10-17 20:32:51.211838,BKFC Fight Night: Hammond - Jorge Gonzalez-Rolon vs Caleb Gall - To Win the Bout,Jorge Gonzalez-Rolon,-0.01629999999999998,0.2469,0.2632
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,George Springer (TOR),-0.016700000000000007,0.0833,0.1
 2025-10-17 22:31:25.361567,BKFC Fight Night: Hammond - Adam Brady vs Darren Whitney - To Win the Bout,Darren Whitney,-0.017100000000000004,0.8291,0.8462
 2025-10-18 06:39:08.127922,BKFC Fight Night: Hammond - Cameron VanCamp vs Derrick Findley - To Win the Bout,Cameron VanCamp,-0.017300000000000093,0.697,0.7143
 2025-10-18 06:39:08.132021,BKFC Fight Night: Hammond - Jorge Gonzalez-Rolon vs Caleb Gall - To Win the Bout,Caleb Gall,-0.01750000000000007,0.8039,0.8214
 2025-10-18 06:39:08.136113,BKFC Fight Night: Hammond - Nathan Maness vs Tyler Randall - To Win the Bout,Nathan Maness,-0.01750000000000007,0.8039,0.8214
-2025-10-17 20:32:51.223680,BKFC Fight Night: Hammond - Ronny Hauser vs Julian Valencia - To Win the Bout,Julian Valencia,-0.017600000000000005,0.3333,0.3509
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Stewart Cink,-0.018099999999999998,0.0588,0.0769
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Soren Kjeldsen,-0.019099999999999995,0.0244,0.0435
 2025-10-17 21:28:05.209485,Boxing Lines - Reggie Ray Martinez vs Edgar Rosales - To Win the Bout,Reggie Ray Martinez,-0.01970000000000005,0.5455,0.5652
@@ -113,8 +104,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.336909,BKB 47: Leeds Brawl 2 - Mateusz Fornalski vs Furqan Cheema - To Win the Bout,Mateusz Fornalski,-0.02300000000000002,0.6491,0.6721
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Cameron Percy,-0.0232,0.0435,0.0667
 2025-10-18 05:31:43.180385,World Series MVP - World Series MVP 2025 - World Series MVP,Mookie Betts (LAD),-0.0238,0.0476,0.0714
-2025-10-17 20:32:51.195797,BKFC Fight Night: Hammond - Adam Brady vs Darren Whitney - To Win the Bout,Adam Brady,-0.0247,0.2222,0.2469
 2025-10-18 05:31:43.180385,World Series MVP - World Series MVP 2025 - World Series MVP,George Springer (TOR),-0.024800000000000003,0.0278,0.0526
+2025-10-18 08:35:35.645776,Boxing Lines - Ahmed Krnjic vs Keaton Gomes - To Win the Bout,Keaton Gomes,-0.02560000000000001,0.3448,0.3704
 2025-10-18 06:39:08.144268,BKFC Fight Night: Hammond - Ronny Hauser vs Julian Valencia - To Win the Bout,Ronny Hauser,-0.025999999999999912,0.7143,0.7403
 2025-10-18 01:58:08.625239,Boxing Lines - Omar Juarez vs Omar Rosario - To Win the Bout,Omar Rosario,-0.025999999999999968,0.2817,0.3077
 2025-10-18 06:39:08.119664,BKFC Fight Night: Hammond - Brooke Evans vs Marisol Ruelas - To Win the Bout,Brooke Evans,-0.02870000000000006,0.7895,0.8182
@@ -132,7 +123,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-17 22:31:25.538333,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Steven Alker,-0.06309999999999999,0.0278,0.0909
 2025-10-18 03:04:36.854208,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Benfica,-0.06519999999999998,0.2857,0.3509
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Vladimir Guerrero Jr. (TOR),-0.08330000000000001,0.1667,0.25
+2025-10-18 08:35:35.541841,Exact Result - World Series 2025 - Exact Result,Toronto Blue Jays to beat Los Angeles Dodgers,-0.09609999999999999,0.1,0.1961
 2025-10-18 04:33:43.494616,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,-0.11049999999999999,0.1,0.2105
 2025-10-18 01:58:08.561204,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Jorge Polanco (SEA),-0.1131,0.125,0.2381
+2025-10-18 08:35:35.541841,Exact Result - World Series 2025 - Exact Result,Los Angeles Dodgers to beat Toronto Blue Jays,-0.1704,0.2,0.3704
 2025-10-18 05:31:42.995842,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Carson Beck (MIA),-0.2109,0.0244,0.2353
 2025-10-18 05:31:42.952273,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,-0.3572,0.2857,0.6429
