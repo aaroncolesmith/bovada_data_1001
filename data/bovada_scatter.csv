@@ -1,90 +1,65 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Adelaide 36ers,0.141,0.3077,0.1667
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,Adelaide 36ers,0.13640000000000002,0.5,0.3636
+2025-10-19 22:31:32.157392,Regular Season Stat Leaders - Threes Made Per Game Leader - Regular Season 2025-26 - Threes Made Per Game Leader,Stephen Curry (GSW),0.08079999999999998,0.6364,0.5556
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,Melbourne United,0.06669999999999998,0.6667,0.6
 2025-10-19 21:26:53.243927,NBL - Australia NBL 2025/26 - Most Losses,Cairns Taipans,0.05960000000000004,0.4167,0.3571
-2025-10-19 09:28:20.067101,Premiership - Scotland Premiership 2025/26 - Winner,Hearts,0.05550000000000002,0.2222,0.1667
 2025-10-19 21:26:53.243927,NBL - Australia NBL 2025/26 - Most Losses,Perth Wildcats,0.0503,0.0667,0.0164
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Schalke 04,0.04999999999999999,0.25,0.2
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,0.04999999999999999,0.25,0.2
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.048100000000000004,0.2299,0.1818
 2025-10-19 21:26:53.243927,NBL - Australia NBL 2025/26 - Most Losses,Illawarra Hawks,0.0474,0.0909,0.0435
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Melbourne United,0.04620000000000002,0.5917,0.5455
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Paderborn,0.042899999999999994,0.1429,0.1
-2025-10-19 09:28:20.057880,Serie B - Italy Serie B 2025/26 - Outright,Cesena,0.042899999999999994,0.1429,0.1
-2025-10-19 09:28:20.048484,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.04099999999999998,0.3077,0.2667
+2025-10-19 22:31:31.582403,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,John Collins (LAC),0.0389,0.0667,0.0278
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,SE Melbourne Phoenix,0.03889999999999999,0.1818,0.1429
 2025-10-19 21:26:53.698816,Northwest Division - Portland Trail Blazers - Regular Season Specials 2025-26 - Portland Trail Blazers - Regular Season Specials,D. Avdija to average 20+ PPG & POR Trail Blazers to make playoffs,0.034100000000000005,0.125,0.0909
 2025-10-19 10:32:13.853832,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.031799999999999995,0.1429,0.1111
 2025-10-19 19:24:11.352830,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Over 56.5,0.030399999999999983,0.5652,0.5348
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Bendigo Spirit (W),0.027999999999999997,0.1818,0.1538
-2025-10-19 09:28:20.076357,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.027800000000000047,0.7778,0.75
 2025-10-19 19:24:11.357642,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Over 33.5,0.026499999999999968,0.5917,0.5652
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Sydney Uni Flames (W),0.024999999999999994,0.125,0.1
 2025-10-19 21:26:53.698816,Northwest Division - Portland Trail Blazers - Regular Season Specials 2025-26 - Portland Trail Blazers - Regular Season Specials,D. Avdija to average 23+ PPG & POR Trail Blazers to win 40+ Regular Season games,0.024800000000000003,0.0526,0.0278
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Dallas,0.023899999999999998,0.0435,0.0196
 2025-10-19 20:31:25.885475,Toronto Raptors - Regular Season Wins 2025-26 - Toronto Raptors - Regular Season Wins,Over 39.5,0.023800000000000043,0.5238,0.5
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,0.023799999999999988,0.1667,0.1429
-2025-10-19 09:28:20.080972,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,0.021699999999999997,0.4762,0.4545
 2025-10-19 19:24:11.454618,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Over 41.5,0.02079999999999993,0.5556,0.5348
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Kaiserslautern,0.02020000000000001,0.1111,0.0909
-2025-10-19 09:28:20.048484,Ligue 2 - France Ligue 2 2025/26 - Winner,Red Star,0.02020000000000001,0.1111,0.0909
-2025-10-19 09:28:20.080972,Super League - Switzerland Super League 2025/26 - Winner,FC Thun,0.02020000000000001,0.1111,0.0909
-2025-10-19 09:28:20.057880,Serie B - Italy Serie B 2025/26 - Outright,Monza,0.02020000000000001,0.1111,0.0909
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Melbourne United,0.018799999999999983,0.3636,0.3448
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,0.01820000000000002,0.2,0.1818
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,0.0179,0.1429,0.125
 2025-10-19 21:26:54.231713,Boxing Lines - Jack Catterall vs Ekow Essuman - To Win the Bout,Jack Catterall,0.01539999999999997,0.6875,0.6721
-2025-10-19 09:28:20.076357,Super Lig - Turkey Super Lig 2025/26 - Winner,Trabzonspor,0.013999999999999999,0.0909,0.0769
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Townsville Fire (W),0.013300000000000034,0.3704,0.3571
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Adelaide 36ers,0.01319999999999999,0.2632,0.25
 2025-10-19 10:32:13.853832,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Dallas,0.013,0.0196,0.0066
-2025-10-19 09:28:20.057880,Serie B - Italy Serie B 2025/26 - Outright,Juve Stabia,0.010100000000000001,0.0345,0.0244
+2025-10-19 22:31:32.157392,Regular Season Stat Leaders - Threes Made Per Game Leader - Regular Season 2025-26 - Threes Made Per Game Leader,Michael Porter Jr. (BKN),0.012700000000000003,0.0323,0.0196
 2025-10-19 19:24:11.410860,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Over 37.5,0.010099999999999998,0.5556,0.5455
-2025-10-19 09:28:20.080972,Super League - Switzerland Super League 2025/26 - Winner,FC Zürich,-0.0102,0.0667,0.0769
-2025-10-19 10:32:13.853832,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,-0.010899999999999993,0.1429,0.1538
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,UC Capitals (W),-0.010899999999999993,0.1429,0.1538
-2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Tasmania JackJumpers,-0.011099999999999999,0.1,0.1111
+2025-10-19 10:32:13.853832,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,-0.010899999999999993,0.1429,0.1538
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Perth Lynx (W),-0.011099999999999999,0.1,0.1111
+2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Tasmania JackJumpers,-0.011099999999999999,0.1,0.1111
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,-0.011099999999999999,0.1,0.1111
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,-0.011099999999999999,0.1,0.1111
 2025-10-19 19:24:11.410860,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Under 37.5,-0.011600000000000055,0.5122,0.5238
-2025-10-19 09:28:20.057880,Serie B - Italy Serie B 2025/26 - Outright,Spezia,-0.012100000000000001,0.0123,0.0244
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Minnesota United,-0.012899999999999995,0.1538,0.1667
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Darmstadt,-0.012899999999999995,0.1538,0.1667
 2025-10-19 10:32:13.853832,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.013899999999999996,0.1111,0.125
-2025-10-19 09:28:20.057880,Serie B - Italy Serie B 2025/26 - Outright,Frosinone,-0.013999999999999999,0.0769,0.0909
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Perth Wildcats,-0.014099999999999994,0.0526,0.0667
-2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,-0.014099999999999994,0.0526,0.0667
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,-0.014099999999999994,0.0526,0.0667
+2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,-0.014099999999999994,0.0526,0.0667
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,New Zealand Breakers,-0.014499999999999999,0.0149,0.0294
 2025-10-19 21:26:54.231713,Boxing Lines - Jack Catterall vs Ekow Essuman - To Win the Bout,Ekow Essuman,-0.01479999999999998,0.3774,0.3922
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,-0.016699999999999993,0.25,0.2667
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Hannover 96,-0.0179,0.125,0.1429
-2025-10-19 09:28:20.048484,Ligue 2 - France Ligue 2 2025/26 - Winner,USL Dunkerque,-0.018200000000000004,0.0294,0.0476
-2025-10-19 09:28:20.076357,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,-0.019000000000000017,0.2667,0.2857
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,-0.019099999999999992,0.0476,0.0667
 2025-10-19 20:31:25.885475,Toronto Raptors - Regular Season Wins 2025-26 - Toronto Raptors - Regular Season Wins,Under 39.5,-0.01970000000000005,0.5455,0.5652
-2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.02020000000000001,0.0909,0.1111
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.02020000000000001,0.0909,0.1111
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Arminia Bielefeld,-0.0203,0.0385,0.0588
+2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.02020000000000001,0.0909,0.1111
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,-0.022199999999999998,0.2,0.2222
 2025-10-19 19:24:11.454618,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Under 41.5,-0.022600000000000064,0.5122,0.5348
 2025-10-19 21:26:53.243927,NBL - Australia NBL 2025/26 - Most Losses,SE Melbourne Phoenix,-0.0232,0.0435,0.0667
-2025-10-19 09:28:20.076357,Super Lig - Turkey Super Lig 2025/26 - Winner,Besiktas,-0.023200000000000002,0.0244,0.0476
 2025-10-19 19:24:11.357642,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Under 33.5,-0.023799999999999988,0.4762,0.5
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Sydney Kings,-0.023799999999999988,0.1429,0.1667
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Austin FC,-0.0242,0.0667,0.0909
-2025-10-19 09:28:20.080972,Super League - Switzerland Super League 2025/26 - Winner,Young Boys,-0.02560000000000001,0.3077,0.3333
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Hertha BSC,-0.028199999999999996,0.0385,0.0667
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Tasmania JackJumpers,-0.030699999999999998,0.0526,0.0833
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Southside Flyers (W),-0.031799999999999995,0.1111,0.1429
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,Cairns Taipans,-0.033100000000000004,0.0294,0.0625
-2025-10-19 09:28:20.053124,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Karlsruher,-0.03330000000000001,0.0667,0.1
 2025-10-19 19:24:11.352830,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Under 56.5,-0.03480000000000005,0.5,0.5348
 2025-10-19 10:32:13.856713,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,-0.0384,0.0385,0.0769
-2025-10-19 09:28:20.067101,Premiership - Scotland Premiership 2025/26 - Winner,Rangers,-0.04329999999999999,0.0476,0.0909
-2025-10-19 09:28:20.048484,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,-0.047599999999999976,0.2857,0.3333
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Illawarra Hawks,-0.0476,0.0149,0.0625
 2025-10-19 21:26:53.243927,NBL - Australia NBL 2025/26 - Most Losses,New Zealand Breakers,-0.05020000000000002,0.3846,0.4348
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,Sydney Kings,-0.06670000000000004,0.3333,0.4
