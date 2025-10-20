@@ -55,13 +55,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-20 05:33:44.163493,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Indianapolis Colts,0.011099999999999999,0.0667,0.0556
 2025-10-20 05:33:44.209328,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.01100000000000001,0.5348,0.5238
 2025-10-20 02:20:06.128564,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,0.010800000000000032,0.274,0.2632
+2025-10-20 06:46:19.833253,ALCS MVP - ALCS MVP 2025 - ALCS MVP,Vladimir Guerrero Jr. (TOR),0.010699999999999932,0.5455,0.5348
 2025-10-19 19:24:11.410860,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Over 37.5,0.010099999999999998,0.5556,0.5455
 2025-10-20 03:56:05.000888,Boxing Lines - Lewis Edmondson vs Ezra Taylor - To Win the Bout,Lewis Edmondson,-0.010099999999999998,0.4444,0.4545
 2025-10-20 02:20:06.128564,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,-0.010199999999999987,0.7937,0.8039
 2025-10-20 05:33:44.163493,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Jacksonville Jaguars,-0.010600000000000002,0.0217,0.0323
 2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,UC Capitals (W),-0.010899999999999993,0.1429,0.1538
-2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Perth Lynx (W),-0.011099999999999999,0.1,0.1111
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Tasmania JackJumpers,-0.011099999999999999,0.1,0.1111
+2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Perth Lynx (W),-0.011099999999999999,0.1,0.1111
+2025-10-20 06:46:19.855721,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,-0.011099999999999999,0.7826,0.7937
 2025-10-19 19:24:11.410860,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Under 37.5,-0.011600000000000055,0.5122,0.5238
 2025-10-20 05:33:44.223274,NFC West - NFC West 2025-26 - NFC West Winner,Arizona Cardinals,-0.0118,0.0099,0.0217
 2025-10-20 05:33:44.163493,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Philadelphia Eagles,-0.011900000000000008,0.0833,0.0952
@@ -69,9 +71,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-20 05:33:44.163493,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Washington Commanders,-0.012700000000000003,0.0196,0.0323
 2025-10-20 05:33:44.186047,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Washington Commanders,-0.0131,0.0033,0.0164
 2025-10-19 23:28:00.052765,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,-0.013800000000000034,0.3636,0.3774
-2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,-0.014099999999999994,0.0526,0.0667
-2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,-0.014099999999999994,0.0526,0.0667
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Perth Wildcats,-0.014099999999999994,0.0526,0.0667
+2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,-0.014099999999999994,0.0526,0.0667
+2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,-0.014099999999999994,0.0526,0.0667
 2025-10-19 23:28:00.057542,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,-0.014100000000000001,0.0385,0.0526
 2025-10-19 21:26:53.246913,NBL - Australia NBL 2025/26 - Outright,New Zealand Breakers,-0.014499999999999999,0.0149,0.0294
 2025-10-20 05:33:44.186047,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Minnesota Vikings,-0.0145,0.0099,0.0244
@@ -94,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-20 05:33:44.186047,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Atlanta Falcons,-0.027099999999999996,0.0164,0.0435
 2025-10-19 21:26:53.249904,NBL - Australia NBL 2025/26 - Regular Season Winner,Tasmania JackJumpers,-0.030699999999999998,0.0526,0.0833
 2025-10-20 05:33:44.213953,NFC South - NFC South 2025-26 - NFC South Winner,Atlanta Falcons,-0.031,0.1818,0.2128
-2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Southside Flyers (W),-0.031799999999999995,0.1111,0.1429
 2025-10-19 23:28:00.039041,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.031799999999999995,0.4444,0.4762
+2025-10-19 21:26:53.308408,WNBL - Australia WNBL 2025/26 - Outright,Southside Flyers (W),-0.031799999999999995,0.1111,0.1429
 2025-10-19 21:26:53.253385,NBL - Australia NBL 2025/26 - To Reach Grand Final,Cairns Taipans,-0.033100000000000004,0.0294,0.0625
 2025-10-20 05:33:44.223274,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,-0.033899999999999986,0.2439,0.2778
 2025-10-20 05:33:44.173356,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Los Angeles Chargers,-0.03420000000000001,0.0769,0.1111
