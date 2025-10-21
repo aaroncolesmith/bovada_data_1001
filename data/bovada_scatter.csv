@@ -42,13 +42,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 08:41:48.122292,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),0.0475,0.0769,0.0294
 2025-10-21 08:41:48.180736,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,0.044499999999999984,0.2667,0.2222
 2025-10-21 08:41:48.184017,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,Yes,0.04410000000000003,0.75,0.7059
-2025-10-21 03:15:11.577199,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Under 41.5,0.043399999999999994,0.5556,0.5122
 2025-10-21 03:46:40.058992,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),0.042899999999999994,0.1429,0.1
 2025-10-21 07:30:44.709765,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,0.041800000000000004,0.2857,0.2439
 2025-10-21 10:36:31.366952,Cut Lines - Sahith Theegala - Make Cut / Miss Cut - Sahith Theegala,Make,0.03920000000000001,0.7059,0.6667
 2025-10-21 08:41:48.138765,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Byron Young (LAR),0.037700000000000004,0.0476,0.0099
-2025-10-21 07:30:44.681899,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.035699999999999954,0.75,0.7143
 2025-10-21 13:03:20.441937,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Burnley,0.035699999999999954,0.75,0.7143
+2025-10-21 07:30:44.681899,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.035699999999999954,0.75,0.7143
 2025-10-21 08:41:48.133290,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jihaad Campbell (PHI),0.029299999999999993,0.2857,0.2564
 2025-10-21 08:41:48.190613,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,Yes,0.028800000000000048,0.875,0.8462
 2025-10-21 07:30:44.700411,NFC South - NFC South 2025-26 - NFC South Winner,Atlanta Falcons,0.028700000000000003,0.2105,0.1818
@@ -59,8 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kyle Shanahan,0.024999999999999994,0.125,0.1
 2025-10-21 08:41:48.138765,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Brian Burns (NYG),0.024800000000000003,0.0526,0.0278
 2025-10-21 03:46:40.058992,World Series MVP - World Series MVP 2025 - World Series MVP,Alejandro Kirk (TOR),0.024399999999999998,0.0385,0.0141
-2025-10-21 13:03:20.438878,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Brentford,0.022199999999999998,0.8889,0.8667
 2025-10-21 08:41:48.122292,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tyler Warren (IND),0.022199999999999998,0.1333,0.1111
+2025-10-21 13:03:20.438878,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Brentford,0.022199999999999998,0.8889,0.8667
 2025-10-21 03:46:40.058992,World Series MVP - World Series MVP 2025 - World Series MVP,Daulton Varsho (TOR),0.021799999999999996,0.0435,0.0217
 2025-10-21 06:44:26.628247,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Detroit Lions,0.021799999999999986,0.2105,0.1887
 2025-10-21 08:41:48.122292,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jaxson Dart (NYG),0.02169999999999994,0.5455,0.5238
@@ -68,11 +67,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 10:36:29.632087,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Burgos,0.019099999999999992,0.0667,0.0476
 2025-10-21 10:36:29.650293,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.01880000000000004,0.5744,0.5556
 2025-10-21 06:44:26.623475,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Kansas City Chiefs,0.018100000000000005,0.2222,0.2041
-2025-10-21 10:36:31.328888,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.016700000000000048,0.75,0.7333
 2025-10-21 10:36:31.324723,Cut Lines - Max Homa - Make Cut / Miss Cut - Max Homa,Make,0.016700000000000048,0.75,0.7333
+2025-10-21 10:36:31.328888,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.016700000000000048,0.75,0.7333
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Zac Taylor,0.0167,0.0217,0.005
-2025-10-21 08:41:48.261745,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.015899999999999997,0.1111,0.0952
 2025-10-21 06:44:26.619422,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,0.015899999999999997,0.1111,0.0952
+2025-10-21 08:41:48.261745,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.015899999999999997,0.1111,0.0952
 2025-10-21 07:30:44.672637,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,San Francisco 49ers,0.015700000000000006,0.1333,0.1176
 2025-10-21 06:44:26.609374,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,0.015700000000000006,0.1333,0.1176
 2025-10-21 13:03:20.463278,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Brentford,0.015100000000000002,0.1818,0.1667
@@ -98,11 +97,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 07:30:44.672637,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Los Angeles Rams,-0.010899999999999993,0.1429,0.1538
 2025-10-21 08:41:48.240231,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.01100000000000001,0.5238,0.5348
 2025-10-21 08:41:48.390892,Genesis Championship - Genesis Championship - Winner,Byeong Hun An,-0.011199999999999995,0.0476,0.0588
-2025-10-21 11:27:11.703099,International Series Philippines - International Series Philipppines - Winner,Jeunghun Wang,-0.011399999999999997,0.0164,0.0278
 2025-10-21 11:27:11.703099,International Series Philippines - International Series Philipppines - Winner,Rattanon Wannasrichan,-0.011399999999999997,0.0164,0.0278
+2025-10-21 11:27:11.703099,International Series Philippines - International Series Philipppines - Winner,Jeunghun Wang,-0.011399999999999997,0.0164,0.0278
 2025-10-21 09:33:28.382619,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,-0.011699999999999933,0.7778,0.7895
 2025-10-21 13:47:29.897310,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.011700000000000016,0.2105,0.2222
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kevin O'Connell,-0.0118,0.0099,0.0217
+2025-10-21 15:31:40.112399,Tournament Match-Ups - Tournament Match-Ups - L. Hodges vs W. Mouw - Tournament Match-Ups,Lee Hodges,-0.012199999999999989,0.5,0.5122
 2025-10-21 08:41:48.170880,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,-0.012499999999999956,0.7436,0.7561
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,John Harbaugh,-0.012599999999999998,0.0152,0.0278
 2025-10-21 09:33:28.416379,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Erickson Lubin,-0.012899999999999995,0.1538,0.1667
@@ -116,22 +116,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Ben Johnson,-0.014899999999999997,0.0476,0.0625
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Brian Daboll,-0.015499999999999998,0.0123,0.0278
 2025-10-21 06:44:26.609374,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Tampa Bay Buccaneers,-0.0155,0.0345,0.05
-2025-10-21 11:27:11.703099,International Series Philippines - International Series Philipppines - Winner,Suteepat Prateeptienchai,-0.0157,0.0278,0.0435
 2025-10-21 06:44:26.619422,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Houston Texans,-0.0157,0.0278,0.0435
+2025-10-21 11:27:11.703099,International Series Philippines - International Series Philipppines - Winner,Suteepat Prateeptienchai,-0.0157,0.0278,0.0435
 2025-10-21 06:44:26.623475,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Houston Texans,-0.0162,0.0116,0.0278
-2025-10-21 08:41:48.261745,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,-0.016699999999999993,0.25,0.2667
 2025-10-21 07:30:44.709765,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,-0.016699999999999993,0.4,0.4167
-2025-10-21 13:03:20.441937,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Everton,-0.018099999999999998,0.0588,0.0769
+2025-10-21 08:41:48.261745,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,-0.016699999999999993,0.25,0.2667
 2025-10-21 08:41:48.230397,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,Yes,-0.018099999999999998,0.0588,0.0769
+2025-10-21 13:03:20.441937,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Everton,-0.018099999999999998,0.0588,0.0769
 2025-10-21 08:41:48.128034,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Justin Jefferson (MIN),-0.0181,0.0164,0.0345
 2025-10-21 10:36:29.650293,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.01820000000000002,0.1818,0.2
 2025-10-21 13:03:20.445008,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Wolverhampton Wanderers,-0.018799999999999983,0.3448,0.3636
-2025-10-21 10:36:31.324723,Cut Lines - Max Homa - Make Cut / Miss Cut - Max Homa,Miss,-0.020799999999999985,0.3125,0.3333
 2025-10-21 10:36:31.328888,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.020799999999999985,0.3125,0.3333
+2025-10-21 10:36:31.324723,Cut Lines - Max Homa - Make Cut / Miss Cut - Max Homa,Miss,-0.020799999999999985,0.3125,0.3333
 2025-10-21 13:03:20.441937,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Sunderland,-0.021999999999999964,0.2857,0.3077
 2025-10-21 07:30:44.695786,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,-0.022600000000000064,0.5122,0.5348
-2025-10-21 13:03:20.463278,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,West Ham United,-0.0242,0.0667,0.0909
 2025-10-21 11:27:09.665478,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Sergio Canales,-0.0242,0.0667,0.0909
+2025-10-21 13:03:20.463278,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,West Ham United,-0.0242,0.0667,0.0909
 2025-10-21 08:41:48.207133,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,Yes,-0.024299999999999995,0.0526,0.0769
 2025-10-21 07:30:44.756188,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,J.J. McCarthy (MIN),-0.0257,0.0066,0.0323
 2025-10-21 07:30:44.751145,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jim Harbaugh,-0.027099999999999996,0.0164,0.0435
@@ -151,13 +151,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-21 13:03:20.466326,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Brentford,-0.03770000000000007,0.8571,0.8948
 2025-10-21 07:30:44.695786,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,-0.038299999999999994,0.0526,0.0909
 2025-10-21 08:41:48.154445,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,-0.03860000000000001,0.0667,0.1053
-2025-10-21 08:41:48.253478,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.039400000000000004,0.0132,0.0526
 2025-10-21 08:41:48.233666,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,Yes,-0.039400000000000004,0.0132,0.0526
+2025-10-21 08:41:48.253478,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.039400000000000004,0.0132,0.0526
 2025-10-21 13:03:20.441937,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Nottingham Forest,-0.04099999999999998,0.2667,0.3077
 2025-10-21 10:36:29.632087,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Cádiz,-0.04169999999999999,0.125,0.1667
 2025-10-21 07:30:44.681899,AFC South - AFC South 2025-26 - AFC South Winner,Houston Texans,-0.042800000000000005,0.0625,0.1053
 2025-10-21 10:36:31.366952,Cut Lines - Sahith Theegala - Make Cut / Miss Cut - Sahith Theegala,Miss,-0.04290000000000005,0.3571,0.4
-2025-10-21 03:15:11.577199,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Over 41.5,-0.043399999999999994,0.5122,0.5556
 2025-10-21 11:27:09.665478,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Angel Sepuvelda,-0.04440000000000001,0.0667,0.1111
 2025-10-21 08:41:48.180736,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,-0.04619999999999991,0.8,0.8462
 2025-10-21 08:41:48.128034,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),-0.0509,0.0667,0.1176
