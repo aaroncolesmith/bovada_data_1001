@@ -26,13 +26,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 08:43:03.151813,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Shai Gilgeous-Alexander (OKC),0.025499999999999967,0.4255,0.4
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,0.024399999999999977,0.5122,0.4878
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Boston Celtics,0.023799999999999988,0.5,0.4762
-2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,0.023799999999999988,0.3571,0.3333
 2025-10-22 07:30:55.998378,West Group C - West Group C Winner 2025-26 - West Group C Winner,Denver Nuggets,0.023799999999999988,0.3571,0.3333
+2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,0.023799999999999988,0.3571,0.3333
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Northwest,0.022699999999999998,0.4878,0.4651
 2025-10-22 06:46:42.062198,East Group C - East Group C Winner 2025-26 - East Group C Winner,New York Knicks,0.022600000000000064,0.5348,0.5122
 2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,New Orleans Pelicans,0.022000000000000006,0.1053,0.0833
 2025-10-22 11:39:07.612405,BKFC 83: Camozzi vs Sakara - Chris Camozzi vs Alessio Sakara - To Win the Bout,Alessio Sakara,0.021999999999999964,0.3077,0.2857
 2025-10-22 09:35:52.403710,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Maliek Montgomery,0.02079999999999993,0.5556,0.5348
+2025-10-22 16:40:55.036094,Boxing Lines - Ashleyann Lozada vs Melissa Parker - To Win the Bout,Ashleyann Lozada,0.020500000000000074,0.8667,0.8462
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Chet Holmgren (OKC),0.020000000000000004,0.0323,0.0123
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Jaylen Brown (BOS),0.019000000000000003,0.0625,0.0435
 2025-10-22 08:43:03.238859,Winning State - Winning State 2025-26 - Winning State,Field,0.01880000000000004,0.6552,0.6364
@@ -58,8 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 07:30:56.024026,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Chet Holmgren (OKC),0.010300000000000002,0.0244,0.0141
 2025-10-22 14:38:12.026093,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Maliek Montgomery,-0.010099999999999998,0.5455,0.5556
 2025-10-22 09:35:51.029946,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.010699999999999932,0.5348,0.5455
-2025-10-22 08:43:03.238859,Winning State - Winning State 2025-26 - Winning State,California,-0.010899999999999993,0.1429,0.1538
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Pacific,-0.010899999999999993,0.1429,0.1538
+2025-10-22 08:43:03.238859,Winning State - Winning State 2025-26 - Winning State,California,-0.010899999999999993,0.1429,0.1538
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,-0.011099999999999999,0.4651,0.4762
 2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,L.A. Clippers,-0.01150000000000001,0.3333,0.3448
 2025-10-22 08:43:03.248832,First Time Winner - First Time Winner 2025-26 - First Time Winner,Yes,-0.011899999999999994,0.1786,0.1905
@@ -68,8 +69,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Denver Nuggets,-0.012899999999999995,0.1538,0.1667
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Central,-0.013899999999999996,0.129,0.1429
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Kevin Durant (HOU),-0.013899999999999996,0.1111,0.125
-2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Matthew Dennis (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-10-22 13:45:47.587589,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),-0.013999999999999999,0.0769,0.0909
+2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Matthew Dennis (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,-0.014000000000000012,0.2985,0.3125
 2025-10-22 06:46:42.094999,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Kevin Durant (HOU),-0.01440000000000001,0.0909,0.1053
 2025-10-22 06:46:42.335397,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Rockets - To Make the Playoffs,Yes,-0.014699999999999935,0.9524,0.9671
@@ -78,6 +79,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 06:46:42.100459,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Chet Holmgren (OKC),-0.0179,0.125,0.1429
 2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Jaze Kabia (Grimbsy),-0.02020000000000001,0.0909,0.1111
 2025-10-22 11:39:07.612405,BKFC 83: Camozzi vs Sakara - Chris Camozzi vs Alessio Sakara - To Win the Bout,Chris Camozzi,-0.021700000000000053,0.7561,0.7778
+2025-10-22 16:40:55.036094,Boxing Lines - Ashleyann Lozada vs Melissa Parker - To Win the Bout,Melissa Parker,-0.022199999999999998,0.2,0.2222
 2025-10-22 09:35:52.403710,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Joshua James Pagan,-0.022600000000000064,0.5122,0.5348
 2025-10-22 09:35:51.032939,National League - England National League 2025/26 - Top 7 Finish,York City,-0.02310000000000001,0.9,0.9231
 2025-10-22 06:46:42.062198,East Group C - East Group C Winner 2025-26 - East Group C Winner,Miami Heat,-0.023799999999999988,0.1429,0.1667
