@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 02:09:59.112444,League Two - England League Two 2025/26 - Winner,Milton Keynes Dons,0.08549999999999996,0.3077,0.2222
 2025-10-22 06:46:42.332036,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,Yes,0.08490000000000009,0.8182,0.7333
 2025-10-22 02:09:59.066798,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,0.07939999999999997,0.5556,0.4762
-2025-10-21 23:29:16.667112,Championship - England Championship 2025/26 - Winner 2025/26,Coventry City,0.0771,0.4545,0.3774
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.06919999999999998,0.4082,0.339
 2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Aaron Drinan (Swindon),0.06820000000000001,0.25,0.1818
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Victor Wembanyama (SAS),0.055900000000000005,0.3636,0.3077
@@ -25,21 +24,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,0.031399999999999983,0.3704,0.339
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Utah Jazz,0.0312,0.0435,0.0123
 2025-10-22 06:46:42.100459,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Victor Wembanyama (SAS),0.030299999999999994,0.6667,0.6364
-2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,Dallas Mavericks,0.028700000000000003,0.2105,0.1818
 2025-10-22 06:46:41.983936,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Oklahoma City Thunder,0.028700000000000003,0.2105,0.1818
-2025-10-21 23:29:16.747117,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Paris Saint-Germain,0.027999999999999997,0.1818,0.1538
+2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,Dallas Mavericks,0.028700000000000003,0.2105,0.1818
 2025-10-22 07:30:56.024026,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Tari Eason (HOU),0.0273,0.0323,0.005
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,0.026500000000000024,0.2083,0.1818
 2025-10-22 08:43:03.151813,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Shai Gilgeous-Alexander (OKC),0.025499999999999967,0.4255,0.4
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,0.024399999999999977,0.5122,0.4878
+2025-10-22 07:30:55.998378,West Group C - West Group C Winner 2025-26 - West Group C Winner,Denver Nuggets,0.023799999999999988,0.3571,0.3333
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,0.023799999999999988,0.3571,0.3333
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Boston Celtics,0.023799999999999988,0.5,0.4762
-2025-10-21 23:29:16.747117,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Arsenal,0.023799999999999988,0.1667,0.1429
-2025-10-22 07:30:55.998378,West Group C - West Group C Winner 2025-26 - West Group C Winner,Denver Nuggets,0.023799999999999988,0.3571,0.3333
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Northwest,0.022699999999999998,0.4878,0.4651
-2025-10-21 23:29:18.213106,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Maliek Montgomery,0.022699999999999998,0.4878,0.4651
 2025-10-22 06:46:42.062198,East Group C - East Group C Winner 2025-26 - East Group C Winner,New York Knicks,0.022600000000000064,0.5348,0.5122
 2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,New Orleans Pelicans,0.022000000000000006,0.1053,0.0833
+2025-10-22 11:39:07.612405,BKFC 83: Camozzi vs Sakara - Chris Camozzi vs Alessio Sakara - To Win the Bout,Alessio Sakara,0.021999999999999964,0.3077,0.2857
 2025-10-22 09:35:52.403710,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Maliek Montgomery,0.02079999999999993,0.5556,0.5348
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Chet Holmgren (OKC),0.020000000000000004,0.0323,0.0123
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Jaylen Brown (BOS),0.019000000000000003,0.0625,0.0435
@@ -50,34 +47,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 10:39:00.649536,Boxing Lines - John Riel Casimero vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,0.016000000000000014,0.4082,0.3922
 2025-10-22 02:10:00.506134,Boxing Lines - John Riel Casimero vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,0.01479999999999998,0.3922,0.3774
 2025-10-22 07:30:56.024026,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Josh Giddey (CHI),0.014399999999999996,0.0769,0.0625
+2025-10-22 11:39:08.160823,International Series Philippines - International Series Philipppines - Winner,Louis Oosthuizen,0.014099999999999994,0.0667,0.0526
 2025-10-22 08:43:03.248832,First Time Winner - First Time Winner 2025-26 - First Time Winner,No,0.013900000000000023,0.8889,0.875
 2025-10-22 09:35:51.026912,National League - England National League 2025/26 - To Be Promoted,Boreham Wood,0.013899999999999996,0.125,0.1111
 2025-10-22 07:30:55.989167,West Group A - West Group A Winner 2025-26 - West Group A Winner,Oklahoma City Thunder,0.013299999999999979,0.6429,0.6296
-2025-10-22 02:10:00.521615,Boxing Lines - Royston Barney Smith vs Danny Quartermaine - To Win the Bout,Danny Quartermaine,0.012899999999999995,0.1667,0.1538
 2025-10-22 07:30:55.998378,West Group C - West Group C Winner 2025-26 - West Group C Winner,San Antonio Spurs,0.012899999999999995,0.1667,0.1538
+2025-10-22 02:10:00.521615,Boxing Lines - Royston Barney Smith vs Danny Quartermaine - To Win the Bout,Danny Quartermaine,0.012899999999999995,0.1667,0.1538
 2025-10-22 07:30:56.003249,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.012600000000000007,0.0714,0.0588
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Washington Wizards,0.012499999999999997,0.0625,0.05
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,0.012199999999999989,0.5122,0.5
 2025-10-22 09:35:50.877226,League One - England League One 2025/26 - To Finish Bottom,Northampton Town,0.011199999999999995,0.0588,0.0476
 2025-10-22 06:46:42.335397,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Rockets - To Make the Playoffs,No,0.011099999999999999,0.1111,0.1
-2025-10-21 23:29:16.747117,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayern Munich,0.011099999999999999,0.1111,0.1
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.010699999999999987,0.3333,0.3226
 2025-10-22 07:30:55.956908,Northwest Division - Northwest Division 2025-26 - Division Winner,Oklahoma City Thunder,0.010500000000000065,0.8,0.7895
 2025-10-22 07:30:56.024026,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Chet Holmgren (OKC),0.010300000000000002,0.0244,0.0141
-2025-10-21 23:29:16.747117,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Napoli,-0.010100000000000001,0.0244,0.0345
 2025-10-22 09:35:51.029946,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.010699999999999932,0.5348,0.5455
-2025-10-22 08:43:03.238859,Winning State - Winning State 2025-26 - Winning State,California,-0.010899999999999993,0.1429,0.1538
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Pacific,-0.010899999999999993,0.1429,0.1538
+2025-10-22 08:43:03.238859,Winning State - Winning State 2025-26 - Winning State,California,-0.010899999999999993,0.1429,0.1538
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,-0.011099999999999999,0.4651,0.4762
 2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,L.A. Clippers,-0.01150000000000001,0.3333,0.3448
 2025-10-22 08:43:03.248832,First Time Winner - First Time Winner 2025-26 - First Time Winner,Yes,-0.011899999999999994,0.1786,0.1905
-2025-10-21 23:29:16.747117,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Atlético Madrid,-0.012599999999999998,0.0152,0.0278
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Charlotte Hornets,-0.012899999999999995,0.1538,0.1667
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Denver Nuggets,-0.012899999999999995,0.1538,0.1667
 2025-10-22 08:43:03.243844,Winning Division - Winning Division 2025-26 - Winning Division ,Central,-0.013899999999999996,0.129,0.1429
 2025-10-22 08:43:03.188908,To make the All-NBA 1st Team - To Make the All-NBA 1st Team - To be Selected All-NBA 1st Team,Kevin Durant (HOU),-0.013899999999999996,0.1111,0.125
-2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Matthew Dennis (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-10-22 02:10:00.471307,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),-0.013999999999999999,0.0769,0.0909
+2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Matthew Dennis (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,-0.014000000000000012,0.2985,0.3125
 2025-10-22 06:46:42.094999,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Kevin Durant (HOU),-0.01440000000000001,0.0909,0.1053
 2025-10-22 06:46:42.335397,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Rockets - To Make the Playoffs,Yes,-0.014699999999999935,0.9524,0.9671
@@ -86,7 +81,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 10:39:00.649536,Boxing Lines - John Riel Casimero vs Kyonosuke Kameda - To Win the Bout,John Riel Casimero,-0.016900000000000026,0.6552,0.6721
 2025-10-22 06:46:42.100459,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Chet Holmgren (OKC),-0.0179,0.125,0.1429
 2025-10-22 09:35:50.891088,League Two - England League Two 2025/26 - Top Goalscorer,Jaze Kabia (Grimbsy),-0.02020000000000001,0.0909,0.1111
-2025-10-21 23:29:16.667112,Championship - England Championship 2025/26 - Winner 2025/26,Ipswich Town,-0.022199999999999998,0.2,0.2222
+2025-10-22 11:39:07.612405,BKFC 83: Camozzi vs Sakara - Chris Camozzi vs Alessio Sakara - To Win the Bout,Chris Camozzi,-0.021700000000000053,0.7561,0.7778
 2025-10-22 02:09:59.112444,League Two - England League Two 2025/26 - Winner,Swindon Town,-0.022199999999999998,0.1111,0.1333
 2025-10-22 09:35:52.403710,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Joshua James Pagan,-0.022600000000000064,0.5122,0.5348
 2025-10-22 09:35:51.032939,National League - England National League 2025/26 - Top 7 Finish,York City,-0.02310000000000001,0.9,0.9231
@@ -95,7 +90,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 07:30:56.003249,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Victor Wembanyama (SAS),-0.024999999999999994,0.1,0.125
 2025-10-22 07:30:55.989167,West Group A - West Group A Winner 2025-26 - West Group A Winner,Sacramento Kings,-0.025300000000000003,0.1176,0.1429
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Phoenix Suns,-0.025300000000000017,0.2128,0.2381
-2025-10-21 23:29:18.213106,Boxing Lines - Joshua James Pagan vs Maliek Montgomery - To Win the Bout,Joshua James Pagan,-0.025599999999999956,0.5744,0.6
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Chicago Bulls,-0.026500000000000024,0.3125,0.339
 2025-10-22 02:09:59.112444,League Two - England League Two 2025/26 - Winner,Chesterfield,-0.0267,0.0909,0.1176
 2025-10-22 09:35:51.023573,National League - England National League 2025/26 - Top Goalscorer,Ollie Pearce (York),-0.02679999999999999,0.2857,0.3125
@@ -113,9 +107,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-22 07:30:55.998378,West Group C - West Group C Winner 2025-26 - West Group C Winner,Houston Rockets,-0.05409999999999998,0.303,0.3571
 2025-10-22 07:30:55.993756,West Group B - West Group B Winner 2025-26 - West Group B Winner,Los Angeles Lakers,-0.054300000000000015,0.2632,0.3175
 2025-10-22 06:46:42.345444,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Lakers - To Make the Playoffs,Yes,-0.05520000000000003,0.7561,0.8113
-2025-10-22 07:30:56.158514,Oklahoma City Thunder - Regular Season Wins 2025-26 - Oklahoma City Thunder - Regular Season Wins,Under 62.5,-0.05559999999999998,0.5,0.5556
-2025-10-21 23:29:16.667112,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,-0.05559999999999998,0.1111,0.1667
 2025-10-22 07:30:56.348545,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,-0.05559999999999998,0.4444,0.5
+2025-10-22 07:30:56.158514,Oklahoma City Thunder - Regular Season Wins 2025-26 - Oklahoma City Thunder - Regular Season Wins,Under 62.5,-0.05559999999999998,0.5,0.5556
 2025-10-22 07:30:56.343882,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,-0.06509999999999999,0.4,0.4651
 2025-10-22 07:30:55.961506,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,-0.0675,0.25,0.3175
 2025-10-22 02:09:59.066798,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,-0.07619999999999993,0.5238,0.6
