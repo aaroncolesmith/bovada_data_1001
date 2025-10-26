@@ -12,9 +12,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Notts County,0.07450000000000001,0.5,0.4255
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Tag Ridings,0.06999999999999999,0.1176,0.0476
 2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Salford City,0.06820000000000001,0.25,0.1818
-2025-10-26 02:17:40.712725,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,0.06669999999999998,0.9,0.8333
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Crewe Alexandra,0.06669999999999998,0.2667,0.2
+2025-10-26 02:17:40.712725,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,0.06669999999999998,0.9,0.8333
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Notts County,0.0635,0.2857,0.2222
+2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,Golden State Warriors,0.05870000000000003,0.5238,0.4651
 2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.05859999999999999,0.0909,0.0323
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Salford City,0.057699999999999974,0.3077,0.25
 2025-10-26 02:17:40.773372,League One - England League One 2025/26 - Winner,Bolton Wanderers,0.05710000000000001,0.2,0.1429
@@ -23,28 +24,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Notts County,0.05550000000000002,0.2222,0.1667
 2025-10-26 02:17:40.799592,League Two - England League Two 2025/26 - To Be Relegated,Accrington Stanley,0.05550000000000002,0.2222,0.1667
 2025-10-26 02:17:40.802628,League Two - England League Two 2025/26 - To Finish Bottom,Accrington Stanley,0.04440000000000001,0.1111,0.0667
-2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Peterborough United,0.044399999999999995,0.6,0.5556
 2025-10-26 02:17:40.822957,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.044399999999999995,0.6,0.5556
+2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Peterborough United,0.044399999999999995,0.6,0.5556
 2025-10-26 02:17:40.708261,Serie A - Italy Serie A 2025/26 - Winner,Napoli,0.043200000000000016,0.3509,0.3077
 2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Grimsby Town,0.043200000000000016,0.3509,0.3077
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Bromley,0.04240000000000001,0.1333,0.0909
 2025-10-25 16:35:56.482369,Boxing Lines - Mitchell Smith vs Arnie Dawson - To Win the Bout,Mitchell Smith,0.04089999999999999,0.4255,0.3846
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Coventry City,0.03949999999999998,0.7895,0.75
+2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,L.A. Clippers,0.03920000000000001,0.3333,0.2941
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Wycombe,0.03889999999999999,0.1818,0.1429
 2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Sunderland,0.037700000000000004,0.0476,0.0099
 2025-10-25 16:35:56.611465,BKFC 83: Camozzi vs Sakara - Josef Hala vs Francesco Ricchi - To Win the Bout,Josef Hala,0.0348,0.4348,0.4
 2025-10-26 02:17:40.826004,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Fulham,0.033399999999999985,0.1667,0.1333
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Barnsley,0.03330000000000001,0.1,0.0667
-2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Fleetwood Town,0.033299999999999996,0.1333,0.1
 2025-10-25 17:28:37.874603,BKFC 83: Camozzi vs Sakara - Dan Chapman vs James Brown - To Win the Bout,James Brown,0.033299999999999996,0.4255,0.3922
+2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Fleetwood Town,0.033299999999999996,0.1333,0.1
 2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Salford City,0.0321,0.0909,0.0588
-2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Stevenage,0.030299999999999994,0.6667,0.6364
+2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.030899999999999983,0.2941,0.2632
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Stoke City,0.030299999999999994,0.3636,0.3333
-2025-10-26 02:17:40.773372,League One - England League One 2025/26 - Winner,Stockport County,0.027999999999999997,0.1818,0.1538
+2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Stevenage,0.030299999999999994,0.6667,0.6364
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Bristol City,0.027999999999999997,0.1818,0.1538
-2025-10-26 02:17:40.822957,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,0.02779999999999999,0.25,0.2222
-2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,0.02779999999999999,0.25,0.2222
+2025-10-26 02:17:40.773372,League One - England League One 2025/26 - Winner,Stockport County,0.027999999999999997,0.1818,0.1538
 2025-10-26 02:17:40.826004,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Leeds United,0.02779999999999999,0.25,0.2222
+2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,0.02779999999999999,0.25,0.2222
+2025-10-26 02:17:40.822957,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,0.02779999999999999,0.25,0.2222
 2025-10-25 17:28:37.893844,BKFC 83: Camozzi vs Sakara - Krzysztof Wisniewski vs Haze Hepi - To Win the Bout,Krzysztof Wisniewski,0.02560000000000001,0.3333,0.3077
 2025-10-25 16:35:56.474554,Boxing Lines - Tony Curtis vs Lakshmy Zaragoza Contreras - To Win the Bout,Lakshmy Zaragoza Contreras,0.024800000000000003,0.1081,0.0833
 2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Northampton Town,0.0242,0.0909,0.0667
@@ -56,27 +59,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Sheffield United,0.02310000000000001,0.1,0.0769
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Preston North End,0.02310000000000001,0.1,0.0769
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Bristol City,0.02260000000000001,0.4,0.3774
-2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Peterborough United,0.022199999999999998,0.2222,0.2
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Norwich City,0.022199999999999998,0.2222,0.2
+2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Peterborough United,0.022199999999999998,0.2222,0.2
 2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Stockport County,0.021999999999999964,0.3077,0.2857
 2025-10-25 19:24:38.572108,BKFC 83: Camozzi vs Sakara - Chris Camozzi vs Alessio Sakara - To Win the Bout,Alessio Sakara,0.021399999999999975,0.2778,0.2564
-2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Crewe Alexandra,0.0203,0.0588,0.0385
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Rotherham United,0.0203,0.0588,0.0385
+2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Crewe Alexandra,0.0203,0.0588,0.0385
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Colchester United,0.02020000000000001,0.1111,0.0909
-2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Swansea City,0.020100000000000007,0.25,0.2299
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Portsmouth,0.020100000000000007,0.25,0.2299
+2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Swansea City,0.020100000000000007,0.25,0.2299
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Stockport County,0.018999999999999906,0.7333,0.7143
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Ipswich Town,0.018999999999999906,0.7333,0.7143
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Stockport County,0.018900000000000028,0.4444,0.4255
+2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Dallas Mavericks,0.01830000000000001,0.0952,0.0769
 2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Exeter City,0.01820000000000002,0.2,0.1818
 2025-10-25 18:37:55.185531,Boxing Lines - Jake Paul vs Gervonta Davis - To Win the Bout,Jake Paul,0.018100000000000005,0.4348,0.4167
-2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Wycombe,0.018099999999999998,0.0769,0.0588
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,AFC Wimbledon,0.018099999999999998,0.0769,0.0588
+2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Wycombe,0.018099999999999998,0.0769,0.0588
 2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Notts County,0.018099999999999998,0.0769,0.0588
-2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Mansfield Town,0.0179,0.1429,0.125
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Millwall,0.0179,0.1429,0.125
+2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Mansfield Town,0.0179,0.1429,0.125
 2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Ipswich Town,0.017600000000000005,0.3509,0.3333
 2025-10-25 21:27:06.828589,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,0.017600000000000005,0.274,0.2564
+2025-10-26 04:34:13.544387,NBA Championship Winner - Championship 2025-26 - Champion,Oklahoma City Thunder,0.017299999999999982,0.303,0.2857
 2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),0.017100000000000004,0.16,0.1429
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Plymouth Argyle,0.016699999999999993,0.2667,0.25
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Leicester City,0.016600000000000004,0.0833,0.0667
@@ -85,10 +90,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Watford,0.015100000000000002,0.1818,0.1667
 2025-10-26 02:17:40.822957,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester United,0.014900000000000004,0.0345,0.0196
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Luton Town,0.01429999999999998,0.6369,0.6226
-2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Coventry City,0.01429999999999998,0.6369,0.6226
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Bradford City,0.01429999999999998,0.6369,0.6226
-2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Swindon Town,0.013899999999999996,0.125,0.1111
+2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Coventry City,0.01429999999999998,0.6369,0.6226
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Leyton Orient,0.013899999999999996,0.125,0.1111
+2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Swindon Town,0.013899999999999996,0.125,0.1111
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Queens Park Rangers,0.013899999999999996,0.125,0.1111
 2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Max Muncy (LAD),0.013199999999999996,0.0455,0.0323
 2025-10-25 18:37:55.131478,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,0.0131,0.8131,0.8
@@ -96,15 +101,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 03:48:54.827936,Boxing Lines - Jake Paul vs Gervonta Davis - To Win the Bout,Gervonta Davis,0.012700000000000045,0.6491,0.6364
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Millwall,0.012699999999999989,0.3636,0.3509
 2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester City,0.012400000000000078,0.8948,0.8824
+2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Memphis Grizzlies,0.011899999999999994,0.0833,0.0714
 2025-10-25 16:35:56.588234,BKFC 83: Camozzi vs Sakara - Carlos Trinidad vs Jimmy Sweeney - To Win the Bout,Jimmy Sweeney,0.0116,0.2469,0.2353
 2025-10-25 17:28:37.878437,BKFC 83: Camozzi vs Sakara - Enzo Tobbia vs Ouadia Tergui - To Win the Bout,Enzo Tobbia,0.0116,0.4878,0.4762
-2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Swansea City,0.011199999999999995,0.0588,0.0476
 2025-10-26 02:17:40.799592,League Two - England League Two 2025/26 - To Be Relegated,Barrow FC,0.011199999999999995,0.0588,0.0476
+2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Swansea City,0.011199999999999995,0.0588,0.0476
 2025-10-25 21:27:06.848453,Boxing Lines - Wilkens Mathieu vs Shakeel Phinn - To Win the Bout,Wilkens Mathieu,0.01090000000000002,0.8571,0.8462
 2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Ipswich Town,0.010899999999999993,0.1538,0.1429
 2025-10-25 18:37:55.123799,Boxing Lines - Royston Barney Smith vs Danny Quartermaine - To Win the Bout,Danny Quartermaine,0.010899999999999993,0.1538,0.1429
 2025-10-26 02:17:40.799592,League Two - England League Two 2025/26 - To Be Relegated,Oldham Athletic,0.010700000000000001,0.0385,0.0278
 2025-10-25 17:28:37.777374,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,0.010500000000000065,0.8,0.7895
+2025-10-26 04:34:13.620119,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,0.0102,0.0769,0.0667
 2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Doncaster Rovers,0.010100000000000001,0.0345,0.0244
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Exeter City,0.010099999999999998,0.5556,0.5455
 2025-10-25 17:28:37.886173,BKFC 83: Camozzi vs Sakara - Franco Tenaglia vs Ben Bonner - To Win the Bout,Franco Tenaglia,0.010099999999999998,0.5556,0.5455
@@ -114,20 +121,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Barnet,-0.0102,0.0667,0.0769
 2025-10-25 18:37:55.131478,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,-0.010299999999999976,0.2564,0.2667
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Tim O'Neal,-0.0103,0.002,0.0123
-2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Southampton,-0.010700000000000001,0.0278,0.0385
-2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,West Bromwich Albion,-0.010700000000000001,0.0278,0.0385
-2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.010700000000000001,0.0278,0.0385
 2025-10-26 02:17:40.712725,Ligue 1 - France Ligue 1 2025/26 - Winner,Lille,-0.010700000000000001,0.0278,0.0385
+2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Southampton,-0.010700000000000001,0.0278,0.0385
+2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.010700000000000001,0.0278,0.0385
+2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,West Bromwich Albion,-0.010700000000000001,0.0278,0.0385
 2025-10-25 17:28:37.863049,BKFC 83: Camozzi vs Sakara - Andrea Bicchi vs Tomas Melis - To Win the Bout,Andrea Bicchi,-0.010700000000000043,0.6667,0.6774
-2025-10-25 17:28:37.777374,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,-0.011099999999999999,0.2667,0.2778
-2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Blackpool,-0.011099999999999999,0.1,0.1111
-2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Leicester City,-0.011099999999999999,0.1,0.1111
 2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,West Bromwich Albion,-0.011099999999999999,0.1,0.1111
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Wigan Athletic,-0.011099999999999999,0.1,0.1111
+2025-10-26 02:17:40.680502,Championship - England Championship 2025/26 - Top 2 Finish,Leicester City,-0.011099999999999999,0.1,0.1111
+2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Blackpool,-0.011099999999999999,0.1,0.1111
+2025-10-25 17:28:37.777374,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,-0.011099999999999999,0.2667,0.2778
+2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
+2025-10-26 02:17:40.802628,League Two - England League Two 2025/26 - To Finish Bottom,Shrewsbury Town,-0.011199999999999995,0.0476,0.0588
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Northampton Town,-0.011199999999999995,0.0476,0.0588
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Mansfield Town,-0.011199999999999995,0.0476,0.0588
-2025-10-26 02:17:40.802628,League Two - England League Two 2025/26 - To Finish Bottom,Shrewsbury Town,-0.011199999999999995,0.0476,0.0588
-2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Bristol Rovers,-0.011199999999999995,0.0476,0.0588
 2025-10-25 17:28:37.886173,BKFC 83: Camozzi vs Sakara - Franco Tenaglia vs Ben Bonner - To Win the Bout,Ben Bonner,-0.011600000000000055,0.5122,0.5238
 2025-10-25 21:27:06.848453,Boxing Lines - Wilkens Mathieu vs Shakeel Phinn - To Win the Bout,Shakeel Phinn,-0.011700000000000016,0.2105,0.2222
 2025-10-25 16:35:56.588234,BKFC 83: Camozzi vs Sakara - Carlos Trinidad vs Jimmy Sweeney - To Win the Bout,Carlos Trinidad,-0.011900000000000022,0.8214,0.8333
@@ -136,24 +143,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Leyton Orient,-0.012899999999999995,0.1538,0.1667
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Charlton Athletic,-0.012899999999999995,0.1538,0.1667
 2025-10-25 16:35:56.474554,Boxing Lines - Tony Curtis vs Lakshmy Zaragoza Contreras - To Win the Bout,Tony Curtis,-0.0131,0.9524,0.9655
-2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Southampton,-0.013800000000000034,0.3636,0.3774
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Leicester City,-0.013800000000000034,0.3636,0.3774
-2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Wrexham,-0.013899999999999996,0.1111,0.125
+2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Southampton,-0.013800000000000034,0.3636,0.3774
 2025-10-26 02:17:40.799592,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,-0.013899999999999996,0.1111,0.125
+2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Wrexham,-0.013899999999999996,0.1111,0.125
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Greg Chalmers,-0.014099999999999998,0.0244,0.0385
 2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Cambridge United,-0.014100000000000001,0.0385,0.0526
-2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Leicester City,-0.015100000000000002,0.1667,0.1818
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Southampton,-0.015100000000000002,0.1667,0.1818
+2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Leicester City,-0.015100000000000002,0.1667,0.1818
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Retief Goosen,-0.015499999999999998,0.0123,0.0278
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Barnsley,-0.016600000000000004,0.0667,0.0833
 2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Stevenage,-0.016699999999999993,0.25,0.2667
 2025-10-25 17:28:37.878437,BKFC 83: Camozzi vs Sakara - Enzo Tobbia vs Ouadia Tergui - To Win the Bout,Ouadia Tergui,-0.017299999999999982,0.5744,0.5917
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Stevenage,-0.017600000000000005,0.3333,0.3509
-2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Mansfield Town,-0.0179,0.125,0.1429
 2025-10-26 02:17:40.672232,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,-0.0179,0.125,0.1429
-2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Sheffield United,-0.018099999999999998,0.0588,0.0769
+2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Mansfield Town,-0.0179,0.125,0.1429
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,AFC Wimbledon,-0.018099999999999998,0.0588,0.0769
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Norwich City,-0.018099999999999998,0.0588,0.0769
+2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Sheffield United,-0.018099999999999998,0.0588,0.0769
 2025-10-25 17:28:37.765782,Boxing Lines - Juergen Uldedaj vs Rolly Lambert Fogum - To Win the Bout,Juergen Uldedaj,-0.018100000000000005,0.9231,0.9412
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,West Bromwich Albion,-0.01820000000000002,0.1818,0.2
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Birmingham City,-0.018900000000000028,0.4255,0.4444
@@ -164,10 +171,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Accrington Stanley,-0.019800000000000005,0.0278,0.0476
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Doncaster Rovers,-0.019800000000000005,0.0278,0.0476
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Queens Park Rangers,-0.02020000000000001,0.0909,0.1111
-2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Barnsley,-0.0203,0.0385,0.0588
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Portsmouth,-0.0203,0.0385,0.0588
-2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Gillingham,-0.02049999999999999,0.1333,0.1538
+2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Barnsley,-0.0203,0.0385,0.0588
 2025-10-26 02:17:40.712725,Ligue 1 - France Ligue 1 2025/26 - Winner,Marseille,-0.02049999999999999,0.1333,0.1538
+2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Gillingham,-0.02049999999999999,0.1333,0.1538
 2025-10-26 02:17:40.674987,Championship - England Championship 2025/26 - To Be Promoted,Birmingham City,-0.022199999999999998,0.2,0.2222
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Gillingham,-0.022199999999999998,0.2,0.2222
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,-0.022599999999999953,0.5238,0.5464
@@ -186,23 +193,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.708261,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,-0.026500000000000024,0.3509,0.3774
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Darren Clarke,-0.0273,0.005,0.0323
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Cardiff City,-0.027700000000000058,0.5556,0.5833
-2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Blackburn Rovers,-0.02779999999999999,0.2222,0.25
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.02779999999999999,0.2222,0.25
+2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Blackburn Rovers,-0.02779999999999999,0.2222,0.25
 2025-10-26 02:17:40.773372,League One - England League One 2025/26 - Winner,Huddersfield Town,-0.028199999999999996,0.0385,0.0667
 2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Cardiff City,-0.029000000000000026,0.4255,0.4545
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Oxford United,-0.03179999999999994,0.5238,0.5556
 2025-10-26 02:17:40.793470,League Two - England League Two 2025/26 - Winner,Walsall,-0.031799999999999995,0.1111,0.1429
 2025-10-26 02:17:40.785655,League One - England League One 2025/26 - Top 2 Finish,Huddersfield Town,-0.033299999999999996,0.1,0.1333
 2025-10-26 02:17:40.683257,Championship - England Championship 2025/26 - Top 6 Finish,Sheffield United,-0.033399999999999985,0.1333,0.1667
-2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Rotherham United,-0.034100000000000005,0.0909,0.125
 2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Brighton & Hove Albion,-0.034100000000000005,0.0909,0.125
+2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Rotherham United,-0.034100000000000005,0.0909,0.125
 2025-10-26 02:17:40.802628,League Two - England League Two 2025/26 - To Finish Bottom,Crawley Town,-0.03420000000000001,0.0769,0.1111
 2025-10-26 02:17:40.773372,League One - England League One 2025/26 - Winner,Cardiff City,-0.03570000000000001,0.25,0.2857
 2025-10-25 17:28:37.874603,BKFC 83: Camozzi vs Sakara - Dan Chapman vs James Brown - To Win the Bout,Dan Chapman,-0.035700000000000065,0.6364,0.6721
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Blackpool,-0.03640000000000004,0.3636,0.4
 2025-10-25 16:35:56.611465,BKFC 83: Camozzi vs Sakara - Josef Hala vs Francesco Ricchi - To Win the Bout,Francesco Ricchi,-0.03709999999999991,0.6296,0.6667
-2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Tottenham Hotspur,-0.03889999999999999,0.1429,0.1818
 2025-10-26 02:17:40.805671,League Two - England League Two 2025/26 - Top 3 Finish,Cambridge United,-0.03889999999999999,0.1429,0.1818
+2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Tottenham Hotspur,-0.03889999999999999,0.1429,0.1818
 2025-10-26 02:17:40.799592,League Two - England League Two 2025/26 - To Be Relegated,Crawley Town,-0.04040000000000002,0.1818,0.2222
 2025-10-25 16:35:56.482369,Boxing Lines - Mitchell Smith vs Arnie Dawson - To Win the Bout,Arnie Dawson,-0.041000000000000036,0.6364,0.6774
 2025-10-26 02:17:40.677710,Championship - England Championship 2025/26 - To Be Relegated,Preston North End,-0.042899999999999994,0.1,0.1429
@@ -219,16 +226,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 02:17:40.776444,League One - England League One 2025/26 - To Be Promoted,Huddersfield Town,-0.048100000000000004,0.1818,0.2299
 2025-10-26 02:17:40.829043,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Liverpool,-0.04909999999999992,0.8333,0.8824
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Swindon Town,-0.04910000000000003,0.6,0.6491
+2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.04910000000000003,0.6,0.6491
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Milton Keynes Dons,-0.050000000000000044,0.75,0.8
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Justin Leonard,-0.052300000000000006,0.0588,0.1111
 2025-10-25 23:26:44.666816,Simmons Bank Championship - Simmons Bank Championship - Winner,Cameron Percy,-0.05249999999999999,0.0244,0.0769
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Milton Keynes Dons,-0.05359999999999998,0.5464,0.6
 2025-10-26 02:17:40.796555,League Two - England League Two 2025/26 - To Be Promoted,Chesterfield,-0.05449999999999999,0.4,0.4545
+2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,AFC Wimbledon,-0.05550000000000002,0.1667,0.2222
 2025-10-26 02:17:40.782573,League One - England League One 2025/26 - To Finish Bottom,Burton Albion,-0.05550000000000002,0.1667,0.2222
 2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,Barnsley,-0.05550000000000002,0.1667,0.2222
-2025-10-26 02:17:40.788711,League One - England League One 2025/26 - Top 6 Finish,AFC Wimbledon,-0.05550000000000002,0.1667,0.2222
 2025-10-26 02:17:40.826004,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Brentford,-0.05679999999999999,0.125,0.1818
 2025-10-26 02:17:40.822957,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.05710000000000001,0.1429,0.2
+2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,-0.065,0.2128,0.2778
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Chesterfield,-0.06669999999999998,0.6,0.6667
 2025-10-26 02:17:40.779528,League One - England League One 2025/26 - To Be Relegated,Rotherham United,-0.06670000000000004,0.3333,0.4
 2025-10-26 02:17:40.808716,League Two - England League Two 2025/26 - Top 7 Finish,Cambridge United,-0.067,0.3774,0.4444
