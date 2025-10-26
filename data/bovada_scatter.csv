@@ -4,8 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester United,0.1372,0.5917,0.4545
 2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Brighton & Hove Albion,0.127,0.4255,0.2985
 2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Chelsea,0.11259999999999992,0.6364,0.5238
-2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Boreham Wood,0.10390000000000002,0.2857,0.1818
 2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Liverpool,0.10390000000000002,0.2857,0.1818
+2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Boreham Wood,0.10390000000000002,0.2857,0.1818
 2025-10-26 10:32:35.313162,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester United,0.09230000000000005,0.4,0.3077
 2025-10-26 10:32:35.303907,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Manchester City,0.0917,0.5917,0.5
 2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Brentford,0.0857,0.2857,0.2
@@ -15,8 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 05:32:08.731241,Coach of the Year - Coach of the Year 2025-26 - COTY,Mitch Johnson,0.06999999999999999,0.1176,0.0476
 2025-10-26 05:32:08.741642,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Bennedict Mathurin (IND),0.06669999999999998,0.1667,0.1
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Sunderland,0.0655,0.1,0.0345
-2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,Golden State Warriors,0.05870000000000003,0.5238,0.4651
-2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.05859999999999999,0.0909,0.0323
 2025-10-26 11:25:24.560221,Serie B - Italy Serie B 2025/26 - Outright,Cesena,0.05710000000000001,0.2,0.1429
 2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Tottenham Hotspur,0.055800000000000016,0.2857,0.2299
 2025-10-26 11:25:24.560221,Serie B - Italy Serie B 2025/26 - Outright,Monza,0.05559999999999998,0.1667,0.1111
@@ -28,9 +26,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Fulham,0.04849999999999999,0.8667,0.8182
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Augsburg,0.048099999999999976,0.4255,0.3774
 2025-10-26 05:32:08.975284,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,Yes,0.04620000000000002,0.9286,0.8824
-2025-10-26 10:32:35.133333,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,RB Leipzig,0.045499999999999985,0.5455,0.5
 2025-10-26 09:29:00.122945,MLB World Series Specials - World Series 2025 Specials - World Series Specials,Any Game in Series to End in a Walk-Off,0.045499999999999985,0.5,0.4545
 2025-10-26 09:28:59.170534,Serie A - Italy Serie A 2025/26 - Top 4 Finish,AS Roma,0.045499999999999985,0.5,0.4545
+2025-10-26 10:32:35.133333,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,RB Leipzig,0.045499999999999985,0.5455,0.5
 2025-10-26 08:34:51.449402,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester United,0.044499999999999984,0.2667,0.2222
 2025-10-26 10:32:35.171531,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Monaco,0.044399999999999995,0.4444,0.4
 2025-10-26 05:32:08.752231,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Stephen Curry (GSW),0.042800000000000005,0.1053,0.0625
@@ -39,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 05:32:08.757341,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Victor Wembanyama (SAS),0.040999999999999925,0.7333,0.6923
 2025-10-26 11:25:24.615884,National League - England National League 2025/26 - Winner,Forest Green Rovers,0.04040000000000002,0.2222,0.1818
 2025-10-26 10:32:35.171531,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lens,0.04040000000000002,0.2222,0.1818
-2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,L.A. Clippers,0.03920000000000001,0.3333,0.2941
 2025-10-26 10:32:35.124289,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Jonathan Burkardt (Eintracht Frankfurt),0.0384,0.0769,0.0385
 2025-10-26 10:32:35.313162,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Sunderland,0.0377,0.0526,0.0149
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Hartlepool United,0.0368,0.2667,0.2299
@@ -49,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 05:32:08.981629,To Make the Playoffs - To Make the Playoffs 2025-26 - Indiana Pacers - To Make the Playoffs,No,0.03269999999999995,0.7101,0.6774
 2025-10-26 09:28:59.164756,Serie A - Italy Serie A 2025/26 - To Be Relegated,Lecce,0.03179999999999994,0.5556,0.5238
 2025-10-26 12:54:32.053954,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Zach Parker,0.031700000000000006,0.2222,0.1905
-2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.030899999999999983,0.2941,0.2632
 2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Onyeka Okongwu (ATL),0.030699999999999998,0.0833,0.0526
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Bournemouth,0.030299999999999994,0.3636,0.3333
 2025-10-26 11:25:24.560221,Serie B - Italy Serie B 2025/26 - Outright,Modena,0.029899999999999982,0.2299,0.2
@@ -83,9 +79,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 10:32:35.276242,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,0.019099999999999992,0.0667,0.0476
 2025-10-26 10:32:35.104742,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Villarreal,0.019000000000000017,0.2857,0.2667
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester City,0.018900000000000028,0.9804,0.9615
-2025-10-26 11:25:24.587431,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Igor Thiago (Brentford),0.0189,0.0385,0.0196
 2025-10-26 12:54:31.991712,NFL Weekly Specials - NFL Week 8 Leaders - Lowest Scoring Team,BAL Ravens,0.0189,0.0385,0.0196
-2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Dallas Mavericks,0.01830000000000001,0.0952,0.0769
+2025-10-26 11:25:24.587431,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Igor Thiago (Brentford),0.0189,0.0385,0.0196
 2025-10-26 10:32:35.162387,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Monaco,0.01820000000000002,0.2,0.1818
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Hamburger SV,0.01820000000000002,0.2,0.1818
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.018199999999999994,0.8182,0.8
@@ -95,20 +90,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 11:25:24.615884,National League - England National League 2025/26 - Winner,Boreham Wood,0.018099999999999998,0.0769,0.0588
 2025-10-26 06:41:13.435723,Boxing Lines - Christian Balunan vs Pedro Taduran - To Win the Bout,Christian Balunan,0.01759999999999999,0.1176,0.1
 2025-10-26 15:28:38.728475,Utah Championship - 2/3 Balls - Final Round 2-Balls - K. Roy / F. Capan - Final Round 2-Balls,Kevin Roy,0.01759999999999995,0.6667,0.6491
-2025-10-26 04:34:13.544387,NBA Championship Winner - Championship 2025-26 - Champion,Oklahoma City Thunder,0.017299999999999982,0.303,0.2857
 2025-10-26 05:32:08.736251,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Cooper Flagg (DAL),0.017299999999999982,0.5917,0.5744
-2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),0.017100000000000004,0.16,0.1429
 2025-10-26 05:32:09.013727,To Make the Playoffs - To Make the Playoffs 2025-26 - Orlando Magic - To Make the Playoffs,No,0.017100000000000004,0.16,0.1429
 2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Achraf Hakimi (PSG),0.017099999999999997,0.0294,0.0123
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,St. Pauli,0.016699999999999993,0.2667,0.25
 2025-10-26 10:32:35.133333,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Borussia Dortmund,0.015699999999999936,0.8824,0.8667
-2025-10-26 10:32:35.110847,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,0.015100000000000002,0.1818,0.1667
-2025-10-26 10:32:35.285597,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,0.015100000000000002,0.1818,0.1667
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Aston Villa,0.015100000000000002,0.1818,0.1667
+2025-10-26 10:32:35.285597,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,0.015100000000000002,0.1818,0.1667
 2025-10-26 10:32:35.303907,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Arsenal,0.015100000000000002,0.8333,0.8182
 2025-10-26 05:32:08.972088,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Pistons - To Make the Playoffs,Yes,0.015100000000000002,0.8333,0.8182
-2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.014900000000000004,0.0345,0.0196
+2025-10-26 10:32:35.110847,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,0.015100000000000002,0.1818,0.1667
 2025-10-26 10:32:35.303907,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Newcastle United,0.014900000000000004,0.0345,0.0196
+2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.014900000000000004,0.0345,0.0196
 2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Leeds United,0.01429999999999998,0.9091,0.8948
 2025-10-26 08:34:51.446329,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,West Ham United,0.01429999999999998,0.6369,0.6226
 2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Jack  Clarke,0.014099999999999998,0.0435,0.0294
@@ -117,66 +110,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 11:25:24.560221,Serie B - Italy Serie B 2025/26 - Outright,Frosinone,0.013999999999999999,0.0909,0.0769
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,0.013999999999999999,0.0909,0.0769
 2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Brandon Thomas-Asante,0.013899999999999996,0.125,0.1111
-2025-10-26 11:25:24.621548,National League - England National League 2025/26 - To Be Promoted,Forest Green Rovers,0.013800000000000034,0.3774,0.3636
 2025-10-26 11:25:24.580403,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,0.013800000000000034,0.3774,0.3636
 2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Mason Greenwood (Marseille),0.013800000000000034,0.3774,0.3636
+2025-10-26 11:25:24.621548,National League - England National League 2025/26 - To Be Promoted,Forest Green Rovers,0.013800000000000034,0.3774,0.3636
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Heidenheim,0.013799999999999923,0.6364,0.6226
-2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Max Muncy (LAD),0.013199999999999996,0.0455,0.0323
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Altrincham,0.0131,0.0476,0.0345
 2025-10-26 11:25:24.587431,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Wilson Isidor (Sunderland),0.013,0.0196,0.0066
 2025-10-26 10:32:35.121391,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,RB Leipzig,0.012899999999999995,0.1667,0.1538
 2025-10-26 05:32:08.984816,To Make the Playoffs - To Make the Playoffs 2025-26 - L.A. Clippers - To Make the Playoffs,No,0.012799999999999978,0.2985,0.2857
 2025-10-26 09:28:59.167652,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Hellas Verona,0.012799999999999978,0.2985,0.2857
-2025-10-26 03:48:54.827936,Boxing Lines - Jake Paul vs Gervonta Davis - To Win the Bout,Gervonta Davis,0.012700000000000045,0.6491,0.6364
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Borussia Mönchengladbach,0.012699999999999989,0.3636,0.3509
 2025-10-26 10:32:36.274312,Utah Championship - 2/3 Balls - Final Round 3-Balls - V. Perez / H. Endycott / B. Snedeker - Final Round 3-Balls,Victor Perez,0.012199999999999989,0.5,0.4878
-2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Memphis Grizzlies,0.011899999999999994,0.0833,0.0714
 2025-10-26 07:27:00.045940,Boxing Lines - Christian Balunan vs Pedro Taduran - To Win the Bout,Pedro Taduran,0.011199999999999988,0.9524,0.9412
 2025-10-26 10:32:35.133333,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Hoffenheim,0.011099999999999999,0.1111,0.1
+2025-10-26 16:35:34.970376,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Erickson Lubin,0.010899999999999993,0.1538,0.1429
 2025-10-26 09:29:00.122945,MLB World Series Specials - World Series 2025 Specials - World Series Specials,Any Extra Innings Game in Series,0.010599999999999998,0.4651,0.4545
 2025-10-26 05:32:08.726217,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Nikola Jokic (DEN),0.01050000000000001,0.1923,0.1818
 2025-10-26 05:32:09.023340,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,Yes,0.010399999999999993,0.2326,0.2222
 2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),0.0102,0.0769,0.0667
-2025-10-26 04:34:13.620119,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,0.0102,0.0769,0.0667
-2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,0.010100000000000001,0.0345,0.0244
-2025-10-26 10:32:35.300911,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Fulham,0.010100000000000001,0.0345,0.0244
 2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Hartlepool United,0.010100000000000001,0.0345,0.0244
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,0.010100000000000001,0.0345,0.0244
+2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,0.010100000000000001,0.0345,0.0244
+2025-10-26 10:32:35.300911,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Fulham,0.010100000000000001,0.0345,0.0244
 2025-10-26 05:32:08.931911,Memphis Grizzlies - Regular Season Wins 2025-26 - Memphis Grizzlies - Regular Season Wins,Over 39.5,0.010099999999999998,0.5556,0.5455
 2025-10-26 05:32:08.752231,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,De'Aaron Fox (SAS),-0.010099999999999998,0.0455,0.0556
-2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,York City,-0.010099999999999998,0.5455,0.5556
 2025-10-26 10:32:35.127497,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Heidenheim,-0.010099999999999998,0.4444,0.4545
+2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,York City,-0.010099999999999998,0.5455,0.5556
 2025-10-26 09:28:59.167652,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Udinese,-0.010100000000000001,0.0244,0.0345
 2025-10-26 11:25:24.587431,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Joao Pedro (Chelsea),-0.010100000000000001,0.0244,0.0345
 2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Mika Biereth (Monaco),-0.0102,0.0667,0.0769
 2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Naz Reid (MIN),-0.0102,0.0667,0.0769
-2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Goncalo Ramos (PSG),-0.0102,0.0667,0.0769
 2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Pierre-Emerick Aubameyang (Marseille),-0.0102,0.0667,0.0769
+2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Goncalo Ramos (PSG),-0.0102,0.0667,0.0769
 2025-10-26 05:32:08.757341,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Dyson Daniels (ATL),-0.010700000000000001,0.0278,0.0385
-2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Josh Sargent,-0.011099999999999999,0.1,0.1111
-2025-10-26 11:25:24.580403,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Qadisiyah,-0.011099999999999999,0.1,0.1111
-2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,John Collins (LAC),-0.011099999999999999,0.0556,0.0667
-2025-10-26 05:32:08.741642,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.011099999999999999,0.1,0.1111
 2025-10-26 05:32:08.726217,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Kevin Durant (HOU),-0.011099999999999999,0.0556,0.0667
+2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Josh Sargent,-0.011099999999999999,0.1,0.1111
+2025-10-26 05:32:08.741642,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.011099999999999999,0.1,0.1111
 2025-10-26 05:32:08.741642,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Deni Avdija (POR),-0.011099999999999999,0.0556,0.0667
+2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,John Collins (LAC),-0.011099999999999999,0.0556,0.0667
+2025-10-26 11:25:24.580403,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Qadisiyah,-0.011099999999999999,0.1,0.1111
+2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Crystal Palace,-0.011199999999999988,0.9412,0.9524
 2025-10-26 06:41:13.435723,Boxing Lines - Christian Balunan vs Pedro Taduran - To Win the Bout,Pedro Taduran,-0.011199999999999988,0.9412,0.9524
 2025-10-26 10:32:35.124289,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Harry Kane (Bayern Munich),-0.011199999999999988,0.9412,0.9524
-2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Crystal Palace,-0.011199999999999988,0.9412,0.9524
+2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Reed Sheppard (HOU),-0.011199999999999995,0.0323,0.0435
 2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Hoffenheim,-0.011199999999999995,0.0476,0.0588
 2025-10-26 05:32:08.757341,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),-0.011199999999999995,0.0323,0.0435
-2025-10-26 05:32:08.746982,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Reed Sheppard (HOU),-0.011199999999999995,0.0323,0.0435
 2025-10-26 05:32:08.736251,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,VJ Edgecombe (PHI),-0.01150000000000001,0.3333,0.3448
 2025-10-26 05:32:08.931911,Memphis Grizzlies - Regular Season Wins 2025-26 - Memphis Grizzlies - Regular Season Wins,Under 39.5,-0.011600000000000055,0.5122,0.5238
 2025-10-26 05:32:08.726217,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Anthony Edwards (MIN),-0.011899999999999994,0.0714,0.0833
-2025-10-26 11:25:24.618526,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),-0.012699999999999989,0.3509,0.3636
 2025-10-26 11:25:24.564217,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,-0.012699999999999989,0.3509,0.3636
+2025-10-26 11:25:24.618526,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),-0.012699999999999989,0.3509,0.3636
 2025-10-26 05:32:08.757341,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Draymond Green (GSW),-0.012700000000000003,0.0196,0.0323
 2025-10-26 05:32:09.023340,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,No,-0.012899999999999912,0.8333,0.8462
 2025-10-26 10:32:35.110847,La Liga - Spain La Liga 2025/26 - To Be Relegated,Espanyol,-0.013999999999999999,0.0769,0.0909
 2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Bournemouth,-0.014000000000000012,0.9091,0.9231
 2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Nottingham Forest,-0.014000000000000012,0.9091,0.9231
-2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Manchester City,-0.014099999999999994,0.0526,0.0667
 2025-10-26 05:32:08.731241,Coach of the Year - Coach of the Year 2025-26 - COTY,Ime Udoka,-0.014099999999999994,0.0526,0.0667
+2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Manchester City,-0.014099999999999994,0.0526,0.0667
 2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Chelsea,-0.014100000000000001,0.9615,0.9756
 2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Manchester City,-0.015100000000000002,0.1667,0.1818
 2025-10-26 05:32:08.984816,To Make the Playoffs - To Make the Playoffs 2025-26 - L.A. Clippers - To Make the Playoffs,Yes,-0.015199999999999991,0.7674,0.7826
@@ -184,34 +174,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 12:54:32.179658,Utah Championship - 2/3 Balls - Final Round 2-Balls - K. Roy / F. Capan - Final Round 2-Balls,Frankie Capan,-0.016699999999999993,0.4,0.4167
 2025-10-26 05:32:08.972088,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Pistons - To Make the Playoffs,No,-0.0174,0.2326,0.25
 2025-10-26 07:27:00.045940,Boxing Lines - Christian Balunan vs Pedro Taduran - To Win the Bout,Christian Balunan,-0.01759999999999999,0.1,0.1176
+2025-10-26 12:54:31.988378,NFL Weekly Specials - NFL Week 8 Leaders - Lowest Scoring Game,Jets @ Bengals,-0.0179,0.125,0.1429
 2025-10-26 11:25:24.560221,Serie B - Italy Serie B 2025/26 - Outright,Venezia,-0.0179,0.125,0.1429
 2025-10-26 10:32:35.104742,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,-0.0179,0.125,0.1429
-2025-10-26 12:54:31.988378,NFL Weekly Specials - NFL Week 8 Leaders - Lowest Scoring Game,Jets @ Bengals,-0.0179,0.125,0.1429
 2025-10-26 10:32:35.127497,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,St. Pauli,-0.018199999999999994,0.8,0.8182
-2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,West Ham United,-0.018200000000000004,0.0294,0.0476
 2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.018200000000000004,0.0294,0.0476
-2025-10-26 11:25:24.615884,National League - England National League 2025/26 - Winner,Carlisle United,-0.01820000000000002,0.1818,0.2
-2025-10-26 10:32:35.280863,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,-0.01820000000000002,0.1818,0.2
-2025-10-26 09:28:59.167652,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Pisa,-0.01820000000000002,0.1818,0.2
+2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,West Ham United,-0.018200000000000004,0.0294,0.0476
 2025-10-26 10:32:35.165375,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Bradley Barcola (PSG),-0.01820000000000002,0.1818,0.2
+2025-10-26 10:32:35.280863,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,-0.01820000000000002,0.1818,0.2
+2025-10-26 11:25:24.615884,National League - England National League 2025/26 - Winner,Carlisle United,-0.01820000000000002,0.1818,0.2
+2025-10-26 09:28:59.167652,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Pisa,-0.01820000000000002,0.1818,0.2
 2025-10-26 05:32:09.013727,To Make the Playoffs - To Make the Playoffs 2025-26 - Orlando Magic - To Make the Playoffs,Yes,-0.018299999999999983,0.9048,0.9231
 2025-10-26 10:32:35.121391,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,Bayer Leverkusen,-0.019000000000000017,0.2667,0.2857
 2025-10-26 09:28:59.170534,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Como,-0.020100000000000007,0.2299,0.25
 2025-10-26 10:32:35.313162,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Aston Villa,-0.02020000000000001,0.0909,0.1111
 2025-10-26 10:32:35.110847,La Liga - Spain La Liga 2025/26 - To Be Relegated,Getafe,-0.02049999999999999,0.1333,0.1538
-2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Scunthorpe United,-0.020799999999999985,0.3125,0.3333
 2025-10-26 11:25:24.618526,National League - England National League 2025/26 - Top Goalscorer,Mani Dieseruvwe (Rochdale),-0.020799999999999985,0.3125,0.3333
-2025-10-26 10:32:35.276242,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,-0.021999999999999964,0.2857,0.3077
+2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Scunthorpe United,-0.020799999999999985,0.3125,0.3333
 2025-10-26 10:32:35.313162,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Tottenham Hotspur,-0.021999999999999964,0.2857,0.3077
-2025-10-26 11:25:24.621548,National League - England National League 2025/26 - To Be Promoted,Scunthorpe United,-0.022199999999999998,0.2,0.2222
+2025-10-26 10:32:35.276242,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,-0.021999999999999964,0.2857,0.3077
 2025-10-26 11:25:24.615884,National League - England National League 2025/26 - Winner,York City,-0.022199999999999998,0.2,0.2222
+2025-10-26 11:25:24.621548,National League - England National League 2025/26 - To Be Promoted,Scunthorpe United,-0.022199999999999998,0.2,0.2222
+2025-10-26 15:28:38.728475,Utah Championship - 2/3 Balls - Final Round 2-Balls - K. Roy / F. Capan - Final Round 2-Balls,Frankie Capan,-0.02260000000000001,0.3774,0.4
 2025-10-26 05:32:08.912540,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 27.5,-0.022600000000000064,0.5122,0.5348
 2025-10-26 10:32:35.300911,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Sunderland,-0.023200000000000002,0.0244,0.0476
-2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Leeds United,-0.023799999999999988,0.1429,0.1667
 2025-10-26 06:41:13.658868,Scores - Final Round Scores - Max Homa - Final Round Scores,Over 68.5,-0.023799999999999988,0.4762,0.5
+2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Leeds United,-0.023799999999999988,0.1429,0.1667
 2025-10-26 10:32:35.313162,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Liverpool,-0.0242,0.9091,0.9333
-2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.024299999999999995,0.0526,0.0769
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.024299999999999995,0.0526,0.0769
+2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.024299999999999995,0.0526,0.0769
 2025-10-26 09:28:59.164756,Serie A - Italy Serie A 2025/26 - To Be Relegated,Udinese,-0.024999999999999994,0.1,0.125
 2025-10-26 10:32:35.113756,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Athletic Bilbao,-0.02560000000000001,0.3077,0.3333
 2025-10-26 08:34:51.446329,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Nottingham Forest,-0.02779999999999999,0.2222,0.25
@@ -222,28 +213,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-26 11:25:24.621548,National League - England National League 2025/26 - To Be Promoted,Carlisle United,-0.030299999999999994,0.3333,0.3636
 2025-10-26 09:28:59.170534,Serie A - Italy Serie A 2025/26 - Top 4 Finish,AC Milan,-0.033299999999999996,0.8,0.8333
 2025-10-26 10:32:35.306980,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Newcastle United,-0.033299999999999996,0.8667,0.9
-2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Haji Wright,-0.033300000000000024,0.1667,0.2
 2025-10-26 09:28:59.161404,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.033300000000000024,0.1667,0.2
+2025-10-26 11:25:24.373920,Championship - England Championship 2025/26 - Top Goalscorer,Haji Wright,-0.033300000000000024,0.1667,0.2
 2025-10-26 11:25:24.624264,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.03480000000000005,0.5,0.5348
 2025-10-26 05:32:08.959360,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bulls - To Make the Playoffs,No,-0.03489999999999993,0.8113,0.8462
 2025-10-26 05:32:08.981629,To Make the Playoffs - To Make the Playoffs 2025-26 - Indiana Pacers - To Make the Playoffs,Yes,-0.03510000000000002,0.3571,0.3922
 2025-10-26 09:28:59.164756,Serie A - Italy Serie A 2025/26 - To Be Relegated,Cremonese,-0.03640000000000004,0.3636,0.4
-2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Newcastle United,-0.0368,0.2299,0.2667
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Crystal Palace,-0.0368,0.2299,0.2667
+2025-10-26 10:32:35.322348,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Newcastle United,-0.0368,0.2299,0.2667
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Halifax Town,-0.0368,0.2299,0.2667
 2025-10-26 10:32:35.171531,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Marseille,-0.036800000000000055,0.7333,0.7701
 2025-10-26 10:32:35.303907,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Chelsea,-0.04269999999999999,0.1111,0.1538
-2025-10-26 03:48:54.764767,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.04290000000000005,0.3571,0.4
 2025-10-26 10:32:35.127497,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Augsburg,-0.043200000000000016,0.6491,0.6923
 2025-10-26 10:32:35.162387,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Marseille,-0.043399999999999994,0.5122,0.5556
 2025-10-26 05:32:08.975284,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,No,-0.04730000000000001,0.1379,0.1852
 2025-10-26 10:32:35.316285,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,-0.047599999999999976,0.2857,0.3333
 2025-10-26 09:28:59.170534,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Inter Milan,-0.04849999999999999,0.8182,0.8667
-2025-10-26 04:34:13.624706,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.04910000000000003,0.6,0.6491
-2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Wolfsburg,-0.04999999999999999,0.2,0.25
 2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Fulham,-0.04999999999999999,0.2,0.25
+2025-10-26 10:32:35.130415,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Wolfsburg,-0.04999999999999999,0.2,0.25
 2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Tottenham Hotspur,-0.055499999999999994,0.7778,0.8333
-2025-10-26 04:34:13.615513,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,-0.065,0.2128,0.2778
 2025-10-26 10:32:35.319331,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Crystal Palace,-0.06969999999999998,0.6226,0.6923
 2025-10-26 10:32:35.303907,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Liverpool,-0.07450000000000001,0.4255,0.5
 2025-10-26 11:25:24.626988,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,-0.07779999999999998,0.2299,0.3077
