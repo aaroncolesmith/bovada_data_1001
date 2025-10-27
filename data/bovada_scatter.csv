@@ -1,57 +1,111 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Sunderland,0.12309999999999999,0.9231,0.8
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Cairns Taipans,0.11810000000000004,0.5348,0.4167
 2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Hearts,0.11430000000000001,0.4,0.2857
 2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Baltimore Ravens,0.11219999999999997,0.5122,0.4
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Tottenham Hotspur,0.11110000000000003,0.4444,0.3333
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Melbourne United,0.10060000000000002,0.6923,0.5917
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Aston Villa,0.09999999999999998,0.6,0.5
 2025-10-27 06:49:28.066616,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.09799999999999998,0.3333,0.2353
 2025-10-27 05:35:40.577319,NFC South - NFC South 2025-26 - NFC South Winner,Tampa Bay Buccaneers,0.09619999999999995,0.8462,0.75
 2025-10-27 04:42:37.196667,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.09230000000000005,0.6923,0.6
+2025-10-27 08:41:00.425444,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Wolverhampton Wanderers,0.0922,0.4255,0.3333
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Tottenham Hotspur,0.087,0.2299,0.1429
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Wolverhampton Wanderers,0.0857,0.8,0.7143
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Nottingham Forest,0.08549999999999996,0.3077,0.2222
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,AS Roma,0.08410000000000001,0.1429,0.0588
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Everton,0.08330000000000004,0.75,0.6667
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Manchester City,0.08330000000000001,0.25,0.1667
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Tottenham Hotspur,0.07789999999999997,0.3636,0.2857
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Bournemouth,0.07779999999999998,0.3077,0.2299
 2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.07740000000000002,0.5652,0.4878
 2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,0.07619999999999999,0.4762,0.4
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Bournemouth,0.07500000000000001,0.2,0.125
 2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,0.07269999999999999,0.8095,0.7368
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.0726,0.3226,0.25
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Aston Villa,0.06820000000000001,0.25,0.1818
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,David Raya,0.06520000000000004,0.7143,0.6491
 2025-10-27 06:49:27.685846,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Shai Gilgeous-Alexander (OKC),0.06319999999999998,0.2632,0.2
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Bournemouth,0.06190000000000001,0.4255,0.3636
+2025-10-27 08:41:01.012933,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.06140000000000001,0.2353,0.1739
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Manchester United,0.05710000000000001,0.2,0.1429
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.05559999999999998,0.1667,0.1111
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Melbourne United,0.053100000000000036,0.4167,0.3636
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,China to impose a 100% tariff on US imports,0.052399999999999995,0.0909,0.0385
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,US to impose a 100% tariff on Chinese imports,0.052399999999999995,0.0909,0.0385
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Townsville Fire (W),0.05020000000000002,0.4348,0.3846
+2025-10-27 08:41:00.428146,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Arsenal,0.04909999999999992,0.8824,0.8333
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Bournemouth,0.04810000000000003,0.8182,0.7701
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Fernando Mendoza (IND),0.044499999999999984,0.2667,0.2222
 2025-10-27 05:35:40.563572,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.044399999999999995,0.4444,0.4
 2025-10-27 04:42:37.058709,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,0.04409999999999992,0.6667,0.6226
+2025-10-27 08:41:00.425444,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,West Ham United,0.043200000000000016,0.3509,0.3077
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Indiana,0.042899999999999994,0.1429,0.1
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,0.04240000000000001,0.1333,0.0909
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Bukayo Saka (Arsenal),0.0417,0.125,0.0833
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester United,0.04099999999999998,0.3077,0.2667
 2025-10-27 06:49:27.638669,Southeast Division - Southeast Division 2025-26 - Division Winner,Atlanta Hawks,0.04089999999999999,0.4255,0.3846
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Brentford,0.04070000000000007,0.9231,0.8824
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Tottenham Hotspur,0.04039999999999999,0.8182,0.7778
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,0.038299999999999994,0.0909,0.0526
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Burnley,0.03640000000000004,0.4,0.3636
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Chelsea,0.03420000000000001,0.1111,0.0769
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Newcastle United,0.033399999999999985,0.8667,0.8333
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,0.033300000000000024,0.2,0.1667
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Everton,0.03330000000000001,0.1,0.0667
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Aston Villa,0.03330000000000001,0.1,0.0667
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,New Zealand Breakers,0.03210000000000002,0.4167,0.3846
 2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Rangers,0.0321,0.0909,0.0588
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Chelsea,0.030299999999999994,0.6667,0.6364
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,0.030299999999999994,0.3636,0.3333
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,New England Patriots,0.029799999999999993,0.125,0.0952
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Djordje Petrovic,0.0294,0.0588,0.0294
 2025-10-27 06:49:27.638669,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,0.02840000000000001,0.1053,0.0769
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester United,0.025499999999999967,0.4255,0.4
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Southside Flyers (W),0.025300000000000003,0.1429,0.1176
 2025-10-27 06:49:27.700930,Coach of the Year - Coach of the Year 2025-26 - COTY,Mitch Johnson,0.025300000000000003,0.1429,0.1176
 2025-10-27 06:49:27.716602,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Kon Knueppel (CHA),0.024600000000000004,0.0345,0.0099
 2025-10-27 04:42:37.587664,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Indianapolis Colts,0.0242,0.0909,0.0667
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Nottingham Forest,0.0242,0.9333,0.9091
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Bryan Mbeumo (Man Utd),0.0236,0.0385,0.0149
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Green Bay Packers,0.022199999999999998,0.2222,0.2
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Erling Haaland (Man City),0.021999999999999964,0.3077,0.2857
 2025-10-27 06:49:28.054153,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,0.021999999999999964,0.3077,0.2857
 2025-10-27 06:49:28.071182,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,0.02100000000000002,0.3846,0.3636
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Guglielmo Vicario,0.0203,0.0588,0.0385
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Aston Villa,0.02020000000000001,0.1111,0.0909
 2025-10-27 06:49:28.066616,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Philadelphia Eagles,0.020100000000000007,0.1739,0.1538
 2025-10-27 06:49:27.633903,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,0.019800000000000012,0.2326,0.2128
+2025-10-27 08:41:00.425444,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Nottingham Forest,0.019099999999999992,0.0667,0.0476
 2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Ausar Thompson (DET),0.019000000000000003,0.0625,0.0435
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,To announce that an NHL game will be hosted by China,0.0189,0.0385,0.0196
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,To announce that an NFL game will be hosted by China,0.0189,0.0385,0.0196
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,To announce that an NBA game will be hosted by China,0.0189,0.0385,0.0196
+2025-10-27 08:41:00.910236,Trump-Xi Meeting - Trump-Xi Meeting - US China Trade Deal,To announce that an MLB game will be hosted by China,0.0189,0.0385,0.0196
 2025-10-27 06:49:27.643419,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.018400000000000027,0.3125,0.2941
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Julian Sayin (OSU),0.01820000000000002,0.2,0.1818
 2025-10-27 06:49:27.620385,Atlantic Division - Atlantic Division 2025-26 - Division Winner,Philadelphia 76ers,0.01820000000000002,0.2,0.1818
+2025-10-27 08:41:00.428146,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Tottenham Hotspur,0.018200000000000004,0.0476,0.0294
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Haynes King (GT),0.0181,0.0345,0.0164
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Tasmania JackJumpers,0.01759999999999999,0.1176,0.1
 2025-10-27 05:35:40.559006,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.01739999999999997,0.7674,0.75
 2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,0.017299999999999982,0.303,0.2857
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Trinidad Chambliss (MISS),0.017099999999999997,0.0294,0.0123
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas A&M,0.016700000000000007,0.1,0.0833
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Leeds United,0.016699999999999993,0.2667,0.25
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Buffalo Bills,0.016699999999999993,0.2667,0.25
-2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.015300000000000001,0.0476,0.0323
 2025-10-27 06:49:27.726846,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),0.015300000000000001,0.0476,0.0323
+2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.015300000000000001,0.0476,0.0323
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Liverpool,0.014900000000000004,0.0345,0.0196
 2025-10-27 06:49:27.675396,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Victor Wembanyama (SAS),0.014600000000000002,0.2778,0.2632
 2025-10-27 06:49:27.716602,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Cedric Coward (MEM),0.0145,0.0244,0.0099
 2025-10-27 06:49:27.624886,Central Division - Central Division 2025-26 - Division Winner,Indiana Pacers,0.0145,0.0244,0.0099
 2025-10-27 06:49:27.685846,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Donovan Mitchell (CLE),0.01440000000000001,0.1053,0.0909
 2025-10-27 06:49:28.054153,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,New England Patriots,0.014399999999999996,0.0769,0.0625
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Mississippi,0.014100000000000001,0.0526,0.0385
-2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Tasmania JackJumpers,0.014099999999999994,0.0667,0.0526
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.014099999999999994,0.0667,0.0526
+2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Tasmania JackJumpers,0.014099999999999994,0.0667,0.0526
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Declan Rice (Arsenal),0.013999999999999999,0.0909,0.0769
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Detroit Lions,0.0131,0.2353,0.2222
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Sydney Kings,0.013,0.0196,0.0066
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Los Angeles Rams,0.012899999999999995,0.1667,0.1538
@@ -60,8 +114,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-27 06:49:27.675396,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.011899999999999994,0.0833,0.0714
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,0.011300000000000004,0.1852,0.1739
 2025-10-27 06:49:27.624886,Central Division - Central Division 2025-26 - Division Winner,Chicago Bulls,0.0113,0.0179,0.0066
-2025-10-26 20:32:13.061914,NCAA D1 Men Tournament Winner - 2026 NCAA DI Men's Basketball Tournament - National Champion,Kentucky,0.011199999999999995,0.0588,0.0476
 2025-10-27 06:49:27.685846,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Stephen Curry (GSW),0.011199999999999995,0.0435,0.0323
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Crystal Palace,0.011199999999999988,0.9524,0.9412
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Geelong Venom (W),0.010899999999999993,0.1538,0.1429
 2025-10-27 06:49:28.075728,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.010400000000000076,0.7778,0.7674
 2025-10-27 06:49:27.726846,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Victor Wembanyama (SAS),0.010300000000000087,0.7436,0.7333
@@ -69,73 +123,124 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-27 06:49:27.716602,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Naz Reid (MIN),0.0102,0.0769,0.0667
 2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Josh Giddey (CHI),0.0102,0.0769,0.0667
 2025-10-27 06:49:28.080306,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.010099999999999998,0.4545,0.4444
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Newcastle United,-0.010099999999999998,0.4444,0.4545
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Dallas Cowboys,-0.010100000000000001,0.0244,0.0345
 2025-10-27 06:49:27.716602,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jerami Grant (POR),-0.0102,0.0667,0.0769
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Gunner Stockton (UGA),-0.0102,0.0667,0.0769
 2025-10-27 06:49:27.705924,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Jeremiah Fears (NOP),-0.010300000000000002,0.0141,0.0244
 2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,-0.010899999999999993,0.1429,0.1538
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Cairns Taipans,-0.0109,0.004,0.0149
 2025-10-27 06:49:27.685846,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Trae Young (ATL),-0.010999999999999996,0.0345,0.0455
 2025-10-27 04:42:37.077296,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,-0.011099999999999999,0.8889,0.9
-2025-10-27 06:49:28.054153,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Pittsburgh Steelers,-0.011199999999999995,0.0323,0.0435
 2025-10-27 06:49:28.054153,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Jacksonville Jaguars,-0.011199999999999995,0.0476,0.0588
+2025-10-27 06:49:28.054153,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Pittsburgh Steelers,-0.011199999999999995,0.0323,0.0435
 2025-10-27 06:49:27.726846,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Jaren Jackson Jr. (MEM),-0.011399999999999997,0.0164,0.0278
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Justice Haynes (MICH),-0.0114,0.005,0.0164
 2025-10-27 06:49:27.633903,Pacific Division - Pacific Division 2025-26 - Division Winner,Golden State Warriors,-0.011600000000000055,0.5122,0.5238
 2025-10-27 06:49:27.721733,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Trae Young (ATL),-0.011899999999999994,0.0714,0.0833
 2025-10-27 06:49:27.721733,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Jalen Brunson (NYK),-0.011900000000000008,0.0833,0.0952
 2025-10-27 06:49:28.071182,AFC North - AFC North 2025-26 - AFC North Winner,Baltimore Ravens,-0.012199999999999989,0.5,0.5122
+2025-10-27 08:41:01.012933,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Boise State,-0.012299999999999978,0.6429,0.6552
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Atlanta Falcons,-0.012700000000000003,0.0196,0.0323
 2025-10-27 04:42:37.587664,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,-0.012899999999999995,0.125,0.1379
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Ty Simpson (ALA),-0.0131,0.2222,0.2353
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Kansas City Chiefs,-0.013600000000000001,0.1905,0.2041
-2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Tampa Bay Buccaneers,-0.013999999999999999,0.0769,0.0909
 2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.013999999999999999,0.0769,0.0909
+2025-10-27 06:49:28.062691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Tampa Bay Buccaneers,-0.013999999999999999,0.0769,0.0909
 2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Reed Sheppard (HOU),-0.014099999999999998,0.0244,0.0385
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Florian Wirtz (Liverpool),-0.014099999999999998,0.0244,0.0385
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Alexander Isak (Liverpool),-0.014099999999999998,0.0244,0.0385
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Liverpool,-0.01429999999999998,0.8948,0.9091
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,West Ham United,-0.01429999999999998,0.6226,0.6369
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Tasmania JackJumpers,-0.0145,0.0099,0.0244
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Los Angeles Chargers,-0.014899999999999997,0.0476,0.0625
-2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oklahoma,-0.014900000000000004,0.0196,0.0345
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Brisbane Bullets,-0.014900000000000004,0.0196,0.0345
+2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oklahoma,-0.014900000000000004,0.0196,0.0345
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Crystal Palace,-0.015100000000000002,0.1667,0.1818
 2025-10-27 06:49:28.066616,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Atlanta Falcons,-0.015199999999999998,0.0044,0.0196
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Jacksonville Jaguars,-0.015300000000000001,0.0435,0.0588
 2025-10-27 06:49:27.700930,Coach of the Year - Coach of the Year 2025-26 - COTY,Tyronn Lue,-0.015300000000000001,0.0435,0.0588
 2025-10-27 06:49:27.716602,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Josh Hart (NYK),-0.016600000000000004,0.0667,0.0833
 2025-10-27 06:49:27.643419,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.016699999999999937,0.5833,0.6
-2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.016700000000000007,0.0833,0.1
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oregon,-0.016700000000000007,0.0833,0.1
+2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.016700000000000007,0.0833,0.1
 2025-10-27 06:49:28.066616,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Chicago Bears,-0.017099999999999997,0.0123,0.0294
 2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,New York Giants,-0.017800000000000003,0.0066,0.0244
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Virgil van Dijk (Liverpool),-0.018200000000000004,0.0294,0.0476
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Hugo Ekitike (Liverpool),-0.018200000000000004,0.0294,0.0476
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.018200000000000004,0.0294,0.0476
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Nick Pope,-0.01820000000000002,0.1818,0.2
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Liverpool,-0.019000000000000017,0.2667,0.2857
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Mohamed Salah (Liverpool),-0.019099999999999992,0.0476,0.0667
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Perth Wildcats,-0.019099999999999992,0.0476,0.0667
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Aston Villa,-0.020299999999999985,0.9412,0.9615
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Robert Sanchez,-0.0203,0.0385,0.0588
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Fulham,-0.02189999999999992,0.8948,0.9167
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.021999999999999964,0.2857,0.3077
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,UC Capitals (W),-0.022199999999999998,0.1111,0.1333
 2025-10-27 06:49:27.685846,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Jalen Brunson (NYK),-0.02310000000000001,0.0769,0.1
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Everton,-0.0232,0.9524,0.9756
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Missouri,-0.0234,0.001,0.0244
 2025-10-27 06:49:27.700930,Coach of the Year - Coach of the Year 2025-26 - COTY,Joe Mazzulla,-0.024,0.0385,0.0625
+2025-10-27 08:41:01.012933,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Fresno State,-0.0262,0.0123,0.0385
 2025-10-27 06:49:28.058062,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Pittsburgh Steelers,-0.027099999999999996,0.0164,0.0435
+2025-10-27 08:41:00.450761,Premier League Futures/Specials - English Premier League 2025/26 - PFA Player of the Year,Tijjani Reijnders (Man City),-0.028199999999999996,0.0385,0.0667
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Chelsea,-0.028200000000000003,0.9333,0.9615
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Alisson,-0.029299999999999993,0.0476,0.0769
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Newcastle United,-0.029899999999999982,0.2,0.2299
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,SE Melbourne Phoenix,-0.0312,0.0123,0.0435
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Nottingham Forest,-0.031799999999999995,0.1111,0.1429
 2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.031799999999999995,0.4444,0.4762
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Liverpool,-0.03210000000000002,0.9091,0.9412
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester City,-0.03210000000000002,0.9091,0.9412
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas,-0.033,0.0196,0.0526
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Liverpool,-0.033299999999999996,0.8,0.8333
 2025-10-27 06:49:27.721733,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Edwards (MIN),-0.033299999999999996,0.1,0.1333
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Sydney Uni Flames (W),-0.03420000000000001,0.0769,0.1111
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Tottenham Hotspur,-0.03570000000000001,0.25,0.2857
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,-0.03570000000000001,0.25,0.2857
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester United,-0.03610000000000002,0.5556,0.5917
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Illawarra Hawks,-0.038299999999999994,0.0526,0.0909
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester City,-0.03920000000000001,0.9412,0.9804
 2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.0398,0.0435,0.0833
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Everton,-0.04120000000000001,0.0588,0.1
 2025-10-27 05:35:40.559006,AFC South - AFC South 2025-26 - AFC South Winner,Jacksonville Jaguars,-0.04169999999999999,0.2083,0.25
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Manchester United,-0.04239999999999999,0.8667,0.9091
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Bournemouth,-0.04239999999999999,0.8667,0.9091
 2025-10-27 06:49:27.700930,Coach of the Year - Coach of the Year 2025-26 - COTY,Jamahl Mosley,-0.042899999999999994,0.1,0.1429
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.043200000000000016,0.3077,0.3509
 2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Cincinnati Bengals,-0.043800000000000006,0.1667,0.2105
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Chelsea,-0.044399999999999995,0.4,0.4444
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Leeds United,-0.04619999999999991,0.8,0.8462
 2025-10-27 05:35:40.563572,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,-0.0474,0.6078,0.6552
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Bournemouth,-0.04849999999999999,0.25,0.2985
+2025-10-27 08:41:00.430779,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Tottenham Hotspur,-0.04909999999999992,0.8333,0.8824
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Brisbane Bullets,-0.04909999999999999,0.1176,0.1667
 2025-10-27 06:49:27.700930,Coach of the Year - Coach of the Year 2025-26 - COTY,Quin Snyder,-0.0509,0.0667,0.1176
 2025-10-27 06:49:27.726846,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Chet Holmgren (OKC),-0.052000000000000005,0.0909,0.1429
 2025-10-27 06:49:27.624886,Central Division - Central Division 2025-26 - Division Winner,Cleveland Cavaliers,-0.055499999999999994,0.7778,0.8333
+2025-10-27 08:41:00.438906,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Chelsea,-0.05590000000000006,0.6364,0.6923
+2025-10-27 08:41:00.414063,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Gianluigi Donnarumma,-0.05710000000000001,0.1429,0.2
+2025-10-27 08:41:01.017355,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),-0.0573,0.0196,0.0769
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Adelaide 36ers,-0.057699999999999974,0.25,0.3077
 2025-10-27 06:49:28.066616,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,San Francisco 49ers,-0.058300000000000005,0.0667,0.125
-2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,-0.06139999999999998,0.1053,0.1667
 2025-10-27 06:49:27.711293,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Bennedict Mathurin (IND),-0.06139999999999998,0.1053,0.1667
+2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,-0.06139999999999998,0.1053,0.1667
 2025-10-27 04:42:37.058709,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.06190000000000001,0.3636,0.4255
+2025-10-27 08:41:00.428146,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Manchester City,-0.06789999999999996,0.5238,0.5917
 2025-10-27 04:42:37.196667,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,-0.06820000000000001,0.1818,0.25
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Nottingham Forest,-0.06820000000000004,0.75,0.8182
 2025-10-27 06:49:27.638669,Southeast Division - Southeast Division 2025-26 - Division Winner,Orlando Magic,-0.07299999999999995,0.5348,0.6078
 2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,-0.07579999999999999,0.0909,0.1667
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Sydney Kings,-0.0762,0.0667,0.1429
+2025-10-27 08:41:00.433465,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester City,-0.0766,0.8182,0.8948
+2025-10-27 08:41:00.422740,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Burnley,-0.08330000000000004,0.6667,0.75
 2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,-0.09090000000000004,0.3636,0.4545
+2025-10-27 08:41:00.441578,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Everton,-0.09230000000000005,0.3077,0.4
+2025-10-27 08:41:00.420031,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Wolverhampton Wanderers,-0.09689999999999999,0.2667,0.3636
 2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,-0.09700000000000003,0.303,0.4
+2025-10-27 08:41:00.444293,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Aston Villa,-0.10710000000000003,0.4762,0.5833
 2025-10-27 05:35:40.577319,NFC South - NFC South 2025-26 - NFC South Winner,Atlanta Falcons,-0.11049999999999999,0.1,0.2105
+2025-10-27 08:41:00.436149,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Chelsea,-0.11259999999999992,0.5238,0.6364
+2025-10-27 08:41:00.425444,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Burnley,-0.12869999999999998,0.2222,0.3509
 2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Celtic,-0.17000000000000004,0.6078,0.7778
