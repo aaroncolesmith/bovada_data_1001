@@ -1,48 +1,70 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Cairns Taipans,0.11810000000000004,0.5348,0.4167
+2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Hearts,0.11430000000000001,0.4,0.2857
+2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Baltimore Ravens,0.11219999999999997,0.5122,0.4
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Melbourne United,0.10060000000000002,0.6923,0.5917
+2025-10-27 05:35:40.577319,NFC South - NFC South 2025-26 - NFC South Winner,Tampa Bay Buccaneers,0.09619999999999995,0.8462,0.75
 2025-10-27 04:42:37.196667,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.09230000000000005,0.6923,0.6
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,AS Roma,0.08410000000000001,0.1429,0.0588
+2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.07740000000000002,0.5652,0.4878
+2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,0.07619999999999999,0.4762,0.4
+2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,0.07269999999999999,0.8095,0.7368
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.0726,0.3226,0.25
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Melbourne United,0.053100000000000036,0.4167,0.3636
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Townsville Fire (W),0.05020000000000002,0.4348,0.3846
+2025-10-27 05:35:40.563572,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.044399999999999995,0.4444,0.4
 2025-10-27 04:42:37.058709,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,0.04409999999999992,0.6667,0.6226
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Indiana,0.042899999999999994,0.1429,0.1
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,0.04240000000000001,0.1333,0.0909
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,SE Melbourne Phoenix,0.038299999999999994,0.0909,0.0526
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,New Zealand Breakers,0.03210000000000002,0.4167,0.3846
+2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Rangers,0.0321,0.0909,0.0588
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Southside Flyers (W),0.025300000000000003,0.1429,0.1176
 2025-10-27 04:42:37.587664,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Indianapolis Colts,0.0242,0.0909,0.0667
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Tasmania JackJumpers,0.01759999999999999,0.1176,0.1
+2025-10-27 05:35:40.559006,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.01739999999999997,0.7674,0.75
+2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,0.017299999999999982,0.303,0.2857
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas A&M,0.016700000000000007,0.1,0.0833
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas Tech,0.015300000000000001,0.0476,0.0323
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Mississippi,0.014100000000000001,0.0526,0.0385
-2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.014099999999999994,0.0667,0.0526
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Tasmania JackJumpers,0.014099999999999994,0.0667,0.0526
+2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Illawarra Hawks,0.014099999999999994,0.0667,0.0526
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Sydney Kings,0.013,0.0196,0.0066
 2025-10-27 04:42:37.587664,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Green Bay Packers,0.012299999999999991,0.1176,0.1053
 2025-10-26 20:32:13.061914,NCAA D1 Men Tournament Winner - 2026 NCAA DI Men's Basketball Tournament - National Champion,Kentucky,0.011199999999999995,0.0588,0.0476
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Geelong Venom (W),0.010899999999999993,0.1538,0.1429
+2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,-0.010899999999999993,0.1429,0.1538
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Cairns Taipans,-0.0109,0.004,0.0149
 2025-10-27 04:42:37.077296,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,-0.011099999999999999,0.8889,0.9
 2025-10-27 04:42:37.587664,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,-0.012899999999999995,0.125,0.1379
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Tasmania JackJumpers,-0.0145,0.0099,0.0244
-2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oklahoma,-0.014900000000000004,0.0196,0.0345
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Brisbane Bullets,-0.014900000000000004,0.0196,0.0345
+2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oklahoma,-0.014900000000000004,0.0196,0.0345
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Oregon,-0.016700000000000007,0.0833,0.1
+2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,New York Giants,-0.017800000000000003,0.0066,0.0244
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.018200000000000004,0.0294,0.0476
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Perth Wildcats,-0.019099999999999992,0.0476,0.0667
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.021999999999999964,0.2857,0.3077
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,UC Capitals (W),-0.022199999999999998,0.1111,0.1333
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Missouri,-0.0234,0.001,0.0244
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,SE Melbourne Phoenix,-0.0312,0.0123,0.0435
+2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.031799999999999995,0.4444,0.4762
 2025-10-27 02:22:18.867200,National Championship - National Championship 2025-26 - National Championship Game Winner ,Texas,-0.033,0.0196,0.0526
 2025-10-27 03:59:31.869914,WNBL - Australia WNBL 2025/26 - Outright,Sydney Uni Flames (W),-0.03420000000000001,0.0769,0.1111
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Illawarra Hawks,-0.038299999999999994,0.0526,0.0909
+2025-10-27 05:35:40.572727,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.0398,0.0435,0.0833
+2025-10-27 05:35:40.559006,AFC South - AFC South 2025-26 - AFC South Winner,Jacksonville Jaguars,-0.04169999999999999,0.2083,0.25
 2025-10-27 04:42:37.072520,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.043200000000000016,0.3077,0.3509
+2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Cincinnati Bengals,-0.043800000000000006,0.1667,0.2105
+2025-10-27 05:35:40.563572,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,-0.0474,0.6078,0.6552
 2025-10-27 03:59:31.849194,NBL - Australia NBL 2025/26 - Most Losses,Brisbane Bullets,-0.04909999999999999,0.1176,0.1667
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Adelaide 36ers,-0.057699999999999974,0.25,0.3077
 2025-10-27 03:59:31.852149,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,-0.06139999999999998,0.1053,0.1667
 2025-10-27 04:42:37.058709,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.06190000000000001,0.3636,0.4255
 2025-10-27 04:42:37.196667,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,-0.06820000000000001,0.1818,0.25
+2025-10-27 05:35:40.581952,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,-0.07579999999999999,0.0909,0.1667
 2025-10-27 03:59:31.855087,NBL - Australia NBL 2025/26 - Regular Season Winner,Sydney Kings,-0.0762,0.0667,0.1429
+2025-10-27 05:35:40.554415,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,-0.09090000000000004,0.3636,0.4545
+2025-10-27 05:35:40.586567,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,-0.09700000000000003,0.303,0.4
+2025-10-27 05:35:40.577319,NFC South - NFC South 2025-26 - NFC South Winner,Atlanta Falcons,-0.11049999999999999,0.1,0.2105
+2025-10-27 05:35:40.139584,Premiership - Scotland Premiership 2025/26 - Winner,Celtic,-0.17000000000000004,0.6078,0.7778
