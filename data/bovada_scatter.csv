@@ -11,9 +11,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Juan Brunetta,0.024299999999999995,0.0588,0.0345
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,Illawarra Hawks,0.023799999999999988,0.3571,0.3333
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Uros Djurdjevic,0.0236,0.0385,0.0149
+2025-10-28 04:36:22.582864,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Kansas City Chiefs,0.022299999999999986,0.2128,0.1905
 2025-10-28 03:49:42.924587,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.02169999999999994,0.5455,0.5238
 2025-10-28 03:49:42.890450,Liga MX - Liga MX Apertura 2025 - Winner,Chivas Guadalajara,0.019099999999999992,0.0667,0.0476
 2025-10-27 16:40:31.899360,BNXT League - BNXT League 2025/26 - Outright,Antwerp Giants,0.0179,0.1429,0.125
+2025-10-28 04:36:22.624477,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,0.016599999999999948,0.8261,0.8095
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,Melbourne United,0.01550000000000007,0.9877,0.9722
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Oscar Estupinan,0.014499999999999999,0.0294,0.0149
 2025-10-27 16:40:32.446564,Hong Kong Open - Hong Kong Open - Winner,Patrick Reed,0.013999999999999999,0.0909,0.0769
@@ -26,34 +28,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-27 16:40:32.451755,Maybank Championship - Maybank Championship - Winner,Lottie Woad,-0.0102,0.0667,0.0769
 2025-10-27 16:40:32.473139,Rolex Grand Final - Rolex Grand Final - Winner,Oihan Guillamoundeguy,-0.0102,0.0667,0.0769
 2025-10-27 16:40:32.382581,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.010499999999999982,0.2,0.2105
-2025-10-27 18:44:07.160206,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Erickson Lubin,-0.010899999999999993,0.1429,0.1538
 2025-10-28 03:49:42.890450,Liga MX - Liga MX Apertura 2025 - Winner,CF Monterrey,-0.010899999999999993,0.1429,0.1538
+2025-10-27 18:44:07.160206,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Erickson Lubin,-0.010899999999999993,0.1429,0.1538
 2025-10-27 16:40:31.882554,NBL - Australia NBL 2025/26 - To Reach Grand Final,Perth Wildcats,-0.011099999999999999,0.1,0.1111
 2025-10-27 16:40:32.451755,Maybank Championship - Maybank Championship - Winner,Akie Iwai,-0.011199999999999995,0.0476,0.0588
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Henry Martin,-0.012100000000000001,0.0123,0.0244
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Sebastien Salles-Lamonge,-0.012100000000000001,0.0123,0.0244
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Guillermo Martinez,-0.012100000000000001,0.0123,0.0244
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Henry Martin,-0.012100000000000001,0.0123,0.0244
+2025-10-28 04:36:22.582864,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.012699999999999989,0.3509,0.3636
 2025-10-27 16:40:31.882554,NBL - Australia NBL 2025/26 - To Reach Grand Final,New Zealand Breakers,-0.012999999999999998,0.0164,0.0294
 2025-10-27 16:40:31.899360,BNXT League - BNXT League 2025/26 - Outright,Kortrijk Spurs,-0.013899999999999996,0.0417,0.0556
+2025-10-28 04:36:22.582864,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Denver Broncos,-0.013999999999999999,0.0769,0.0909
 2025-10-27 16:40:31.899360,BNXT League - BNXT League 2025/26 - Outright,Okapi Aalst,-0.014100000000000001,0.0385,0.0526
 2025-10-27 16:40:31.882554,NBL - Australia NBL 2025/26 - To Reach Grand Final,Cairns Taipans,-0.014499999999999999,0.0149,0.0294
 2025-10-27 23:28:33.357013,National Championship - National Championship 2025-26 - National Championship Game Winner ,Alabama,-0.015700000000000006,0.1176,0.1333
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Jesus Angulo,-0.017099999999999997,0.0123,0.0294
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,New Zealand Breakers,-0.018099999999999998,0.0588,0.0769
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alexis Vega,-0.022200000000000004,0.0123,0.0345
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alvaro Fidalgo,-0.022200000000000004,0.0123,0.0345
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Carlos Rotondi,-0.022200000000000004,0.0123,0.0345
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Diber Cambindo,-0.022200000000000004,0.0123,0.0345
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Eduardo Aguirre,-0.022200000000000004,0.0123,0.0345
+2025-10-28 04:36:22.578854,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,-0.021999999999999964,0.2857,0.3077
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Helinho,-0.022200000000000004,0.0123,0.0345
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Carlos Rotondi,-0.022200000000000004,0.0123,0.0345
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Eduardo Aguirre,-0.022200000000000004,0.0123,0.0345
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alexis Vega,-0.022200000000000004,0.0123,0.0345
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Diber Cambindo,-0.022200000000000004,0.0123,0.0345
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alvaro Fidalgo,-0.022200000000000004,0.0123,0.0345
 2025-10-27 16:40:31.882554,NBL - Australia NBL 2025/26 - To Reach Grand Final,Brisbane Bullets,-0.0232,0.0435,0.0667
 2025-10-27 16:40:31.882554,NBL - Australia NBL 2025/26 - To Reach Grand Final,Adelaide 36ers,-0.023799999999999988,0.4762,0.5
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,Perth Wildcats,-0.02560000000000001,0.3077,0.3333
-2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Jhonder Cadiz,-0.0262,0.0123,0.0385
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Nelson Deossa,-0.0262,0.0123,0.0385
+2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Jhonder Cadiz,-0.0262,0.0123,0.0385
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Angel Sepuvelda,-0.028199999999999996,0.0385,0.0667
+2025-10-28 04:36:22.582864,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Buffalo Bills,-0.028599999999999987,0.2381,0.2667
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,Cairns Taipans,-0.029299999999999993,0.0476,0.0769
 2025-10-28 03:17:10.124559,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.030299999999999994,0.3333,0.3636
+2025-10-28 04:36:22.591636,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,-0.030299999999999994,0.303,0.3333
 2025-10-28 03:49:42.924587,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.03179999999999994,0.5238,0.5556
 2025-10-27 16:40:31.885862,NBL - Australia NBL 2025/26 - To Make Top 4,Adelaide 36ers,-0.06209999999999993,0.8,0.8621
 2025-10-28 03:49:42.893458,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,João Pedro,-0.06519999999999998,0.2857,0.3509
