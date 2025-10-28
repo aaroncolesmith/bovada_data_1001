@@ -11,8 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 10:38:34.658498,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,0.06879999999999997,0.9091,0.8403
 2025-10-28 16:42:29.332364,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.06819999999999993,0.7403,0.6721
 2025-10-28 10:38:34.661786,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,0.06789999999999996,0.5917,0.5238
-2025-10-28 09:35:52.021398,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Atlético Madrid,0.06700000000000006,0.6226,0.5556
-2025-10-28 09:35:52.030601,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Atlético Madrid,0.06669999999999998,0.8667,0.8
 2025-10-28 10:38:33.494627,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,0.05679999999999999,0.1818,0.125
 2025-10-28 10:38:33.649605,League One - England League One 2025/26 - To Be Promoted,Stockport County,0.05559999999999998,0.5,0.4444
 2025-10-28 17:33:22.384238,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eddy Colmenares,0.0476,0.2857,0.2381
@@ -37,9 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 10:38:33.714982,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Benfica,0.02560000000000001,0.3333,0.3077
 2025-10-28 20:35:14.584560,Boxing Lines - Wilkens Mathieu vs Shakeel Phinn - To Win the Bout,Wilkens Mathieu,0.02529999999999999,0.8824,0.8571
 2025-10-28 10:38:34.608702,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,Yes,0.025000000000000022,0.9,0.875
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Atlanta Dream,0.024299999999999995,0.0588,0.0345
 2025-10-28 10:38:33.655733,League One - England League One 2025/26 - To Finish Bottom,Exeter City,0.022199999999999998,0.2222,0.2
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Seattle Storm,0.021099999999999994,0.0556,0.0345
 2025-10-28 18:46:17.033805,Conferences - Mountain West Regular Season Conference Winner 2025-26 - Mountain West,New Mexico,0.02020000000000001,0.1111,0.0909
 2025-10-28 21:29:49.679157,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Zach Parker,0.01999999999999999,0.2105,0.1905
 2025-10-28 13:42:35.743025,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Ajay Mitchell (OKC),0.019099999999999995,0.0435,0.0244
@@ -50,37 +46,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 10:38:33.646210,League One - England League One 2025/26 - Top Goalscorer,Davis Keillor-Dunn (Barnsley),0.0179,0.1429,0.125
 2025-10-28 21:29:49.655774,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.01760000000000006,0.9,0.8824
 2025-10-28 10:38:33.729163,Super Lig - Turkey Super Lig 2025/26 - Winner,Trabzonspor,0.016700000000000007,0.1,0.0833
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Phoenix Mercury,0.01440000000000001,0.1053,0.0909
 2025-10-28 10:38:33.649605,League One - England League One 2025/26 - To Be Promoted,Wycombe,0.013999999999999999,0.0909,0.0769
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Indiana Fever,0.013600000000000001,0.2041,0.1905
 2025-10-28 10:38:34.665073,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,No,0.012799999999999978,0.2985,0.2857
 2025-10-28 19:27:03.053281,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,0.011699999999999933,0.7895,0.7778
 2025-10-28 10:38:34.678268,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,0.01090000000000002,0.8571,0.8462
 2025-10-28 10:38:33.646210,League One - England League One 2025/26 - Top Goalscorer,Mason Burstow (Bolton),0.010899999999999993,0.1538,0.1429
 2025-10-28 18:46:17.033805,Conferences - Mountain West Regular Season Conference Winner 2025-26 - Mountain West,San Jose State,0.010599999999999998,0.4651,0.4545
-2025-10-28 10:38:34.575595,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,0.0102,0.0769,0.0667
 2025-10-28 14:36:25.510049,Rolex Grand Final - Rolex Grand Final - Winner,Maximilian Steinlechner,0.0102,0.0769,0.0667
+2025-10-28 10:38:34.575595,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,0.0102,0.0769,0.0667
 2025-10-28 19:27:03.057639,Boxing Lines - Melvin Jerusalem vs Siyakholwa Kuse - To Win the Bout,Melvin Jerusalem,0.010199999999999987,0.9333,0.9231
 2025-10-28 11:27:41.719491,Rolex Grand Final - Rolex Grand Final - Winner,Maximilian Steinlechner,-0.0102,0.0667,0.0769
-2025-10-28 09:35:53.229657,Maybank Championship - Maybank Championship - Winner,Nasa Hataoka,-0.0102,0.0667,0.0769
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Las Vegas Aces,-0.010399999999999993,0.2222,0.2326
 2025-10-28 17:33:22.432033,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Zach Parker,-0.010499999999999982,0.2,0.2105
-2025-10-28 10:38:33.494627,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.011099999999999999,0.1,0.1111
 2025-10-28 21:29:49.632269,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,-0.011099999999999999,0.7826,0.7937
+2025-10-28 10:38:33.494627,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.011099999999999999,0.1,0.1111
 2025-10-28 10:38:33.491710,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2025-10-28 10:38:34.678268,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,Yes,-0.011700000000000016,0.2105,0.2222
 2025-10-28 10:38:33.661838,League One - England League One 2025/26 - Top 6 Finish,AFC Wimbledon,-0.012899999999999995,0.1538,0.1667
 2025-10-28 10:38:33.661838,League One - England League One 2025/26 - Top 6 Finish,Barnsley,-0.012899999999999995,0.1538,0.1667
 2025-10-28 10:38:33.655733,League One - England League One 2025/26 - To Finish Bottom,Burton Albion,-0.012899999999999995,0.1538,0.1667
 2025-10-28 10:38:33.655733,League One - England League One 2025/26 - To Finish Bottom,Rotherham United,-0.013999999999999999,0.0769,0.0909
-2025-10-28 09:35:53.229657,Maybank Championship - Maybank Championship - Winner,Sei Young Kim,-0.013999999999999999,0.0769,0.0909
-2025-10-28 09:35:52.021398,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,-0.013999999999999999,0.0769,0.0909
 2025-10-28 10:38:34.651852,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
 2025-10-28 21:29:49.655774,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.015100000000000002,0.1667,0.1818
 2025-10-28 18:46:17.762299,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.015100000000000002,0.8182,0.8333
 2025-10-28 10:38:33.649605,League One - England League One 2025/26 - To Be Promoted,Huddersfield Town,-0.015100000000000002,0.1667,0.1818
 2025-10-28 10:38:34.665073,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,Yes,-0.015199999999999991,0.7674,0.7826
-2025-10-28 09:35:52.030601,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Athletic Bilbao,-0.016699999999999993,0.25,0.2667
 2025-10-28 10:38:33.652676,League One - England League One 2025/26 - To Be Relegated,Plymouth Argyle,-0.016699999999999993,0.25,0.2667
 2025-10-28 21:29:49.679157,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Joshua Buatsi,-0.017900000000000027,0.8571,0.875
 2025-10-28 10:38:34.598780,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,-0.018099999999999998,0.0588,0.0769
@@ -91,21 +80,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 10:38:33.494627,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.02310000000000001,0.0769,0.1
 2025-10-28 20:35:14.600086,Boxing Lines - Khaleel Majid vs David Ryan - To Win the Bout,David Ryan,-0.02310000000000001,0.0769,0.1
 2025-10-28 10:38:34.608702,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,No,-0.023800000000000016,0.1667,0.1905
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,Minnesota Lynx,-0.02779999999999999,0.2222,0.25
 2025-10-28 20:35:14.584560,Boxing Lines - Wilkens Mathieu vs Shakeel Phinn - To Win the Bout,Shakeel Phinn,-0.028700000000000003,0.1818,0.2105
 2025-10-28 10:38:34.631859,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.029299999999999993,0.7143,0.7436
 2025-10-28 10:38:33.661838,League One - England League One 2025/26 - Top 6 Finish,Stevenage,-0.030299999999999994,0.6364,0.6667
-2025-10-28 09:35:52.021398,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Real Betis,-0.03330000000000001,0.0667,0.1
 2025-10-28 10:38:34.668381,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.03710000000000002,0.3333,0.3704
 2025-10-28 10:38:34.615336,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.03859999999999997,0.7727,0.8113
 2025-10-28 10:38:34.605400,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,No,-0.03920000000000001,0.2941,0.3333
 2025-10-28 10:38:34.635176,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,-0.03950000000000001,0.2105,0.25
 2025-10-28 10:38:34.621979,To Make the Playoffs - To Make the Playoffs 2025-26 - Jacksonville Jaguars To Make the Playoffs,Yes,-0.040999999999999925,0.5744,0.6154
-2025-10-28 09:35:52.030601,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Betis,-0.044499999999999984,0.2222,0.2667
 2025-10-28 10:38:34.592161,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,-0.04630000000000001,0.2985,0.3448
 2025-10-28 14:36:25.305899,MLB World Series Specials - World Series 2025 Specials - World Series Specials,Any Player to Hit a Home Run 475+ Feet,-0.048100000000000004,0.0769,0.125
 2025-10-28 17:33:22.384238,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,-0.0512999999999999,0.7778,0.8291
-2025-10-28 09:35:52.377073,WNBA Championship - WNBA Championship 2026 - Championship Winner,New York Liberty,-0.0587,0.1739,0.2326
 2025-10-28 10:38:34.661786,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,-0.06929999999999997,0.4762,0.5455
 2025-10-28 16:42:29.332364,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Antraveous Ingram,-0.0696,0.3226,0.3922
 2025-10-28 10:38:34.658498,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,No,-0.07350000000000001,0.1538,0.2273
