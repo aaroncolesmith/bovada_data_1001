@@ -2,8 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 18:46:17.033805,Conferences - Mountain West Regular Season Conference Winner 2025-26 - Mountain West,San Diego State,0.4572,0.4651,0.0079
 2025-10-29 04:40:16.557428,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),0.16670000000000001,0.25,0.0833
 2025-10-28 19:27:02.435910,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Cameron Boozer (Duke),0.08339999999999999,0.1667,0.0833
-2025-10-28 16:42:29.332364,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.06819999999999993,0.7403,0.6721
-2025-10-28 17:33:22.384238,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eddy Colmenares,0.0476,0.2857,0.2381
 2025-10-28 19:27:02.345176,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),0.0417,0.125,0.0833
 2025-10-28 18:46:17.033805,Conferences - Mountain West Regular Season Conference Winner 2025-26 - Mountain West,UNLV,0.038299999999999994,0.0909,0.0526
 2025-10-28 19:27:02.345176,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Bennedict Mathurin (IND),0.037599999999999995,0.1429,0.1053
@@ -25,16 +23,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-28 19:27:03.053281,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,0.011699999999999933,0.7895,0.7778
 2025-10-28 18:46:17.033805,Conferences - Mountain West Regular Season Conference Winner 2025-26 - Mountain West,San Jose State,0.010599999999999998,0.4651,0.4545
 2025-10-28 19:27:03.057639,Boxing Lines - Melvin Jerusalem vs Siyakholwa Kuse - To Win the Bout,Melvin Jerusalem,0.010199999999999987,0.9333,0.9231
-2025-10-28 17:33:22.432033,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Zach Parker,-0.010499999999999982,0.2,0.2105
 2025-10-29 02:18:50.547255,EFL Cup - EFL Cup 2025/26 - Winner,Liverpool,-0.010499999999999982,0.2,0.2105
-2025-10-28 21:29:49.632269,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,-0.011099999999999999,0.7826,0.7937
 2025-10-29 02:18:50.603564,DFB Pokal - DFB Pokal 2025/26 - Winner,Bayern Munich,-0.011099999999999999,0.4651,0.4762
+2025-10-28 21:29:49.632269,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,-0.011099999999999999,0.7826,0.7937
 2025-10-29 04:40:16.557428,World Series MVP - World Series MVP 2025 - World Series MVP,Daulton Varsho (TOR),-0.012100000000000001,0.0123,0.0244
 2025-10-29 02:18:50.547255,EFL Cup - EFL Cup 2025/26 - Winner,Newcastle United,-0.012299999999999991,0.1053,0.1176
+2025-10-29 04:40:16.557428,World Series MVP - World Series MVP 2025 - World Series MVP,Will Smith,-0.013,0.0066,0.0196
 2025-10-29 02:18:50.547255,EFL Cup - EFL Cup 2025/26 - Winner,Wolverhampton Wanderers,-0.014100000000000001,0.0385,0.0526
 2025-10-29 02:18:51.201527,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eddy Colmenares,-0.015000000000000013,0.2667,0.2817
-2025-10-28 21:29:49.655774,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.015100000000000002,0.1667,0.1818
 2025-10-28 18:46:17.762299,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.015100000000000002,0.8182,0.8333
+2025-10-28 21:29:49.655774,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.015100000000000002,0.1667,0.1818
 2025-10-29 02:18:50.603564,DFB Pokal - DFB Pokal 2025/26 - Winner,RB Leipzig,-0.0179,0.125,0.1429
 2025-10-28 21:29:49.679157,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Joshua Buatsi,-0.017900000000000027,0.8571,0.875
 2025-10-29 03:58:25.325599,League One - England League One 2025/26 - Winner,Bolton Wanderers,-0.01820000000000002,0.1818,0.2
@@ -42,7 +40,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-29 02:18:51.209368,Boxing Lines - Christopher Guerrero vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,-0.027800000000000005,0.0833,0.1111
 2025-10-28 20:35:14.584560,Boxing Lines - Wilkens Mathieu vs Shakeel Phinn - To Win the Bout,Shakeel Phinn,-0.028700000000000003,0.1818,0.2105
 2025-10-29 03:58:25.248068,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.03570000000000001,0.25,0.2857
-2025-10-28 17:33:22.384238,Boxing Lines - Eumir Marcial vs Eddy Colmenares - To Win the Bout,Eumir Marcial,-0.0512999999999999,0.7778,0.8291
 2025-10-29 04:40:16.557428,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),-0.052599999999999994,0.0141,0.0667
-2025-10-28 16:42:29.332364,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Antraveous Ingram,-0.0696,0.3226,0.3922
 2025-10-29 04:40:16.557428,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.18180000000000007,0.6364,0.8182
