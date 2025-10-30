@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Vladimir Guerrero Jr. (TOR),0.41669999999999996,0.6667,0.25
 2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Arsenal,0.1795,0.3333,0.1538
 2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.141,0.3077,0.1667
 2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,0.06580000000000003,0.4167,0.3509
@@ -10,31 +11,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-29 16:42:58.901303,Boxing Lines - Arthur Biyarslanov vs Sergey Lipinets - To Win the Bout,Arthur Biyarslanov,0.033499999999999974,0.9859,0.9524
 2025-10-30 03:20:55.232917,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.027799999999999936,0.9167,0.8889
 2025-10-29 18:46:34.244724,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Abdullah Mason,0.02639999999999998,0.8667,0.8403
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.0242,0.0909,0.0667
 2025-10-29 18:46:33.537786,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Deni Avdija (POR),0.02310000000000001,0.1,0.0769
-2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,Olympiacos,0.022199999999999998,0.2222,0.2
 2025-10-29 18:46:34.131641,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),0.0182,0.0323,0.0141
 2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,0.018099999999999998,0.0769,0.0588
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Trey Yesavage (TOR),0.0156,0.0196,0.004
 2025-10-30 02:17:11.903135,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,0.015300000000000001,0.0588,0.0435
 2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Juventus,0.015300000000000001,0.0476,0.0323
-2025-10-29 15:35:53.937671,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.014700000000000046,0.7647,0.75
 2025-10-29 18:46:34.187426,Boxing Lines - Patr Brown vs Felix Valera - To Win the Bout,Patr Brown,0.014100000000000001,0.9615,0.9474
 2025-10-29 18:46:34.131641,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.014099999999999994,0.0667,0.0526
 2025-10-29 16:42:58.586728,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.013899999999999996,0.125,0.1111
 2025-10-29 18:46:34.205345,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Vergil Ortiz,0.010199999999999987,0.9333,0.9231
-2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,BC Dubai,-0.010100000000000001,0.0244,0.0345
-2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,BC Dubai,-0.010100000000000001,0.0244,0.0345
 2025-10-29 23:29:50.395655,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Vergil Ortiz,-0.010199999999999987,0.9231,0.9333
 2025-10-29 16:42:58.893506,Boxing Lines - Christopher Guerrero vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,-0.0102,0.0667,0.0769
 2025-10-29 18:46:34.198137,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.010499999999999982,0.2,0.2105
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Bo Bichette (TOR),-0.0109,0.0028,0.0137
 2025-10-29 18:46:33.537786,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.011099999999999999,0.1,0.1111
-2025-10-29 15:35:53.101223,Euro Cup - Euro Cup 2025/26 - Outright,Aris,-0.014099999999999994,0.0526,0.0667
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Ernie Clement (TOR),-0.0113,0.0028,0.0141
 2025-10-29 18:46:34.190993,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,-0.014700000000000046,0.75,0.7647
-2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,Fenerbahce,-0.016600000000000004,0.0667,0.0833
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),-0.0182,0.0141,0.0323
 2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Brentford,-0.019099999999999992,0.0476,0.0667
 2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,-0.019099999999999992,0.0476,0.0667
 2025-10-29 18:46:34.187426,Boxing Lines - Patr Brown vs Felix Valera - To Win the Bout,Felix Valera,-0.02020000000000001,0.0909,0.1111
-2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,Real Madrid,-0.0267,0.0909,0.1176
-2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,Panathinaikos,-0.02679999999999999,0.2857,0.3125
 2025-10-29 18:46:34.244724,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Sam Noakes,-0.02729999999999999,0.2,0.2273
 2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.02779999999999999,0.2222,0.25
 2025-10-30 03:20:55.232917,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.031,0.1429,0.1739
@@ -43,3 +41,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-29 16:42:58.901303,Boxing Lines - Arthur Biyarslanov vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.037500000000000006,0.0625,0.1
 2025-10-30 02:17:11.903135,Ligue 1 - France Ligue 1 2025/26 - Winner,Marseille,-0.04240000000000001,0.0909,0.1333
 2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.047599999999999976,0.2857,0.3333
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Alejandro Kirk (TOR),-0.0726,0.0417,0.1143
+2025-10-30 04:35:58.214617,World Series MVP - World Series MVP 2025 - World Series MVP,Shohei Ohtani (LAD),-0.32389999999999997,0.3125,0.6364
