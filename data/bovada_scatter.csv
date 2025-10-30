@@ -1,55 +1,45 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-10-29 13:02:52.029823,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Armando Gonzalez Alba,0.28569999999999995,0.3333,0.0476
-2025-10-29 13:02:52.621973,Detroit Pistons - Regular Season Wins 2025-26 - Detroit Pistons - Regular Season Wins,Under 44.5,0.04700000000000004,0.5348,0.4878
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Arsenal,0.1795,0.3333,0.1538
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.141,0.3077,0.1667
+2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,0.06580000000000003,0.4167,0.3509
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Chelsea,0.0642,0.1818,0.1176
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Newcastle United,0.04849999999999999,0.1538,0.1053
+2025-10-30 02:17:12.682896,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,0.0406,0.1739,0.1333
 2025-10-29 20:34:56.244666,NCAA D1 Women Tournament Winner - 2026 NCAA DI Women's Basketball Tournament - National Champion,Connecticut (W),0.03710000000000002,0.3448,0.3077
 2025-10-29 17:35:32.627049,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Jordan Thompson,0.036599999999999994,0.2105,0.1739
 2025-10-29 16:42:58.901303,Boxing Lines - Arthur Biyarslanov vs Sergey Lipinets - To Win the Bout,Arthur Biyarslanov,0.033499999999999974,0.9859,0.9524
 2025-10-29 14:42:04.265050,Boxing Lines - Kaine Fourie vs Claudio Gabriel Daneff - To Win the Bout,Claudio Gabriel Daneff,0.030299999999999994,0.4651,0.4348
 2025-10-29 18:46:34.244724,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Abdullah Mason,0.02639999999999998,0.8667,0.8403
 2025-10-29 18:46:33.537786,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Deni Avdija (POR),0.02310000000000001,0.1,0.0769
-2025-10-29 13:02:52.582774,Philadelphia 76ers - Regular Season Wins 2025-26 - Philadelphia 76ers - Regular Season Wins,Over 44.5,0.022600000000000064,0.5348,0.5122
 2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,Olympiacos,0.022199999999999998,0.2222,0.2
-2025-10-29 13:02:52.725142,New Orleans Pelicans - Regular Season Wins 2025-26 - New Orleans Pelicans - Regular Season Wins,Over 29.5,0.02169999999999994,0.5455,0.5238
 2025-10-29 18:46:34.131641,World Series MVP - World Series MVP 2025 - World Series MVP,Freddie Freeman (LAD),0.0182,0.0323,0.0141
-2025-10-29 13:02:53.204626,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,0.016699999999999937,0.9167,0.9
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,0.018099999999999998,0.0769,0.0588
+2025-10-30 02:17:11.903135,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,0.015300000000000001,0.0588,0.0435
+2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Juventus,0.015300000000000001,0.0476,0.0323
 2025-10-29 15:35:53.937671,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.014700000000000046,0.7647,0.75
 2025-10-29 18:46:34.187426,Boxing Lines - Patr Brown vs Felix Valera - To Win the Bout,Patr Brown,0.014100000000000001,0.9615,0.9474
 2025-10-29 18:46:34.131641,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.014099999999999994,0.0667,0.0526
 2025-10-29 16:42:58.586728,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.013899999999999996,0.125,0.1111
-2025-10-29 13:02:53.305852,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Sam Noakes,0.011700000000000016,0.2222,0.2105
-2025-10-29 13:02:52.660530,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Over 48.5,0.011600000000000055,0.5238,0.5122
-2025-10-29 13:02:52.626916,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Over 57.5,0.011600000000000055,0.5238,0.5122
-2025-10-29 13:02:52.601082,New York Knicks - Regular Season Wins 2025-26 - New York Knicks - Regular Season Wins,Under 51.5,0.011500000000000066,0.5238,0.5123
-2025-10-29 13:02:52.612018,Milwaukee Bucks - Regular Season Wins 2025-26 - Milwaukee Bucks - Regular Season Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
-2025-10-29 13:02:52.730157,Memphis Grizzlies - Regular Season Wins 2025-26 - Memphis Grizzlies - Regular Season Wins,Under 38.5,0.01100000000000001,0.5348,0.5238
 2025-10-29 18:46:34.205345,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Vergil Ortiz,0.010199999999999987,0.9333,0.9231
-2025-10-29 13:02:52.631876,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Over 37.5,0.010099999999999998,0.5556,0.5455
-2025-10-29 13:02:52.626916,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Under 57.5,-0.010099999999999998,0.5455,0.5556
-2025-10-29 13:02:52.660530,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Under 48.5,-0.010099999999999998,0.5455,0.5556
-2025-10-29 13:02:52.601082,New York Knicks - Regular Season Wins 2025-26 - New York Knicks - Regular Season Wins,Over 51.5,-0.010099999999999998,0.5455,0.5556
 2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,BC Dubai,-0.010100000000000001,0.0244,0.0345
 2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,BC Dubai,-0.010100000000000001,0.0244,0.0345
 2025-10-29 23:29:50.395655,Boxing Lines - Vergil Ortiz vs Erickson Lubin - To Win the Bout,Vergil Ortiz,-0.010199999999999987,0.9231,0.9333
 2025-10-29 16:42:58.893506,Boxing Lines - Christopher Guerrero vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,-0.0102,0.0667,0.0769
 2025-10-29 18:46:34.198137,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.010499999999999982,0.2,0.2105
-2025-10-29 13:02:52.612018,Milwaukee Bucks - Regular Season Wins 2025-26 - Milwaukee Bucks - Regular Season Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
-2025-10-29 13:02:52.730157,Memphis Grizzlies - Regular Season Wins 2025-26 - Memphis Grizzlies - Regular Season Wins,Over 38.5,-0.010699999999999932,0.5348,0.5455
-2025-10-29 13:02:53.305852,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Abdullah Mason,-0.01090000000000002,0.8462,0.8571
 2025-10-29 18:46:33.537786,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.011099999999999999,0.1,0.1111
-2025-10-29 13:02:52.631876,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Under 37.5,-0.011600000000000055,0.5122,0.5238
-2025-10-29 13:02:52.665504,Denver Nuggets - Regular Season Wins 2025-26 - Denver Nuggets - Regular Season Wins,Over 54.5,-0.012199999999999989,0.5,0.5122
 2025-10-29 15:35:53.101223,Euro Cup - Euro Cup 2025/26 - Outright,Aris,-0.014099999999999994,0.0526,0.0667
 2025-10-29 18:46:34.190993,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,-0.014700000000000046,0.75,0.7647
 2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,Fenerbahce,-0.016600000000000004,0.0667,0.0833
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Brentford,-0.019099999999999992,0.0476,0.0667
+2025-10-30 02:17:11.907589,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,-0.019099999999999992,0.0476,0.0667
 2025-10-29 18:46:34.187426,Boxing Lines - Patr Brown vs Felix Valera - To Win the Bout,Felix Valera,-0.02020000000000001,0.0909,0.1111
-2025-10-29 13:02:52.582774,Philadelphia 76ers - Regular Season Wins 2025-26 - Philadelphia 76ers - Regular Season Wins,Under 44.5,-0.02079999999999993,0.5348,0.5556
-2025-10-29 13:02:52.725142,New Orleans Pelicans - Regular Season Wins 2025-26 - New Orleans Pelicans - Regular Season Wins,Under 29.5,-0.02169999999999994,0.5238,0.5455
-2025-10-29 13:02:53.204626,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mary Spencer,-0.023799999999999988,0.1429,0.1667
-2025-10-29 13:02:52.029823,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,German Berterame,-0.02560000000000001,0.3077,0.3333
 2025-10-29 15:35:53.096245,Euroleague - Euroleague - Regular Season League Winner,Real Madrid,-0.0267,0.0909,0.1176
 2025-10-29 15:35:53.092393,Euroleague - Euroleague - Outright,Panathinaikos,-0.02679999999999999,0.2857,0.3125
 2025-10-29 18:46:34.244724,Boxing Lines - Abdullah Mason vs Sam Noakes - To Win the Bout,Sam Noakes,-0.02729999999999999,0.2,0.2273
+2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.02779999999999999,0.2222,0.25
 2025-10-29 14:42:04.265050,Boxing Lines - Kaine Fourie vs Claudio Gabriel Daneff - To Win the Bout,Kaine Fourie,-0.02960000000000007,0.6,0.6296
 2025-10-29 17:35:32.627049,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Lenier Pero,-0.03180000000000005,0.8571,0.8889
+2025-10-30 02:17:12.682896,Boxing Lines - Mary Spencer vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.03420000000000001,0.8889,0.9231
 2025-10-29 16:42:58.901303,Boxing Lines - Arthur Biyarslanov vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.037500000000000006,0.0625,0.1
-2025-10-29 13:02:52.621973,Detroit Pistons - Regular Season Wins 2025-26 - Detroit Pistons - Regular Season Wins,Over 44.5,-0.03959999999999997,0.5348,0.5744
+2025-10-30 02:17:11.903135,Ligue 1 - France Ligue 1 2025/26 - Winner,Marseille,-0.04240000000000001,0.0909,0.1333
+2025-10-30 02:17:11.890769,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.047599999999999976,0.2857,0.3333
