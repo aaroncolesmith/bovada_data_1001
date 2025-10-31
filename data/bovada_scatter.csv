@@ -36,9 +36,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 09:33:33.572826,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Atalanta,0.04040000000000002,0.2222,0.1818
 2025-10-31 04:37:55.151656,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,0.03920000000000001,0.2353,0.1961
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Stephen Curry (GSW),0.0389,0.0455,0.0066
+2025-10-31 15:32:13.378704,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Jordan Thompson,0.038099999999999995,0.2381,0.2
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Kawhi Leonard (LAC),0.038,0.04,0.002
-2025-10-31 09:33:33.779021,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,0.0378,0.4545,0.4167
 2025-10-31 04:37:55.445054,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,L.A. Clippers,0.0378,0.4082,0.3704
+2025-10-31 09:33:33.779021,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,0.0378,0.4545,0.4167
 2025-10-31 09:33:33.566828,Serie A - Italy Serie A 2025/26 - To Be Relegated,Hellas Verona,0.03639999999999999,0.6364,0.6
 2025-10-31 04:37:55.440303,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,New York Knicks,0.036199999999999996,0.1538,0.1176
 2025-10-31 04:37:55.372847,To Make the Playoffs - To Make the Playoffs 2025-26 - Boston Celtics - To Make the Playoffs,Yes,0.03610000000000002,0.5917,0.5556
@@ -47,8 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Kieran Vincent,0.0336,0.0435,0.0099
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Jazz Janewattananond,0.0334,0.0769,0.0435
 2025-10-31 04:37:55.395832,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Rockets - To Make the Playoffs,Yes,0.03210000000000002,0.9412,0.9091
-2025-10-31 13:00:30.818460,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Over 51.5,0.03179999999999994,0.5556,0.5238
 2025-10-31 04:37:55.329797,Sacramento Kings - Regular Season Wins 2025-26 - Sacramento Kings - Regular Season Wins,Under 31.5,0.03179999999999994,0.5556,0.5238
+2025-10-31 13:00:30.818460,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Over 51.5,0.03179999999999994,0.5556,0.5238
 2025-10-31 07:29:43.265580,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),0.030299999999999994,0.3636,0.3333
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Thomas Pieters,0.029299999999999993,0.0769,0.0476
 2025-10-31 09:33:33.612782,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.028900000000000037,0.5744,0.5455
@@ -70,27 +71,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 04:37:55.422059,To Make the Playoffs - To Make the Playoffs 2025-26 - Phoenix Suns - To Make the Playoffs,No,0.023499999999999965,0.9709,0.9474
 2025-10-31 07:29:43.276995,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Malaki Starks (BAL),0.023200000000000002,0.0526,0.0294
 2025-10-31 07:29:42.848891,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Stephen Curry (GSW),0.0232,0.0667,0.0435
-2025-10-31 13:00:30.838186,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Under 31.5,0.022600000000000064,0.5348,0.5122
 2025-10-31 04:37:55.280400,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Over 40.5,0.022600000000000064,0.5348,0.5122
 2025-10-31 04:37:55.339603,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Over 46.5,0.022600000000000064,0.5348,0.5122
+2025-10-31 13:00:30.838186,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Under 31.5,0.022600000000000064,0.5348,0.5122
 2025-10-31 09:33:33.788675,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,0.02260000000000001,0.4,0.3774
 2025-10-31 04:37:55.515285,AFC North - AFC North 2025-26 - AFC North Winner,Cincinnati Bengals,0.022199999999999998,0.1333,0.1111
-2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Micah Shin,0.022099999999999998,0.0385,0.0164
 2025-10-31 04:37:55.376144,To Make the Playoffs - To Make the Playoffs 2025-26 - Brooklyn Nets - To Make the Playoffs,Yes,0.022099999999999998,0.0385,0.0164
-2025-10-31 09:33:33.566828,Serie A - Italy Serie A 2025/26 - To Be Relegated,Parma,0.021999999999999964,0.3077,0.2857
+2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Micah Shin,0.022099999999999998,0.0385,0.0164
 2025-10-31 07:29:43.172036,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,0.021999999999999964,0.3077,0.2857
+2025-10-31 09:33:33.566828,Serie A - Italy Serie A 2025/26 - To Be Relegated,Parma,0.021999999999999964,0.3077,0.2857
 2025-10-31 13:00:30.929088,To Make the Playoffs - To Make the Playoffs 2025-26 - Minnesota Timberwolves - To Make the Playoffs,No,0.021699999999999997,0.2439,0.2222
 2025-10-31 04:37:55.156339,Southeast Division - Southeast Division 2025-26 - Division Winner,Orlando Magic,0.021699999999999997,0.4762,0.4545
-2025-10-31 04:37:55.305051,Portland Trail Blazers - Regular Season Wins 2025-26 - Portland Trail Blazers - Regular Season Wins,Over 35.5,0.02079999999999993,0.5556,0.5348
 2025-10-31 04:37:55.344514,Atlanta Hawks - Regular Season Wins 2025-26 - Atlanta Hawks - Regular Season Wins,Under 43.5,0.02079999999999993,0.5556,0.5348
+2025-10-31 04:37:55.305051,Portland Trail Blazers - Regular Season Wins 2025-26 - Portland Trail Blazers - Regular Season Wins,Over 35.5,0.02079999999999993,0.5556,0.5348
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Paolo Banchero (ORL),0.0204,0.0244,0.004
 2025-10-31 09:33:33.563485,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Dusan Vlahovic (Juventus),0.0203,0.0588,0.0385
-2025-10-31 10:36:39.834944,NFL Weekly Specials - NFL Week 9 Leaders - Highest Scoring Team,IND Colts,0.02020000000000001,0.1111,0.0909
 2025-10-31 04:37:55.412217,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Knicks - To Make the Playoffs,No,0.02020000000000001,0.1111,0.0909
+2025-10-31 10:36:39.834944,NFL Weekly Specials - NFL Week 9 Leaders - Highest Scoring Team,IND Colts,0.02020000000000001,0.1111,0.0909
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Scott Hend,0.020000000000000004,0.0323,0.0123
 2025-10-31 07:29:43.319184,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,0.01980000000000004,0.8948,0.875
-2025-10-31 13:00:30.783815,Oklahoma City Thunder - Regular Season Wins 2025-26 - Oklahoma City Thunder - Regular Season Wins,Over 63.5,0.01970000000000005,0.5652,0.5455
 2025-10-31 04:37:55.285321,Indiana Pacers - Regular Season Wins 2025-26 - Indiana Pacers - Regular Season Wins,Under 33.5,0.01970000000000005,0.5652,0.5455
+2025-10-31 13:00:30.783815,Oklahoma City Thunder - Regular Season Wins 2025-26 - Oklahoma City Thunder - Regular Season Wins,Over 63.5,0.01970000000000005,0.5652,0.5455
 2025-10-31 04:37:55.315017,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Under 48.5,0.01970000000000005,0.5652,0.5455
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Evan Mobley (CLE),0.019700000000000002,0.0217,0.002
 2025-10-31 04:37:55.501720,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,0.019500000000000017,0.3704,0.3509
@@ -132,15 +133,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Jimmy Butler (GSW),0.0103,0.0116,0.0013
 2025-10-31 11:28:48.920270,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Gunner Stockton (UGA),0.0102,0.0769,0.0667
 2025-10-31 07:29:42.832595,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Jaylen Brown (BOS),0.0101,0.0141,0.004
+2025-10-31 04:37:55.524789,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.010099999999999998,0.4545,0.4444
 2025-10-31 07:29:43.265580,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jaxson Dart (NYG),0.010099999999999998,0.5556,0.5455
 2025-10-31 07:29:43.515217,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Troy Jones,0.010099999999999998,0.5556,0.5455
-2025-10-31 04:37:55.524789,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.010099999999999998,0.4545,0.4444
 2025-10-31 09:33:33.572826,Serie A - Italy Serie A 2025/26 - Top 4 Finish,AS Roma,0.010099999999999998,0.5556,0.5455
-2025-10-31 04:37:55.364546,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Over 38.5,-0.010099999999999998,0.5455,0.5556
 2025-10-31 05:34:39.295824,East Group C - East Group C Winner 2025-26 - East Group C Winner,New York Knicks,-0.010099999999999998,0.4444,0.4545
+2025-10-31 04:37:55.364546,Dallas Mavericks - Regular Season Wins 2025-26 - Dallas Mavericks - Regular Season Wins,Over 38.5,-0.010099999999999998,0.5455,0.5556
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Chanettee Wannasaen,-0.0103,0.0007,0.011
-2025-10-31 07:29:42.864718,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Brice Sensabaugh (UTA),-0.010300000000000002,0.0141,0.0244
 2025-10-31 07:29:42.859315,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Ace Bailey (UTA),-0.010300000000000002,0.0141,0.0244
+2025-10-31 07:29:42.864718,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Brice Sensabaugh (UTA),-0.010300000000000002,0.0141,0.0244
 2025-10-31 11:28:49.180419,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.010499999999999982,0.2,0.2105
 2025-10-31 04:37:55.142269,Central Division - Central Division 2025-26 - Division Winner,Cleveland Cavaliers,-0.010500000000000065,0.7895,0.8
 2025-10-31 05:34:39.305403,West Group B - West Group B Winner 2025-26 - West Group B Winner,L.A. Clippers,-0.010699999999999987,0.3226,0.3333
@@ -151,27 +152,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 09:33:33.788675,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Ittihad,-0.010899999999999993,0.1429,0.1538
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Jenny Bae,-0.011,0.0013,0.0123
 2025-10-31 04:37:55.265620,Brooklyn Nets - Regular Season Wins 2025-26 - Brooklyn Nets - Regular Season Wins,Over 17.5,-0.01100000000000001,0.5238,0.5348
-2025-10-31 04:37:55.295146,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Under 56.5,-0.01100000000000001,0.5238,0.5348
 2025-10-31 04:37:55.290236,Detroit Pistons - Regular Season Wins 2025-26 - Detroit Pistons - Regular Season Wins,Under 44.5,-0.01100000000000001,0.5238,0.5348
+2025-10-31 04:37:55.295146,Cleveland Cavaliers - Regular Season Wins 2025-26 - Cleveland Cavaliers - Regular Season Wins,Under 56.5,-0.01100000000000001,0.5238,0.5348
 2025-10-31 05:34:39.291090,East Group B - East Group B Winner 2025-26 - East Group B Winner,Philadelphia 76ers,-0.011099999999999999,0.2667,0.2778
 2025-10-31 07:29:42.854086,Coach of the Year - Coach of the Year 2025-26 - COTY,Will Hardy,-0.011200000000000002,0.0132,0.0244
 2025-10-31 07:29:43.515217,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,-0.011600000000000055,0.5122,0.5238
 2025-10-31 07:29:43.254887,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),-0.011700000000000016,0.2105,0.2222
-2025-10-31 13:00:30.882962,To Make the Playoffs - To Make the Playoffs 2025-26 - Charlotte Hornets - To Make the Playoffs,Yes,-0.011700000000000016,0.2105,0.2222
 2025-10-31 04:37:55.497580,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Buffalo Bills,-0.011700000000000016,0.2105,0.2222
+2025-10-31 13:00:30.882962,To Make the Playoffs - To Make the Playoffs 2025-26 - Charlotte Hornets - To Make the Playoffs,Yes,-0.011700000000000016,0.2105,0.2222
 2025-10-31 05:34:39.305403,West Group B - West Group B Winner 2025-26 - West Group B Winner,Memphis Grizzlies,-0.011700000000000016,0.2105,0.2222
 2025-10-31 05:34:39.224933,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Atlanta Hawks,-0.0121,0.0435,0.0556
+2025-10-31 15:32:13.343686,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,-0.012199999999999989,0.5,0.5122
 2025-10-31 05:34:39.310068,West Group C - West Group C Winner 2025-26 - West Group C Winner,Denver Nuggets,-0.012299999999999978,0.3448,0.3571
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Angel Yin,-0.012599999999999998,0.0152,0.0278
 2025-10-31 04:37:55.137546,Atlantic Division - Atlantic Division 2025-26 - Division Winner,Toronto Raptors,-0.012600000000000007,0.0588,0.0714
-2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Akie Iwai,-0.012700000000000003,0.0196,0.0323
 2025-10-31 08:38:26.825052,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Shaedon Sharpe (POR),-0.012700000000000003,0.0196,0.0323
+2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Akie Iwai,-0.012700000000000003,0.0196,0.0323
 2025-10-31 04:37:55.428674,To Make the Playoffs - To Make the Playoffs 2025-26 - Sacramento Kings - To Make the Playoffs,Yes,-0.012899999999999995,0.125,0.1379
 2025-10-31 05:34:39.351257,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Luka Doncic (LAL),-0.012899999999999995,0.1538,0.1667
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Miguel Tabuena,-0.013,0.0066,0.0196
+2025-10-31 09:33:34.420597,Mayoral Elections - New York City Mayoral Election - Zohran Mamdani Margin of Victory,0-10%,-0.0131,0.2222,0.2353
 2025-10-31 05:34:39.224933,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Milwaukee Bucks,-0.0131,0.0345,0.0476
 2025-10-31 05:34:39.295824,East Group C - East Group C Winner 2025-26 - East Group C Winner,Milwaukee Bucks,-0.0131,0.2222,0.2353
-2025-10-31 09:33:34.420597,Mayoral Elections - New York City Mayoral Election - Zohran Mamdani Margin of Victory,0-10%,-0.0131,0.2222,0.2353
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,David Puig,-0.013699999999999999,0.0141,0.0278
 2025-10-31 05:34:39.351257,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.013899999999999996,0.1111,0.125
 2025-10-31 05:34:39.224933,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Golden State Warriors,-0.013999999999999999,0.0769,0.0909
@@ -197,9 +199,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 05:34:39.310068,West Group C - West Group C Winner 2025-26 - West Group C Winner,Golden State Warriors,-0.019000000000000017,0.2667,0.2857
 2025-10-31 09:33:33.572826,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Fiorentina,-0.019499999999999997,0.0099,0.0294
 2025-10-31 04:37:55.319961,Denver Nuggets - Regular Season Wins 2025-26 - Denver Nuggets - Regular Season Wins,Under 54.5,-0.01970000000000005,0.5455,0.5652
-2025-10-31 13:00:30.838186,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 31.5,-0.02079999999999993,0.5348,0.5556
-2025-10-31 04:37:55.280400,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Under 40.5,-0.02079999999999993,0.5348,0.5556
 2025-10-31 04:37:55.339603,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Under 46.5,-0.02079999999999993,0.5348,0.5556
+2025-10-31 04:37:55.280400,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Under 40.5,-0.02079999999999993,0.5348,0.5556
+2025-10-31 13:00:30.838186,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 31.5,-0.02079999999999993,0.5348,0.5556
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Jose Luis Ballester,-0.021199999999999997,0.0066,0.0278
 2025-10-31 09:33:34.420597,Mayoral Elections - New York City Mayoral Election - Zohran Mamdani Margin of Victory,10-20%,-0.02169999999999994,0.5238,0.5455
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Lottie Woad,-0.021900000000000003,0.0025,0.0244
@@ -210,8 +212,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 08:38:26.825052,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Deni Avdija (POR),-0.02310000000000001,0.0769,0.1
 2025-10-31 08:38:26.834443,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Edwards (MIN),-0.02310000000000001,0.0769,0.1
 2025-10-31 04:37:55.412217,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Knicks - To Make the Playoffs,Yes,-0.0232,0.9524,0.9756
-2025-10-31 09:33:33.563485,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.023799999999999988,0.1429,0.1667
 2025-10-31 09:33:33.563485,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.023799999999999988,0.1429,0.1667
+2025-10-31 09:33:33.563485,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.023799999999999988,0.1429,0.1667
 2025-10-31 04:37:55.315017,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Over 48.5,-0.023800000000000043,0.5,0.5238
 2025-10-31 04:37:55.285321,Indiana Pacers - Regular Season Wins 2025-26 - Indiana Pacers - Regular Season Wins,Over 33.5,-0.023800000000000043,0.5,0.5238
 2025-10-31 13:00:30.783815,Oklahoma City Thunder - Regular Season Wins 2025-26 - Oklahoma City Thunder - Regular Season Wins,Under 63.5,-0.023800000000000043,0.5,0.5238
@@ -220,8 +222,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 05:34:39.234292,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Orlando Magic,-0.024999999999999994,0.1,0.125
 2025-10-31 04:37:55.156339,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,-0.02560000000000001,0.3077,0.3333
 2025-10-31 04:37:55.422059,To Make the Playoffs - To Make the Playoffs 2025-26 - Phoenix Suns - To Make the Playoffs,Yes,-0.025999999999999995,0.0952,0.1212
-2025-10-31 07:29:43.282679,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Micah Parsons (GB),-0.026600000000000013,0.4082,0.4348
 2025-10-31 05:34:39.238995,Western Conference - Western Conference 2025-26 - Conference Winner,Oklahoma City Thunder,-0.026600000000000013,0.4082,0.4348
+2025-10-31 07:29:43.282679,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Micah Parsons (GB),-0.026600000000000013,0.4082,0.4348
 2025-10-31 05:34:39.361904,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Evan Mobley (CLE),-0.026899999999999993,0.05,0.0769
 2025-10-31 09:33:33.563485,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Kevin De Bruyne (Napoli),-0.028199999999999996,0.0385,0.0667
 2025-10-31 09:33:33.569834,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Sassuolo,-0.0282,0.0244,0.0526
@@ -231,9 +233,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Kazuki Higa,-0.0312,0.0123,0.0435
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Mirabel Ting,-0.0316,0.0007,0.0323
 2025-10-31 04:37:55.405662,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Lakers - To Make the Playoffs,No,-0.031799999999999995,0.2857,0.3175
+2025-10-31 13:00:30.818460,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Under 51.5,-0.033299999999999996,0.5122,0.5455
 2025-10-31 04:37:55.329797,Sacramento Kings - Regular Season Wins 2025-26 - Sacramento Kings - Regular Season Wins,Over 31.5,-0.033299999999999996,0.5122,0.5455
 2025-10-31 04:37:55.440303,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,-0.033299999999999996,0.4545,0.4878
-2025-10-31 13:00:30.818460,Golden State Warriors - Regular Season Wins 2025-26 - Golden State Warriors - Regular Season Wins,Under 51.5,-0.033299999999999996,0.5122,0.5455
 2025-10-31 09:33:33.572826,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Bologna,-0.033399999999999985,0.1333,0.1667
 2025-10-31 07:29:43.265580,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),-0.0334,0.0435,0.0769
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Paul Casey,-0.0336,0.0099,0.0435
@@ -243,9 +245,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 07:29:42.848891,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Shai Gilgeous-Alexander (OKC),-0.03640000000000004,0.3636,0.4
 2025-10-31 04:37:55.515285,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,-0.03710000000000002,0.3333,0.3704
 2025-10-31 08:38:26.825052,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),-0.037500000000000006,0.0625,0.1
+2025-10-31 15:32:13.378704,Boxing Lines - Lenier Pero vs Jordan Thompson - To Win the Bout,Lenier Pero,-0.03760000000000008,0.8291,0.8667
 2025-10-31 04:37:55.425385,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,No,-0.03880000000000006,0.7826,0.8214
-2025-10-31 07:29:43.254887,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Drake Maye (NE),-0.03889999999999999,0.1429,0.1818
 2025-10-31 09:33:33.569834,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Pisa,-0.03889999999999999,0.1429,0.1818
+2025-10-31 07:29:43.254887,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Drake Maye (NE),-0.03889999999999999,0.1429,0.1818
 2025-10-31 10:36:40.071677,Hong Kong Open - Hong Kong Open - Winner,Scott Vincent,-0.0392,0.0196,0.0588
 2025-10-31 08:38:26.825052,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Keyonte George (UTA),-0.0392,0.0164,0.0556
 2025-10-31 10:36:40.077103,Maybank Championship - Maybank Championship - Winner,Haeran Ryu,-0.041,0.0066,0.0476
@@ -260,10 +263,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 09:33:33.612782,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.04760000000000003,0.4762,0.5238
 2025-10-31 13:00:30.925797,To Make the Playoffs - To Make the Playoffs 2025-26 - Milwaukee Bucks - To Make the Playoffs,No,-0.04849999999999999,0.25,0.2985
 2025-10-31 07:29:43.276995,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jihaad Campbell (PHI),-0.0504,0.2353,0.2857
-2025-10-31 07:29:43.305531,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.05070000000000002,0.4255,0.4762
 2025-10-31 07:29:43.387702,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,-0.05070000000000002,0.4255,0.4762
-2025-10-31 09:33:33.566828,Serie A - Italy Serie A 2025/26 - To Be Relegated,Pisa,-0.05559999999999998,0.4444,0.5
+2025-10-31 07:29:43.305531,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.05070000000000002,0.4255,0.4762
 2025-10-31 04:37:55.440303,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Boston Celtics,-0.05559999999999998,0.4444,0.5
+2025-10-31 09:33:33.566828,Serie A - Italy Serie A 2025/26 - To Be Relegated,Pisa,-0.05559999999999998,0.4444,0.5
 2025-10-31 09:33:33.569834,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Cremonese,-0.05639999999999999,0.0345,0.0909
 2025-10-31 04:37:55.440303,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,-0.0573,0.0196,0.0769
 2025-10-31 04:37:55.392554,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Pistons - To Make the Playoffs,No,-0.057699999999999974,0.25,0.3077
