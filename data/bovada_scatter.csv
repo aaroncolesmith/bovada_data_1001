@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 07:27:26.178978,World Series MVP - World Series MVP 2025 - World Series MVP,Yoshinobu Yamamoto (LAD),0.05379999999999999,0.1538,0.1
 2025-11-01 09:29:20.981934,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,Borussia Dortmund,0.05059999999999998,0.5744,0.5238
 2025-11-01 09:29:22.275040,Hong Kong Open - Hong Kong Open - Winner,Scott Hend,0.044599999999999994,0.0769,0.0323
-2025-11-01 06:39:32.842093,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,North Texas,0.044499999999999984,0.2667,0.2222
 2025-11-01 09:29:20.971517,La Liga - Spain La Liga 2025/26 - To Be Relegated,Valencia,0.044499999999999984,0.2667,0.2222
+2025-11-01 06:39:32.842093,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,North Texas,0.044499999999999984,0.2667,0.2222
 2025-11-01 06:39:32.842093,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,South Florida,0.041800000000000004,0.2857,0.2439
 2025-11-01 09:29:21.700962,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,0.04169999999999999,0.1667,0.125
 2025-11-01 08:35:25.561793,Maybank Championship - Maybank Championship - Winner,Yan Liu,0.0416,0.0526,0.011
@@ -36,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 06:39:32.842093,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,East Carolina,0.026499999999999996,0.0588,0.0323
 2025-11-01 03:50:49.254695,BKFC Fight Night: Michigan - Paris Boyd vs Ruben Arroyo - To Win the Bout,Paris Boyd,0.026499999999999968,0.7826,0.7561
 2025-11-01 09:29:20.991279,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Augsburg,0.025499999999999967,0.4255,0.4
-2025-11-01 09:29:21.175411,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.02200000000000002,0.7143,0.6923
 2025-11-01 02:17:51.855309,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,0.02200000000000002,0.7143,0.6923
+2025-11-01 09:29:21.175411,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.02200000000000002,0.7143,0.6923
 2025-11-01 06:39:32.842093,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Navy,0.02049999999999999,0.1538,0.1333
 2025-11-01 06:39:33.238584,BKFC Fight Night: Michigan - Aj Craig vs Justin Street - To Win the Bout,Justin Street,0.01959999999999995,0.697,0.6774
 2025-11-01 09:29:20.988252,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,St. Pauli,0.018199999999999994,0.8182,0.8
@@ -57,10 +57,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 09:29:21.180074,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,0.013800000000000034,0.3774,0.3636
 2025-11-01 04:34:30.610589,BKFC Fight Night: Michigan - Mike Hernandez vs Antonio Castillo Jr - To Win the Bout,Antonio Castillo Jr,0.013800000000000034,0.3774,0.3636
 2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.013799999999999923,0.6364,0.6226
-2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Getafe,0.0131,0.0476,0.0345
 2025-11-01 03:50:49.251196,BKFC Fight Night: Michigan - Nathan Rivera vs Tommy Strydom - To Win the Bout,Nathan Rivera,0.0131,0.7778,0.7647
-2025-11-01 09:29:21.161219,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.012799999999999978,0.2985,0.2857
+2025-11-01 11:25:04.652318,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.0131,0.7778,0.7647
+2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Getafe,0.0131,0.0476,0.0345
 2025-11-01 09:29:21.161219,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.012799999999999978,0.2985,0.2857
+2025-11-01 09:29:21.161219,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.012799999999999978,0.2985,0.2857
 2025-11-01 10:33:30.028525,BKFC Fight Night: Michigan - Esteban Rodriguez vs Zac Cavender - To Win the Bout,Esteban Rodriguez,0.012700000000000045,0.6491,0.6364
 2025-10-31 23:28:26.685972,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.012199999999999989,0.5122,0.5
 2025-11-01 04:34:30.633936,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,0.012199999999999989,0.5,0.4878
@@ -76,8 +77,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 09:29:20.981934,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,VfB Stuttgart,-0.011099999999999999,0.1,0.1111
 2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Espanyol,-0.011199999999999995,0.0476,0.0588
 2025-11-01 09:29:22.275040,Hong Kong Open - Hong Kong Open - Winner,David Puig,-0.0113,0.0028,0.0141
-2025-11-01 03:50:49.141092,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,-0.012199999999999989,0.5,0.5122
 2025-11-01 03:50:49.268799,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,-0.012199999999999989,0.4878,0.5
+2025-11-01 03:50:49.141092,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,-0.012199999999999989,0.5,0.5122
 2025-11-01 09:29:20.994459,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Bayer Leverkusen,-0.013799999999999923,0.6226,0.6364
 2025-11-01 10:33:29.007570,Primera A - Colombia Primera A 2025 - Winner,Deportivo Cali,-0.014099999999999998,0.0244,0.0385
 2025-11-01 10:33:29.007570,Primera A - Colombia Primera A 2025 - Winner,Millonarios,-0.014099999999999998,0.0244,0.0385
@@ -90,6 +91,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 09:29:20.971517,La Liga - Spain La Liga 2025/26 - To Be Relegated,Celta de Vigo,-0.016700000000000007,0.0833,0.1
 2025-11-01 08:35:25.561793,Maybank Championship - Maybank Championship - Winner,Linn Grant,-0.0168,0.011,0.0278
 2025-11-01 03:50:49.251196,BKFC Fight Night: Michigan - Nathan Rivera vs Tommy Strydom - To Win the Bout,Tommy Strydom,-0.017299999999999982,0.2857,0.303
+2025-11-01 11:25:04.652318,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Antraveous Ingram,-0.017299999999999982,0.2857,0.303
 2025-11-01 09:29:20.988252,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Augsburg,-0.01759999999999995,0.6491,0.6667
 2025-11-01 09:29:21.175411,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Feyenoord,-0.017600000000000005,0.3333,0.3509
 2025-11-01 09:29:21.161219,Ligue 2 - France Ligue 2 2025/26 - Winner,Pau FC,-0.018099999999999998,0.0588,0.0769
@@ -102,9 +104,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 10:33:28.993851,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,-0.020100000000000007,0.2299,0.25
 2025-11-01 09:29:22.275040,Hong Kong Open - Hong Kong Open - Winner,Anirban Lahiri,-0.0204,0.0013,0.0217
 2025-11-01 06:39:33.238584,BKFC Fight Night: Michigan - Aj Craig vs Justin Street - To Win the Bout,Aj Craig,-0.02100000000000002,0.3636,0.3846
-2025-11-01 06:39:32.837858,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Troy,-0.022199999999999998,0.1111,0.1333
-2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Betis,-0.022199999999999998,0.2,0.2222
 2025-11-01 07:27:26.001197,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Ty Simpson (ALA),-0.022199999999999998,0.2,0.2222
+2025-11-01 09:29:20.974395,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Betis,-0.022199999999999998,0.2,0.2222
+2025-11-01 06:39:32.837858,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Troy,-0.022199999999999998,0.1111,0.1333
 2025-11-01 10:33:28.873191,FA Cup - England FA Cup 2025/26 - Winner,Arsenal,-0.023799999999999988,0.1429,0.1667
 2025-11-01 02:17:51.844198,Championship - England Championship 2025/26 - Winner 2025/26,Coventry City,-0.023800000000000043,0.5,0.5238
 2025-11-01 02:17:51.855309,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.02560000000000001,0.3077,0.3333
