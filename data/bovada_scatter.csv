@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-11-01 03:50:49.240584,BKFC Fight Night: Michigan - Erick Lozano vs Tylor Sijohn - To Win the Bout,Erick Lozano,0.0363,0.7333,0.697
-2025-11-01 02:17:53.028247,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,0.03489999999999999,0.5,0.4651
 2025-10-31 18:44:05.490369,Boxing Lines - Bradley Rea vs Lyndon Arthur - To Win the Bout,Lyndon Arthur,0.03489999999999999,0.5,0.4651
+2025-11-01 02:17:53.028247,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,0.03489999999999999,0.5,0.4651
 2025-11-01 03:50:49.237054,BKFC Fight Night: Michigan - David Sanchez vs Terryl Johnson - To Win the Bout,Terryl Johnson,0.03260000000000002,0.3774,0.3448
 2025-11-01 03:50:49.247677,BKFC Fight Night: Michigan - Mike Hernandez vs Antonio Castillo Jr - To Win the Bout,Antonio Castillo Jr,0.030299999999999994,0.3636,0.3333
 2025-10-31 17:32:49.991165,Boxing Lines - Joshua Buatsi vs Zach Parker - To Win the Bout,Joshua Buatsi,0.028800000000000048,0.875,0.8462
@@ -12,22 +12,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-10-31 18:44:05.485888,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.023800000000000043,0.5238,0.5
 2025-11-01 02:17:51.855309,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,0.02200000000000002,0.7143,0.6923
 2025-10-31 20:33:50.963250,"Daily Specials - NBA Daily Specials - Friday, October 31st",Any Team to Score 140+ Points,0.02169999999999994,0.5455,0.5238
-2025-10-31 19:24:49.732051,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Troy Jones,0.01970000000000005,0.5652,0.5455
 2025-10-31 22:33:07.438556,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Troy Jones,0.01970000000000005,0.5652,0.5455
+2025-10-31 19:24:49.732051,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Troy Jones,0.01970000000000005,0.5652,0.5455
 2025-10-31 20:33:51.506891,BKFC Fight Night: Michigan - Mike Hernandez vs Antonio Castillo Jr - To Win the Bout,Mike Hernandez,0.018999999999999906,0.7333,0.7143
 2025-11-01 02:17:51.844198,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,0.0179,0.1429,0.125
 2025-10-31 20:33:50.963250,"Daily Specials - NBA Daily Specials - Friday, October 31st",Any Team to Win by 40+ Points,0.0179,0.1429,0.125
 2025-10-31 20:33:51.396680,Boxing Lines - Bradley Rea vs Lyndon Arthur - To Win the Bout,Bradley Rea,0.017299999999999982,0.5917,0.5744
 2025-10-31 20:33:50.963250,"Daily Specials - NBA Daily Specials - Friday, October 31st",Each Team to Make 10+ Threes in Game,0.016700000000000007,0.1,0.0833
 2025-10-31 22:33:07.554190,BKFC Fight Night: Michigan - Esteban Rodriguez vs Zac Cavender - To Win the Bout,Zac Cavender,0.016000000000000014,0.4082,0.3922
-2025-10-31 20:33:51.514799,BKFC Fight Night: Michigan - Paris Boyd vs Ruben Arroyo - To Win the Bout,Paris Boyd,0.015800000000000036,0.7561,0.7403
 2025-10-31 20:33:51.526565,BKFC Fight Night: Michigan - Aubrey Mendonca vs Junior Hicks - To Win the Bout,Aubrey Mendonca,0.015800000000000036,0.7561,0.7403
+2025-10-31 20:33:51.514799,BKFC Fight Night: Michigan - Paris Boyd vs Ruben Arroyo - To Win the Bout,Paris Boyd,0.015800000000000036,0.7561,0.7403
 2025-10-31 18:44:05.623625,BKFC Fight Night: Michigan - Paris Boyd vs Ruben Arroyo - To Win the Bout,Ruben Arroyo,0.014900000000000024,0.3226,0.3077
 2025-11-01 02:17:52.910339,Boxing Lines - Yoelvis Gomez vs Antraveous Ingram - To Win the Bout,Yoelvis Gomez,0.014700000000000046,0.7647,0.75
+2025-11-01 04:34:30.610589,BKFC Fight Night: Michigan - Mike Hernandez vs Antonio Castillo Jr - To Win the Bout,Antonio Castillo Jr,0.013800000000000034,0.3774,0.3636
 2025-11-01 03:50:49.251196,BKFC Fight Night: Michigan - Nathan Rivera vs Tommy Strydom - To Win the Bout,Nathan Rivera,0.0131,0.7778,0.7647
 2025-10-31 20:33:51.491114,BKFC Fight Night: Michigan - Aj Craig vs Justin Street - To Win the Bout,Justin Street,0.012700000000000045,0.6491,0.6364
-2025-10-31 20:33:51.392793,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.012199999999999989,0.5122,0.5
 2025-10-31 23:28:26.685972,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.012199999999999989,0.5122,0.5
+2025-11-01 04:34:30.633936,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,0.012199999999999989,0.5,0.4878
+2025-10-31 20:33:51.392793,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.012199999999999989,0.5122,0.5
 2025-10-31 21:26:26.485332,Boxing Lines - Liam Cameron vs Troy Jones - To Win the Bout,Liam Cameron,0.011600000000000055,0.5238,0.5122
 2025-10-31 18:44:05.644835,BKFC Fight Night: Michigan - Eric Westbury vs Oleg Magkeev - To Win the Bout,Oleg Magkeev,0.011099999999999999,0.4762,0.4651
 2025-10-31 18:44:05.708527,Maybank Championship - Maybank Championship - Winner,Ruoning Yin,0.0102,0.0769,0.0667
