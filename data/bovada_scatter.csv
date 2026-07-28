@@ -1,0 +1,419 @@
+date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2026-10-17 11:36:41.077061,To Make the Playoffs - To Make the Playoffs 2026-27 - Florida to make the CFB Playoff,No,0.47409999999999997,0.9286,0.4545
+2026-10-17 11:36:41.070591,To Make the Playoffs - To Make the Playoffs 2026-27 - Alabama to make the CFB Playoff,Yes,0.3397,0.8519,0.5122
+2026-10-17 11:36:41.099241,To Make the Playoffs - To Make the Playoffs 2026-27 - Oregon to make the CFB Playoff,No,0.31310000000000004,0.9048,0.5917
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Georgia,0.2571,0.8571,0.6
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Jacksonville State,0.24309999999999998,0.6875,0.4444
+2026-10-17 11:36:41.085015,To Make the Playoffs - To Make the Playoffs 2026-27 - LSU to make the CFB Playoff,No,0.23439999999999994,0.7222,0.4878
+2026-10-17 11:36:41.110182,To Make the Playoffs - To Make the Playoffs 2026-27 - Utah to make the CFB Playoff,Yes,0.21750000000000003,0.4878,0.2703
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Retief Goosen,0.2,0.2667,0.0667
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye Jin Choi,0.19000000000000006,0.5348,0.3448
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Ohio,0.1814,0.4167,0.2353
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,0.16810000000000003,0.2857,0.1176
+2026-10-17 15:31:14.673093,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,North Dakota State,0.16040000000000004,0.4545,0.2941
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Amy Yang,0.1584,0.2353,0.0769
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Wake Forest,0.15309999999999999,0.3636,0.2105
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,James Madison,0.15150000000000008,0.8182,0.6667
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Bob Chesney,0.1401,0.2353,0.0952
+2026-10-17 11:36:41.096087,To Make the Playoffs - To Make the Playoffs 2026-27 - Oklahoma to make the CFB Playoff,Yes,0.13890000000000002,0.2222,0.0833
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,SMU,0.1343,0.3448,0.2105
+2026-10-17 11:36:41.107050,To Make the Playoffs - To Make the Playoffs 2026-27 - UCLA to make the CFB Playoff,Yes,0.13379999999999997,0.3077,0.1739
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Richard Green,0.13219999999999998,0.1667,0.0345
+2026-10-17 15:31:14.495917,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Oklahoma Margin of Victory,Mike Mazzei (R) 15-20%,0.1299,0.2899,0.16
+2026-10-17 11:36:41.081833,To Make the Playoffs - To Make the Playoffs 2026-27 - Indiana to make the CFB Playoff,Yes,0.12309999999999999,0.8667,0.7436
+2026-10-17 11:36:39.905467,Serie A - Italy Serie A 2026/27 - Top Goalscorer,Donyell Malen (ROM),0.12,0.5455,0.4255
+2026-10-17 11:36:41.075472,To Make the Playoffs - To Make the Playoffs 2026-27 - BYU to make the CFB Playoff,Yes,0.11420000000000002,0.3774,0.2632
+2026-10-17 11:36:41.105495,To Make the Playoffs - To Make the Playoffs 2026-27 - Texas to make the CFB Playoff,No,0.11249999999999999,0.303,0.1905
+2026-10-17 11:36:41.078661,To Make the Playoffs - To Make the Playoffs 2026-27 - Georgia to make the CFB Playoff,Yes,0.10940000000000005,0.9804,0.871
+2026-10-17 11:36:41.092947,To Make the Playoffs - To Make the Playoffs 2026-27 - Ohio State to make the CFB Playoff,Yes,0.10909999999999997,0.9091,0.8
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Louisiana Tech,0.10900000000000004,0.4167,0.3077
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Florida Atlantic,0.1,0.2667,0.1667
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Oregon State,0.09960000000000002,0.6552,0.5556
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Buffalo,0.0956,0.125,0.0294
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Oklahoma,0.0955,0.1481,0.0526
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,Air Force,0.09190000000000001,0.2,0.1081
+2026-10-17 11:36:41.102378,To Make the Playoffs - To Make the Playoffs 2026-27 - Tennessee to make the CFB Playoff,No,0.09030000000000005,0.8403,0.75
+2026-10-17 15:31:14.476848,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nebraska Governor Election Margin of Victory,Jim Pillen (R) 15-20%,0.09029999999999999,0.1429,0.0526
+2026-10-17 15:31:14.425898,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arkansas Margin of Victory,Sarah Huckabee Sanders (R) 20-25%,0.08989999999999998,0.2899,0.2
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,UCLA,0.0889,0.2222,0.1333
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,UNLV,0.08779999999999999,0.4878,0.4
+2026-10-17 15:31:14.622397,World Politics - 2026 Israeli Legislative Election  - Proposition,Likud,0.08410000000000001,0.4545,0.3704
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Padraig Harrington,0.0815,0.125,0.0435
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Indiana,0.08079999999999998,0.6364,0.5556
+2026-10-17 15:31:14.422657,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arizona Margin of Victory,Katie Hobbs (D) 0-3%,0.0807,0.1333,0.0526
+2026-10-17 11:36:39.905467,Serie A - Italy Serie A 2026/27 - Top Goalscorer,Antonio Raimondo (FRO),0.0774,0.125,0.0476
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,Jocelyn Benson (D) 3-6%,0.07719999999999999,0.2105,0.1333
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Hannah Pingree (D) 20-25%,0.07450000000000001,0.1333,0.0588
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,Florida Atlantic,0.07149999999999998,0.1667,0.0952
+2026-10-17 11:36:40.802979,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,New Mexico,0.0711,0.4878,0.4167
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Western Michigan,0.06989999999999996,0.6154,0.5455
+2026-10-17 11:36:41.103928,To Make the Playoffs - To Make the Playoffs 2026-27 - Texas Tech,No,0.06989999999999996,0.6154,0.5455
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Boise State,0.06879999999999997,0.9091,0.8403
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,David Crowley (D) 0-3%,0.06820000000000001,0.25,0.1818
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Tag Ridings,0.0655,0.1,0.0345
+2026-10-17 11:36:41.094522,To Make the Playoffs - To Make the Playoffs 2026-27 - Oklahoma State to make the CFB Playoff,Yes,0.0648,0.16,0.0952
+2026-10-17 15:31:14.489560,US Midterm Elections 2026 - 2026 Gubernatorial Elections - New York Margin of Victory,Kathy Hochul (D) 30-35%,0.0635,0.1111,0.0476
+2026-10-17 15:31:14.480029,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nevada Governor Election Margin of Victory,Joe Lombardo (R) 9-12%,0.0635,0.1111,0.0476
+2026-10-17 15:31:14.589049,Donald Trump Specials - Will Trump be impeached before his term ends? - Proposition,Yes,0.0626000000000001,0.7727,0.7101
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Liberty,0.06230000000000002,0.6078,0.5455
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Texas State,0.062200000000000005,0.2222,0.16
+2026-10-17 15:31:14.473651,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Minnesota Margin of Victory,Amy Klobuchar (DFL) 10-15%,0.06190000000000001,0.2817,0.2198
+2026-10-17 11:36:39.916041,Ligue 1 - France Ligue 1 2026/27 - To Be Relegated,Le Mans,0.06190000000000001,0.4255,0.3636
+2026-10-17 11:36:41.193949,Boxing Lines - Charles Harris Jr vs Misael Cabrera Urias - To Win the Bout,Misael Cabrera Urias,0.0595,0.4762,0.4167
+2026-10-17 11:36:41.197771,Boxing Lines - Justin Pauldo vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.057699999999999974,0.5455,0.4878
+2026-10-17 15:31:15.065219,BKFC 95: Herring vs. Dodson - Dalvin Blair vs Paris Boyd - To Win the Bout,Dalvin Blair,0.057699999999999974,0.75,0.6923
+2026-10-17 11:36:41.091373,To Make the Playoffs - To Make the Playoffs 2026-27 - Notre Dame to make the CFB Playoff,Yes,0.057499999999999996,0.995,0.9375
+2026-10-17 11:36:39.999675,Serie B - Italy Serie B 2026/27 - Winner,Modena,0.05710000000000001,0.2,0.1429
+2026-10-17 11:36:40.840804,NCAAF Awards - National Champion & Heisman Parlay - Nat Champ/Award Special,Ohio State & Jeremiah Smith,0.05679999999999999,0.1818,0.125
+2026-10-17 15:31:15.017256,Boxing Lines - Tony Curtis vs Kerim Agius - To Win the Bout,Kerim Agius,0.0567,0.2105,0.1538
+2026-10-17 11:36:40.788367,NCAAF Conferences - Big 12 Conference 2026-27 - Big 12 Conference Championship Winner,BYU,0.0562,0.2667,0.2105
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,North Texas,0.055900000000000005,0.3636,0.3077
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 30-35%,0.05550000000000002,0.2222,0.1667
+2026-10-17 15:31:14.671180,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Western Michigan,0.05520000000000003,0.4,0.3448
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Jerry Kelly,0.0548,0.0588,0.004
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Kirby Smart,0.0539,0.0833,0.0294
+2026-10-17 15:31:14.451303,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Illinois Margin of Victory,JB Pritzker (D) 15-20%,0.05299999999999999,0.303,0.25
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,David Crowley (D) 12%+,0.0529,0.1481,0.0952
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Missouri,0.052399999999999995,0.0909,0.0385
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Brasilia,0.052399999999999995,0.0909,0.0385
+2026-10-17 11:36:41.088205,To Make the Playoffs - To Make the Playoffs 2026-27 - Nebraska to make the CFB Playoff,Yes,0.051900000000000016,0.1695,0.1176
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 30-35%,0.05170000000000001,0.0952,0.0435
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 10-15%,0.049199999999999994,0.2597,0.2105
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Mississippi,0.0489,0.16,0.1111
+2026-10-17 15:31:14.480029,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nevada Governor Election Margin of Victory,Aaron Ford (D) 3-6%,0.0476,0.0952,0.0476
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Alex Cejka,0.047099999999999996,0.0667,0.0196
+2026-10-17 11:36:41.073834,To Make the Playoffs - To Make the Playoffs 2026-27 - Boise State to make the CFB Playoff,Yes,0.04630000000000001,0.4167,0.3704
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Kentucky,0.0461,0.0625,0.0164
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Houston,0.044899999999999995,0.1739,0.129
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Oklahoma State,0.044499999999999984,0.2667,0.2222
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Western Kentucky,0.04440000000000001,0.1111,0.0667
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Michael Block,0.044300000000000006,0.0476,0.0033
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,BYU,0.043399999999999994,0.4878,0.4444
+2026-10-17 11:36:41.086610,To Make the Playoffs - To Make the Playoffs 2026-27 - Miami FL to make the CFB Playoff,Yes,0.043300000000000005,0.9524,0.9091
+2026-10-17 11:36:39.906941,Serie A - Italy Serie A 2026/27 - To Be Relegated,Udinese,0.04269999999999999,0.1538,0.1111
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Georgia State,0.04240000000000001,0.1333,0.0909
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Wisconsin,0.04240000000000001,0.16,0.1176
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Bowling Green,0.04240000000000001,0.1333,0.0909
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,North Texas,0.04239999999999999,0.1905,0.1481
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,USC,0.04239999999999999,0.0769,0.0345
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Jacksonville State,0.0421,0.2326,0.1905
+2026-10-17 15:31:15.019157,Boxing Lines - Bakhodir Jalolov vs Solomon Dacres - To Win the Bout,Bakhodir Jalolov,0.038899999999999935,0.8571,0.8182
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Ben Crane,0.0385,0.0435,0.005
+2026-10-17 11:36:40.802979,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,Air Force,0.0384,0.0769,0.0385
+2026-10-17 11:36:41.111747,To Make the Playoffs - To Make the Playoffs 2026-27 - Wisconsin to make the CFB Playoff,Yes,0.03810000000000001,0.129,0.0909
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 25-30%,0.037500000000000006,0.1,0.0625
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,Jocelyn Benson (D) 6-9%,0.03749999999999998,0.2597,0.2222
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Flamengo,0.03710000000000002,0.3704,0.3333
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Rory Sabbatini,0.036199999999999996,0.0526,0.0164
+2026-10-17 15:31:15.034396,Boxing Lines - Brandon Figueroa vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.035900000000000015,0.274,0.2381
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Chad Campbell,0.035300000000000005,0.0476,0.0123
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Freddie Jacobson,0.03439999999999999,0.0667,0.0323
+2026-10-17 11:36:41.097666,To Make the Playoffs - To Make the Playoffs 2026-27 - Ole Miss to make the CFB Playoff,No,0.03259999999999996,0.6552,0.6226
+2026-10-17 11:36:41.083436,To Make the Playoffs - To Make the Playoffs 2026-27 - Iowa to make the CFB Playoff,Yes,0.031700000000000006,0.2222,0.1905
+2026-10-17 11:36:41.080253,To Make the Playoffs - To Make the Playoffs 2026-27 - Houston to make the CFB Playoff,Yes,0.03160000000000002,0.1695,0.1379
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,UTSA,0.031399999999999983,0.2667,0.2353
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,South Alabama,0.031399999999999983,0.2667,0.2353
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Soren Kjeldsen,0.031,0.0588,0.0278
+2026-10-17 15:31:14.502880,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Pennsylvania Margin of Victory,Josh Shapiro (D) 30%+,0.030799999999999994,0.3125,0.2817
+2026-10-17 15:31:14.448127,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Idaho Margin of Victory,Brad Little (R) 30-35%,0.030699999999999998,0.0833,0.0526
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Cameron Percy,0.0306,0.0385,0.0079
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Miami Ohio,0.0305,0.1905,0.16
+2026-10-17 15:31:14.425898,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arkansas Margin of Victory,Sarah Huckabee Sanders (R) 15-20%,0.030200000000000005,0.2899,0.2597
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Paul Goydos,0.029399999999999996,0.0435,0.0141
+2026-10-17 15:31:14.489560,US Midterm Elections 2026 - 2026 Gubernatorial Elections - New York Margin of Victory,Kathy Hochul (D) 25-30%,0.029299999999999993,0.0769,0.0476
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Louisville,0.029299999999999993,0.0769,0.0476
+2026-10-17 15:31:15.067272,BKFC 95: Herring vs. Dodson - Santo Curatolo vs Anthony Yost - To Win the Bout,Anthony Yost,0.028299999999999992,0.3509,0.3226
+2026-10-17 11:36:41.216882,Boxing Lines - Bakhodir Jalolov vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.02779999999999999,0.25,0.2222
+2026-10-17 11:36:41.187086,Double Chance - World Series 2026 Winner - Double Chance - Double Chance,Milwaukee Brewers or Tampa Bay Rays,0.026900000000000035,0.8095,0.7826
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Y E Yang,0.026799999999999997,0.0278,0.001
+2026-10-17 15:31:14.495917,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Oklahoma Margin of Victory,Mike Mazzei (R) 20-25%,0.024999999999999994,0.125,0.1
+2026-10-17 11:36:40.813919,NCAAF Conferences - Sun Belt Conference 2026-27 - Sun Belt Conference Championship Game Winner ,Georgia State,0.0245,0.0833,0.0588
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,South Florida,0.024299999999999995,0.0769,0.0526
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,UTSA,0.023799999999999988,0.5,0.4762
+2026-10-17 11:36:39.902720,Serie A - Italy Serie A 2026/27 - Winner,AS Roma,0.023799999999999988,0.1667,0.1429
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Navy,0.023200000000000002,0.0476,0.0244
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,Jocelyn Benson (D) 0-3%,0.0232,0.0667,0.0435
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Will Stein,0.0232,0.0667,0.0435
+2026-10-17 15:31:15.032473,Boxing Lines - Jose Armando Resendiz vs Koen Mazoudier - To Win the Bout,Jose Armando Resendiz,0.02310000000000001,0.9231,0.9
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Ernie Els,0.02310000000000001,0.1,0.0769
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Robert Karlsson,0.023100000000000002,0.0244,0.0013
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,K J Choi,0.023100000000000002,0.0244,0.0013
+2026-10-17 15:31:15.030577,Boxing Lines - Jaime Enrique Osuna Diaz vs Cristian Cangelosi - To Win the Bout,Cristian Cangelosi,0.022600000000000064,0.5348,0.5122
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Ricardo Gonzalez,0.022200000000000004,0.0345,0.0123
+2026-10-17 15:31:15.059561,BKFC 95: Herring vs. Dodson - Mike Medrano vs Rob Emerson - To Win the Bout,Rob Emerson,0.022199999999999998,0.6774,0.6552
+2026-10-17 15:31:14.476848,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nebraska Governor Election Margin of Victory,Jim Pillen (R) 5-10%,0.022199999999999998,0.3448,0.3226
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Darren Clarke,0.022099999999999998,0.0278,0.0057
+2026-10-17 11:36:39.927996,1. Bundesliga - Germany Bundesliga 2026/27 - To Be Relegated,FC Köln,0.021999999999999964,0.3077,0.2857
+2026-10-17 11:36:39.906941,Serie A - Italy Serie A 2026/27 - To Be Relegated,Genoa,0.021699999999999997,0.4762,0.4545
+2026-10-17 11:36:39.916041,Ligue 1 - France Ligue 1 2026/27 - To Be Relegated,Troyes,0.021699999999999997,0.4762,0.4545
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,David Crowley (D) 3-6%,0.020299999999999985,0.2703,0.25
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Liberty,0.020100000000000007,0.8462,0.8261
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,David Crowley (D) 9-12%,0.020100000000000007,0.1739,0.1538
+2026-10-17 11:36:40.799338,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Toledo,0.01999999999999999,0.2105,0.1905
+2026-10-17 11:36:40.018621,Professional League - Saudi Arabia Pro League 2026/27 - Winner,Al Qadisiyah,0.01820000000000002,0.2,0.1818
+2026-10-17 11:36:40.840804,NCAAF Awards - National Champion & Heisman Parlay - Nat Champ/Award Special,Notre Dame & CJ Carr,0.018200000000000004,0.0476,0.0294
+2026-10-17 11:36:40.792025,NCAAF Conferences - Big Ten Conference 2026-27 - Big Ten Conference Championship Game Winner,Ohio State,0.018100000000000005,0.5833,0.5652
+2026-10-17 11:36:41.199685,Boxing Lines - Joshua Kevin Anton vs Freudis Rojas - To Win the Bout,Joshua Kevin Anton,0.018100000000000005,0.9412,0.9231
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,North Carolina,0.018099999999999998,0.0526,0.0345
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Ryan Armour,0.018099999999999998,0.0769,0.0588
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,California,0.017800000000000003,0.0244,0.0066
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Ohio State,0.016700000000000048,0.75,0.7333
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,New Mexico,0.016700000000000048,0.75,0.7333
+2026-10-17 11:36:39.997481,Ligue 2 - France Ligue 2 2026/27 - Winner,Reims,0.015700000000000006,0.1333,0.1176
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Vaughn Taylor,0.0157,0.0435,0.0278
+2026-10-17 11:36:40.813919,NCAAF Conferences - Sun Belt Conference 2026-27 - Sun Belt Conference Championship Game Winner ,Appalachian State,0.015300000000000001,0.0588,0.0435
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Bernhard Langer,0.014900000000000004,0.0345,0.0196
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Tommy Gainey,0.0147,0.0152,0.0005
+2026-10-17 15:31:14.451303,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Illinois Margin of Victory,JB Pritzker (D) 30%+,0.01469999999999999,0.25,0.2353
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 35-40%,0.014399999999999996,0.0769,0.0625
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Bo Van Pelt,0.0142,0.0152,0.001
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,Tulane,0.014100000000000001,0.0526,0.0385
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,San Jose State,0.014099999999999994,0.0667,0.0526
+2026-10-17 15:31:14.448127,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Idaho Margin of Victory,Brad Little (R) 10-15%,0.014099999999999994,0.0667,0.0526
+2026-10-17 11:36:40.806628,NCAAF Conferences - PAC-12 Conference 2026-27 - PAC-12 Conference Championship Game Winner,Fresno State,0.013999999999999999,0.0909,0.0769
+2026-10-17 11:36:39.929345,1. Bundesliga - Germany Bundesliga 2026/27 - Top 4 Finish,Eintracht Frankfurt,0.013999999999999999,0.0909,0.0769
+2026-10-17 11:36:40.806628,NCAAF Conferences - PAC-12 Conference 2026-27 - PAC-12 Conference Championship Game Winner,Texas State,0.013999999999999999,0.0909,0.0769
+2026-10-17 11:36:41.100804,To Make the Playoffs - To Make the Playoffs 2026-27 - SMU to make the CFB Playoff,Yes,0.013899999999999996,0.125,0.1111
+2026-10-17 11:36:40.802979,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,UNLV,0.013899999999999996,0.1739,0.16
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Eastern Michigan,0.0131,0.2353,0.2222
+2026-10-17 11:36:40.799338,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Buffalo,0.0131,0.0476,0.0345
+2026-10-17 15:31:14.489560,US Midterm Elections 2026 - 2026 Gubernatorial Elections - New York Margin of Victory,Kathy Hochul (D) 15-20%,0.0131,0.303,0.2899
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Western Kentucky,0.0131,0.0476,0.0345
+2026-10-17 11:36:41.226504,Boxing Lines - Jose Armando Resendiz vs Koen Mazoudier - To Win the Bout,Koen Mazoudier,0.012899999999999995,0.1667,0.1538
+2026-10-17 11:36:41.239801,Boxing Lines - Rafael Espinoza vs Lorenzo Parra - To Win the Bout,Lorenzo Parra,0.012899999999999995,0.1667,0.1538
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,Navy,0.012800000000000002,0.0244,0.0116
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Arkansas State,0.012800000000000002,0.0345,0.0217
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Miami Florida,0.012300000000000089,0.9804,0.9681
+2026-10-17 15:31:15.055783,BKFC 95: Herring vs. Dodson - Noah Getahoun vs Dustin Bailey - To Win the Bout,Noah Getahoun,0.012199999999999989,0.5122,0.5
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Ryan Palmer,0.0119,0.0152,0.0033
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,David Duval,0.0119,0.0152,0.0033
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Army,0.011899999999999994,0.16,0.1481
+2026-10-17 11:36:40.840804,NCAAF Awards - National Champion & Heisman Parlay - Nat Champ/Award Special,Georgia & Gunner Stockton,0.0118,0.0217,0.0099
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Brandt Jobe,0.0118,0.0123,0.0005
+2026-10-17 11:36:39.893598,La Liga - Spain La Liga 2026/27 - Winner,Real Madrid,0.011700000000000016,0.2222,0.2105
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Utah,0.0116,0.4878,0.4762
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Hannah Pingree (D) 10-15%,0.01150000000000001,0.3448,0.3333
+2026-10-17 15:31:14.489560,US Midterm Elections 2026 - 2026 Gubernatorial Elections - New York Margin of Victory,Kathy Hochul (D) 35%+,0.011199999999999995,0.0588,0.0476
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,John James (R) 0-3%,0.011199999999999995,0.0588,0.0476
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 0-5%,0.011199999999999995,0.0588,0.0476
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 5-10%,0.011199999999999995,0.0588,0.0476
+2026-10-17 15:31:14.425898,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arkansas Margin of Victory,Sarah Huckabee Sanders (R) 0-5%,0.011199999999999995,0.0588,0.0476
+2026-10-17 11:36:40.799338,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Bowling Green,0.011199999999999995,0.0588,0.0476
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Bobby Charles (R) 5%+,0.011199999999999995,0.0588,0.0476
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Iowa,0.011099999999999999,0.1111,0.1
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Bobby Charles (R) 0-5%,0.011099999999999999,0.1111,0.1
+2026-10-17 15:31:15.057669,BKFC 95: Herring vs. Dodson - Phil Caracappa vs Cole Cameron - To Win the Bout,Phil Caracappa,0.01090000000000002,0.8571,0.8462
+2026-10-17 11:36:39.908282,Serie A - Italy Serie A 2026/27 - To Finish Bottom,Parma,0.010899999999999993,0.1538,0.1429
+2026-10-17 11:36:41.205429,Boxing Lines - Tony Curtis vs Kerim Agius - To Win the Bout,Kerim Agius,0.010899999999999993,0.1538,0.1429
+2026-10-17 11:36:39.908282,Serie A - Italy Serie A 2026/27 - To Finish Bottom,Genoa,0.010899999999999993,0.1538,0.1429
+2026-10-17 11:36:41.214966,Boxing Lines - Louie Odoherty vs Michael Gomez Jr - To Win the Bout,Louie Odoherty,0.010700000000000043,0.6774,0.6667
+2026-10-17 11:36:40.756116,National Championship - National Championship 2026-27 - National Championship Game Winner 2026-27,Ohio State,0.010499999999999982,0.2105,0.2
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 20-25%,0.010499999999999982,0.2105,0.2
+2026-10-17 15:31:14.696206,NCAAF Awards - Heisman Trophy Winner 2026-27 - Heisman Trophy Winner 2026-27,Gunner Stockton (UGA),0.0102,0.0769,0.0667
+2026-10-17 11:36:40.813919,NCAAF Conferences - Sun Belt Conference 2026-27 - Sun Belt Conference Championship Game Winner ,South Alabama,0.0102,0.0769,0.0667
+2026-10-17 11:36:39.902720,Serie A - Italy Serie A 2026/27 - Winner,Juventus,0.0102,0.0769,0.0667
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Arizona,0.0102,0.0769,0.0667
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Jason Caron,0.0102,0.0152,0.005
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Michael Wright,0.010100000000000001,0.0345,0.0244
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Michael Wright,-0.010100000000000001,0.0244,0.0345
+2026-10-17 11:36:40.836589,NCAAF Awards - Heisman Trophy Winner 2026-27 - Heisman Trophy Winner 2026-27,Gunner Stockton (UGA),-0.0102,0.0667,0.0769
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Rice,-0.0102,0.005,0.0152
+2026-10-17 11:36:39.906941,Serie A - Italy Serie A 2026/27 - To Be Relegated,Sassuolo,-0.0102,0.0667,0.0769
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Kansas,-0.0102,0.005,0.0152
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Jason Caron,-0.0102,0.005,0.0152
+2026-10-17 15:31:14.448127,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Idaho Margin of Victory,Brad Little (R) 15-20%,-0.010499999999999982,0.2,0.2105
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Minas,-0.010899999999999993,0.1429,0.1538
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 25-30%,-0.010899999999999993,0.1429,0.1538
+2026-10-17 15:31:15.063336,BKFC 95: Herring vs. Dodson - Gabrielle Roman vs Brooke Evans - To Win the Bout,Gabrielle Roman,-0.011099999999999999,0.4651,0.4762
+2026-10-17 11:36:41.195861,Boxing Lines - Bryan Acosta vs Carlos Arteaga Orona - To Win the Bout,Bryan Acosta (NSH),-0.011099999999999999,0.8889,0.9
+2026-10-17 11:36:41.100804,To Make the Playoffs - To Make the Playoffs 2026-27 - SMU to make the CFB Playoff,No,-0.011199999999999988,0.9412,0.9524
+2026-10-17 15:31:14.671180,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Bowling Green,-0.011199999999999995,0.0476,0.0588
+2026-10-17 11:36:40.792025,NCAAF Conferences - Big Ten Conference 2026-27 - Big Ten Conference Championship Game Winner,Oregon,-0.011199999999999995,0.0476,0.0588
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Coastal Carolina,-0.0113,0.0066,0.0179
+2026-10-17 15:31:15.057669,BKFC 95: Herring vs. Dodson - Phil Caracappa vs Cole Cameron - To Win the Bout,Cole Cameron,-0.011700000000000016,0.2105,0.2222
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Brandt Jobe,-0.0118,0.0005,0.0123
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,David Duval,-0.0119,0.0033,0.0152
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Ryan Palmer,-0.0119,0.0033,0.0152
+2026-10-17 15:31:15.047789,Boxing Lines - Rafael Espinoza vs Lorenzo Parra - To Win the Bout,Lorenzo Parra,-0.012899999999999995,0.1538,0.1667
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Billy Napier,-0.012999999999999998,0.0164,0.0294
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,Northern Illinois,-0.013,0.0066,0.0196
+2026-10-17 11:36:39.926500,1. Bundesliga - Germany Bundesliga 2026/27 - Top Goalscorer,Jonathan Burkardt (EFR),-0.0131,0.0345,0.0476
+2026-10-17 15:31:14.671180,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Buffalo,-0.0131,0.0345,0.0476
+2026-10-17 15:31:14.495917,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Oklahoma Margin of Victory,Mike Mazzei (R) 10-15%,-0.01319999999999999,0.25,0.2632
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Dan Lanning,-0.0138,0.0079,0.0217
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Pat Narduzzi,-0.0138,0.0079,0.0217
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 20-25%,-0.013899999999999996,0.16,0.1739
+2026-10-17 15:31:14.673093,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,UNLV,-0.013899999999999996,0.16,0.1739
+2026-10-17 11:36:39.906941,Serie A - Italy Serie A 2026/27 - To Be Relegated,Torino,-0.013999999999999999,0.0769,0.0909
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Virginia,-0.014099999999999994,0.0526,0.0667
+2026-10-17 11:36:39.905467,Serie A - Italy Serie A 2026/27 - Top Goalscorer,Marcus Thuram (INT),-0.014099999999999994,0.0526,0.0667
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Bo Van Pelt,-0.0142,0.001,0.0152
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Marshall,-0.014599999999999998,0.005,0.0196
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Tommy Gainey,-0.0147,0.0005,0.0152
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Pinheiros,-0.014899999999999997,0.0476,0.0625
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Bernhard Langer,-0.014900000000000004,0.0196,0.0345
+2026-10-17 11:36:39.899247,La Liga - Spain La Liga 2026/27 - To Be Relegated,Levante,-0.014900000000000024,0.3077,0.3226
+2026-10-17 11:36:39.908282,Serie A - Italy Serie A 2026/27 - To Finish Bottom,Lecce,-0.015100000000000002,0.1667,0.1818
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Franca,-0.015100000000000002,0.1667,0.1818
+2026-10-17 11:36:39.916041,Ligue 1 - France Ligue 1 2026/27 - To Be Relegated,AJ Auxerre,-0.015400000000000025,0.3846,0.4
+2026-10-17 11:36:41.214966,Boxing Lines - Louie Odoherty vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.015400000000000025,0.3846,0.4
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Vaughn Taylor,-0.0157,0.0278,0.0435
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Arizona State,-0.0157,0.0278,0.0435
+2026-10-17 11:36:41.199685,Boxing Lines - Joshua Kevin Anton vs Freudis Rojas - To Win the Bout,Freudis Rojas,-0.015700000000000006,0.1176,0.1333
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Tim Polasek,-0.0159,0.0164,0.0323
+2026-10-17 11:36:40.788367,NCAAF Conferences - Big 12 Conference 2026-27 - Big 12 Conference Championship Winner,Texas Tech,-0.016699999999999993,0.25,0.2667
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,Tom Tiffany (R) 0-3%,-0.017100000000000004,0.1429,0.16
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Ryan Armour,-0.018099999999999998,0.0588,0.0769
+2026-10-17 11:36:39.896330,La Liga - Spain La Liga 2026/27 - Most Assists,Vinícius Júnior (RMA).,-0.018200000000000004,0.0294,0.0476
+2026-10-17 06:55:09.313231,NBB - NBB 2026/27 - Outright,Corinthians,-0.018200000000000004,0.0294,0.0476
+2026-10-17 11:36:39.997481,Ligue 2 - France Ligue 2 2026/27 - Winner,Saint-Étienne,-0.018999999999999906,0.7143,0.7333
+2026-10-17 11:36:40.788367,NCAAF Conferences - Big 12 Conference 2026-27 - Big 12 Conference Championship Winner,Utah,-0.019000000000000017,0.2667,0.2857
+2026-10-17 11:36:39.905467,Serie A - Italy Serie A 2026/27 - Top Goalscorer,Gonçalo Ramos (ACM),-0.019099999999999992,0.0476,0.0667
+2026-10-17 11:36:39.902720,Serie A - Italy Serie A 2026/27 - Winner,Napoli,-0.019099999999999992,0.0476,0.0667
+2026-10-17 11:36:39.997481,Ligue 2 - France Ligue 2 2026/27 - Winner,Metz,-0.019099999999999992,0.0476,0.0667
+2026-10-17 15:31:14.671180,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Toledo,-0.01999999999999999,0.1905,0.2105
+2026-10-17 15:31:14.476848,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nebraska Governor Election Margin of Victory,Jim Pillen (R) 0-5%,-0.01999999999999999,0.1905,0.2105
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 15-20%,-0.01999999999999999,0.1905,0.2105
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Utah State,-0.02020000000000001,0.0909,0.1111
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,David Braun,-0.0203,0.0385,0.0588
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Lane Kiffin,-0.0206,0.0179,0.0385
+2026-10-17 15:31:15.030577,Boxing Lines - Jaime Enrique Osuna Diaz vs Cristian Cangelosi - To Win the Bout,Jaime Enrique Osuna Diaz,-0.02079999999999993,0.5348,0.5556
+2026-10-17 15:31:14.451303,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Illinois Margin of Victory,JB Pritzker (D) 20-25%,-0.020799999999999985,0.3125,0.3333
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Darren Clarke,-0.022099999999999998,0.0057,0.0278
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Hannah Pingree (D) 5-10%,-0.022199999999999998,0.2,0.2222
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Ricardo Gonzalez,-0.022200000000000004,0.0123,0.0345
+2026-10-17 15:31:14.476848,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nebraska Governor Election Margin of Victory,Jim Pillen (R) 10-15%,-0.02260000000000001,0.2899,0.3125
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Sam Houston State,-0.0228,0.0066,0.0294
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Colorado State,-0.022900000000000004,0.0116,0.0345
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Robert Karlsson,-0.023100000000000002,0.0013,0.0244
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,K J Choi,-0.023100000000000002,0.0013,0.0244
+2026-10-17 15:31:14.451303,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Illinois Margin of Victory,JB Pritzker (D) 10-15%,-0.02310000000000001,0.0769,0.1
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Ernie Els,-0.02310000000000001,0.0769,0.1
+2026-10-17 11:36:39.908282,Serie A - Italy Serie A 2026/27 - To Finish Bottom,Frosinone,-0.023200000000000002,0.0244,0.0476
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Kennesaw State,-0.023200000000000002,0.0244,0.0476
+2026-10-17 15:31:15.059561,BKFC 95: Herring vs. Dodson - Mike Medrano vs Rob Emerson - To Win the Bout,Mike Medrano,-0.02360000000000001,0.3846,0.4082
+2026-10-17 11:36:39.999675,Serie B - Italy Serie B 2026/27 - Winner,Cremonese,-0.024299999999999995,0.0526,0.0769
+2026-10-17 15:31:14.425898,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arkansas Margin of Victory,Sarah Huckabee Sanders (R) 25-30%,-0.0245,0.0588,0.0833
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Kent State,-0.0253,0.0132,0.0385
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Minnesota,-0.025900000000000003,0.0217,0.0476
+2026-10-17 15:31:15.067272,BKFC 95: Herring vs. Dodson - Santo Curatolo vs Anthony Yost - To Win the Bout,Santo Curatolo,-0.025999999999999912,0.7143,0.7403
+2026-10-17 11:36:41.072231,To Make the Playoffs - To Make the Playoffs 2026-27 - Auburn to make the CFB Playoff,Yes,-0.026499999999999996,0.0323,0.0588
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Mario Cristobal,-0.0267,0.1333,0.16
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Y E Yang,-0.026799999999999997,0.001,0.0278
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Central Florida,-0.0269,0.0116,0.0385
+2026-10-17 15:31:15.006576,Double Chance - World Series 2026 Winner - Double Chance - Double Chance,Milwaukee Brewers or Tampa Bay Rays,-0.026900000000000035,0.7826,0.8095
+2026-10-17 11:36:39.999675,Serie B - Italy Serie B 2026/27 - Winner,Palermo,-0.027700000000000058,0.5556,0.5833
+2026-10-17 11:36:39.916041,Ligue 1 - France Ligue 1 2026/27 - To Be Relegated,Toulouse,-0.027800000000000005,0.0833,0.1111
+2026-10-17 11:36:41.216882,Boxing Lines - Bakhodir Jalolov vs Solomon Dacres - To Win the Bout,Bakhodir Jalolov,-0.027999999999999914,0.8182,0.8462
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Paul Goydos,-0.029399999999999996,0.0141,0.0435
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Carlota Ciganda,-0.029700000000000004,0.0179,0.0476
+2026-10-17 11:36:39.894915,La Liga - Spain La Liga 2026/27 - Winner without FC Barcelona & Real Madrid,Atlético Madrid,-0.029799999999999938,0.6369,0.6667
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Cameron Percy,-0.0306,0.0079,0.0385
+2026-10-17 11:36:40.792025,NCAAF Conferences - Big Ten Conference 2026-27 - Big Ten Conference Championship Game Winner,UCLA,-0.030699999999999998,0.0526,0.0833
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 15-20%,-0.030799999999999994,0.2817,0.3125
+2026-10-17 11:36:41.080253,To Make the Playoffs - To Make the Playoffs 2026-27 - Houston to make the CFB Playoff,No,-0.030899999999999928,0.8977,0.9286
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Soren Kjeldsen,-0.031,0.0278,0.0588
+2026-10-17 11:36:41.083436,To Make the Playoffs - To Make the Playoffs 2026-27 - Iowa to make the CFB Playoff,No,-0.03260000000000007,0.8462,0.8788
+2026-10-17 15:31:15.032473,Boxing Lines - Jose Armando Resendiz vs Koen Mazoudier - To Win the Bout,Koen Mazoudier,-0.033399999999999985,0.1333,0.1667
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Baylor,-0.03369999999999998,0.1481,0.1818
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Freddie Jacobson,-0.03439999999999999,0.0323,0.0667
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Delaware,-0.0344,0.0244,0.0588
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Chad Campbell,-0.035300000000000005,0.0123,0.0476
+2026-10-17 15:31:15.034396,Boxing Lines - Brandon Figueroa vs Tomoki Kameda - To Win the Bout,Brandon Figueroa,-0.03539999999999999,0.7937,0.8291
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Rory Sabbatini,-0.036199999999999996,0.0164,0.0526
+2026-10-17 11:36:41.097666,To Make the Playoffs - To Make the Playoffs 2026-27 - Ole Miss to make the CFB Playoff,Yes,-0.03620000000000001,0.4082,0.4444
+2026-10-17 11:36:40.813919,NCAAF Conferences - Sun Belt Conference 2026-27 - Sun Belt Conference Championship Game Winner ,James Madison,-0.03639999999999999,0.6,0.6364
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Tulsa,-0.037500000000000006,0.0625,0.1
+2026-10-17 15:31:14.480029,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Nevada Governor Election Margin of Victory,Aaron Ford (D) 9-12%,-0.038299999999999994,0.0526,0.0909
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Nebraska,-0.038299999999999994,0.0526,0.0909
+2026-10-17 15:31:14.673093,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,Air Force,-0.0384,0.0385,0.0769
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Ben Crane,-0.0385,0.005,0.0435
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,Jocelyn Benson (D) 12-15%,-0.03889999999999999,0.1429,0.1818
+2026-10-17 15:31:15.019157,Boxing Lines - Bakhodir Jalolov vs Solomon Dacres - To Win the Bout,Solomon Dacres,-0.03950000000000001,0.2105,0.25
+2026-10-17 15:31:14.502880,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Pennsylvania Margin of Victory,Josh Shapiro (D) 20-25%,-0.03950000000000001,0.2105,0.25
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,NC State,-0.0397,0.0079,0.0476
+2026-10-17 15:31:14.502880,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Pennsylvania Margin of Victory,Josh Shapiro (D) 15-20%,-0.04000000000000001,0.16,0.2
+2026-10-17 11:36:39.906941,Serie A - Italy Serie A 2026/27 - To Be Relegated,Frosinone,-0.04169999999999999,0.125,0.1667
+2026-10-17 15:31:14.451303,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Illinois Margin of Victory,JB Pritzker (D) 25-30%,-0.0417,0.0833,0.125
+2026-10-17 15:31:14.525190,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Wisconsin Margin of Victory,Tom Tiffany (R) 3-6%,-0.04240000000000001,0.0909,0.1333
+2026-10-17 11:36:41.086610,To Make the Playoffs - To Make the Playoffs 2026-27 - Miami FL to make the CFB Playoff,No,-0.04269999999999999,0.1111,0.1538
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Michael Block,-0.044300000000000006,0.0033,0.0476
+2026-10-17 11:36:39.925132,1. Bundesliga - Germany Bundesliga 2026/27 - Winner without Bayern Munich,Borussia Dortmund,-0.045499999999999985,0.4545,0.5
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Alex Cejka,-0.047099999999999996,0.0196,0.0667
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Jon Sumrall,-0.0473,0.0152,0.0625
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Kennesaw State,-0.0474,0.0435,0.0909
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,East Carolina,-0.0474,0.0435,0.0909
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Massachusetts,-0.047799999999999995,0.011,0.0588
+2026-10-17 11:36:41.073834,To Make the Playoffs - To Make the Playoffs 2026-27 - Boise State to make the CFB Playoff,No,-0.04789999999999994,0.6491,0.697
+2026-10-17 15:31:14.495917,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Oklahoma Margin of Victory,Mike Mazzei (R) 0-5%,-0.0489,0.1111,0.16
+2026-10-17 11:36:41.197771,Boxing Lines - Justin Pauldo vs Rene Tellez Giron - To Win the Bout,Justin Pauldo,-0.05059999999999998,0.5238,0.5744
+2026-10-17 11:36:40.795686,NCAAF Conferences - Conference USA 2026-27 - Conference USA Championship Game Winner,Florida International,-0.052000000000000005,0.0909,0.1429
+2026-10-17 15:31:15.017256,Boxing Lines - Tony Curtis vs Kerim Agius - To Win the Bout,Tony Curtis,-0.052000000000000046,0.8571,0.9091
+2026-10-17 11:36:41.088205,To Make the Playoffs - To Make the Playoffs 2026-27 - Nebraska to make the CFB Playoff,No,-0.0522999999999999,0.8977,0.95
+2026-10-17 15:31:14.522003,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Vermont Margin of Victory,Phil Scott (R)  0-5%,-0.052800000000000014,0.2597,0.3125
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Jerry Kelly,-0.0548,0.004,0.0588
+2026-10-17 11:36:40.799338,NCAAF Conferences - Mid-American Conference 2026-27 - MAC Championship Game Winner ,Western Michigan,-0.05520000000000003,0.3448,0.4
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Rio Takeda,-0.0555,0.0278,0.0833
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Kalen DeBoer,-0.05670000000000001,0.0385,0.0952
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,East Carolina,-0.057200000000000015,0.0909,0.1481
+2026-10-17 11:36:41.193949,Boxing Lines - Charles Harris Jr vs Misael Cabrera Urias - To Win the Bout,Charles Harris Jr,-0.05740000000000001,0.5917,0.6491
+2026-10-17 15:31:15.065219,BKFC 95: Herring vs. Dodson - Dalvin Blair vs Paris Boyd - To Win the Bout,Paris Boyd,-0.05790000000000001,0.3125,0.3704
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Texas Tech,-0.05860000000000004,0.4762,0.5348
+2026-10-17 15:31:14.460883,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Maine Governor Election Margin of Victory,Hannah Pingree (D) 15-20%,-0.0625,0.25,0.3125
+2026-10-17 15:31:14.506046,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Rhode Island Margin of Victory,Helena Foulkes (D) 35%+,-0.0625,0.0625,0.125
+2026-10-17 15:31:14.589049,Donald Trump Specials - Will Trump be impeached before his term ends? - Proposition,No,-0.063,0.2941,0.3571
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Florida,-0.06309999999999999,0.0278,0.0909
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,San Diego State,-0.0635,0.0476,0.1111
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Tag Ridings,-0.0655,0.0345,0.1
+2026-10-17 11:36:41.094522,To Make the Playoffs - To Make the Playoffs 2026-27 - Oklahoma State to make the CFB Playoff,No,-0.06609999999999994,0.9048,0.9709
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Delaware,-0.06620000000000001,0.0588,0.125
+2026-10-17 11:36:41.103928,To Make the Playoffs - To Make the Playoffs 2026-27 - Texas Tech,Yes,-0.06930000000000003,0.4545,0.5238
+2026-10-17 11:36:40.838733,NCAAF Awards - Bear Bryant Award Winner - Bear Bryant Award Winner,Steve Sarkisian,-0.0708,0.0345,0.1053
+2026-10-17 15:31:14.673093,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,New Mexico,-0.0711,0.4167,0.4878
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Virginia Tech,-0.0713,0.0196,0.0909
+2026-10-17 11:36:41.091373,To Make the Playoffs - To Make the Playoffs 2026-27 - Notre Dame to make the CFB Playoff,No,-0.0764,0.0526,0.129
+2026-10-17 11:36:40.790111,NCAAF Conferences - Big 12 Conference 2026-27 - To Make Big 12 Championship Game,Kansas State,-0.0767,0.0066,0.0833
+2026-10-17 15:31:14.470470,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Michigan Margin of Victory,Jocelyn Benson (D) 9-12%,-0.0779,0.1818,0.2597
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Sam Houston State,-0.07830000000000001,0.0217,0.1
+2026-10-17 15:31:14.622397,World Politics - 2026 Israeli Legislative Election  - Proposition,Yashar,-0.07889999999999997,0.6226,0.7015
+2026-10-17 15:31:15.084366,SAS Championship - SAS Championship - Winner,Padraig Harrington,-0.0815,0.0435,0.125
+2026-10-17 11:36:41.102378,To Make the Playoffs - To Make the Playoffs 2026-27 - Tennessee to make the CFB Playoff,Yes,-0.0852,0.2273,0.3125
+2026-10-17 15:31:14.515602,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Tennessee Margin of Victory,Marsha Blackburn (R) 5-10%,-0.08549999999999999,0.125,0.2105
+2026-10-17 11:36:39.905467,Serie A - Italy Serie A 2026/27 - Top Goalscorer,Lautaro Martinez (INT),-0.0857,0.2,0.2857
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Grace Kim,-0.08889999999999999,0.002,0.0909
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Appalachian State,-0.0906,0.0833,0.1739
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,Georgia Southern,-0.0988,0.0345,0.1333
+2026-10-17 11:36:40.801076,NCAAF Conferences - Mid-American Conference 2026-27 - To Make MAC Championship Game,Central Michigan,-0.1,0.1,0.2
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Duke,-0.10419999999999999,0.0625,0.1667
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,LSU,-0.1072,0.0667,0.1739
+2026-10-17 11:36:41.105495,To Make the Playoffs - To Make the Playoffs 2026-27 - Texas to make the CFB Playoff,Yes,-0.11029999999999995,0.7647,0.875
+2026-10-17 11:36:41.092947,To Make the Playoffs - To Make the Playoffs 2026-27 - Ohio State to make the CFB Playoff,No,-0.1129,0.1538,0.2667
+2026-10-17 11:36:41.075472,To Make the Playoffs - To Make the Playoffs 2026-27 - BYU to make the CFB Playoff,No,-0.11639999999999995,0.6875,0.8039
+2026-10-17 11:36:41.078661,To Make the Playoffs - To Make the Playoffs 2026-27 - Georgia to make the CFB Playoff,No,-0.11670000000000001,0.0833,0.2
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Alabama,-0.11810000000000004,0.4167,0.5348
+2026-10-17 11:36:41.081833,To Make the Playoffs - To Make the Playoffs 2026-27 - Indiana to make the CFB Playoff,No,-0.12259999999999999,0.2,0.3226
+2026-10-17 15:31:14.473651,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Minnesota Margin of Victory,Amy Klobuchar (DFL) 20-25%,-0.12310000000000001,0.0769,0.2
+2026-10-17 11:36:40.808369,NCAAF Conferences - PAC-12 Conference 2026-27 - To Make PAC-12 Championship Game,Fresno State,-0.12829999999999997,0.2353,0.3636
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Richard Green,-0.13219999999999998,0.0345,0.1667
+2026-10-17 15:31:14.448127,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Idaho Margin of Victory,Brad Little (R) 25-30%,-0.13329999999999997,0.2,0.3333
+2026-10-17 11:36:41.096087,To Make the Playoffs - To Make the Playoffs 2026-27 - Oklahoma to make the CFB Playoff,No,-0.1342000000000001,0.8462,0.9804
+2026-10-17 11:36:41.107050,To Make the Playoffs - To Make the Playoffs 2026-27 - UCLA to make the CFB Playoff,No,-0.13870000000000005,0.7561,0.8948
+2026-10-17 11:36:40.784715,NCAAF Conferences - American Conference 2026-27 - American Conference Championship Game Winner,Memphis,-0.139,0.2,0.339
+2026-10-17 15:31:14.502880,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Pennsylvania Margin of Victory,Josh Shapiro (D) 25-30%,-0.14279999999999998,0.1905,0.3333
+2026-10-17 11:36:40.797434,NCAAF Conferences - Conference USA 2026-27 - To Make CUSA Championship Game,Florida International,-0.14279999999999998,0.1905,0.3333
+2026-10-17 11:36:40.782807,NCAAF Conferences - ACC Conference 2026-27 - To Make ACC Championship Game,Pittsburgh,-0.1429,0.0476,0.1905
+2026-10-17 15:31:14.448127,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Idaho Margin of Victory,Brad Little (R) 20-25%,-0.1525,0.16,0.3125
+2026-10-17 11:36:40.802979,NCAAF Conferences - Mountain West Conference 2026-27 - MWC Championship Game Winner,North Dakota State,-0.16040000000000004,0.2941,0.4545
+2026-10-17 11:36:40.815680,NCAAF Conferences - Sun Belt Conference 2026-27 - To Make Sun Belt Championship Game,UL Lafayette,-0.16659999999999997,0.1905,0.3571
+2026-10-17 11:36:40.786461,NCAAF Conferences - American Conference 2026-27 - To Make AmC Championship Game,Memphis,-0.17099999999999999,0.3846,0.5556
+2026-10-17 11:36:40.804731,NCAAF Conferences - Mountain West Conference 2026-27 - To Make MWC Championship Game,North Dakota State,-0.17410000000000003,0.6154,0.7895
+2026-10-17 15:31:15.081643,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jeeno Thitikul,-0.196,0.004,0.2
+2026-10-17 15:31:14.425898,US Midterm Elections 2026 - 2026 Gubernatorial Elections - Arkansas Margin of Victory,Sarah Huckabee Sanders (R) 5-10%,-0.1965,0.0667,0.2632
+2026-10-17 11:36:41.282503,SAS Championship - SAS Championship - Winner,Retief Goosen,-0.2,0.0667,0.2667
+2026-10-17 11:36:41.110182,To Make the Playoffs - To Make the Playoffs 2026-27 - Utah to make the CFB Playoff,No,-0.22150000000000003,0.5744,0.7959
+2026-10-17 11:36:41.085015,To Make the Playoffs - To Make the Playoffs 2026-27 - LSU to make the CFB Playoff,Yes,-0.22960000000000003,0.3448,0.5744
+2026-10-17 11:36:40.812004,NCAAF Conferences - SEC Conference 2026-27 - To Make SEC Championship Game,Texas,-0.25710000000000005,0.2667,0.5238
+2026-10-17 11:36:40.793777,NCAAF Conferences - Big Ten Conference 2026-27 - To Make Big Ten Championship Game,Oregon,-0.29190000000000005,0.1081,0.4
+2026-10-17 11:36:41.099241,To Make the Playoffs - To Make the Playoffs 2026-27 - Oregon to make the CFB Playoff,Yes,-0.31620000000000004,0.16,0.4762
+2026-10-17 11:36:41.070591,To Make the Playoffs - To Make the Playoffs 2026-27 - Alabama to make the CFB Playoff,No,-0.33819999999999995,0.2174,0.5556
+2026-10-17 11:36:41.077061,To Make the Playoffs - To Make the Playoffs 2026-27 - Florida to make the CFB Playoff,Yes,-0.4774999999999999,0.1379,0.6154
